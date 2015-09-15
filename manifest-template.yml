@@ -1,0 +1,12 @@
+applications:
+- disk_quota: 1024M
+  host: ownpt2
+  name: ownpt2
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 256M
+  services:
+  - openWordnet-PT-cloudantNoSQLDB
+  env:
+    API_KEY: <api-key>

@@ -1,0 +1,21 @@
+{
+	"name": "WordNetEditorApi",
+	"version": "0.0.1",
+	"description": "API for manipulating the WordNet database",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+	  "express": "3.4.7",
+	  "jade": "1.1.4",
+	  "async": "*",
+          "node-uuid": "*",
+	  "solr-client": "*",
+	  "errorhandler": "*",
+          "underscore": "*"
+	},
+	"engines": {
+		"node": "0.10.*"
+	},
+	"repository": {}
+}

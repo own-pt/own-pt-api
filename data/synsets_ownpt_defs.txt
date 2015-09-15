@@ -1,0 +1,1445 @@
+01385255-a : [muitogrande;imenso;tremendo;vasto;enorme;] : vasto, enorme, muito grande. 
+00013887-a : [bastante;lauto;abundante;copioso;farto;basto;] : abundante, em grande quantidade. 
+00988232-a : [esbelto;tênue;magro;] : alto e magro, fino, de poucas carnes. 
+01580050-a : [necessário;essencial;] : aquilo que é essencial ou indispensável. 
+02507772-a : [diverso;] : que oferece vários aspectos. 
+00797299-a : [bêbado;bêbedo;bêbada;ébrio;embriagado;] : embriagado, bêbado, alccolizado, sob efeito do álcool. 
+01345307-a : [fastidioso;maçante;chato;entediante;tedioso;cansativo;aborrecido;enfadonho;] : que causa enfado, importuno, maçante, chato, monótono, cansativo. 
+00217728-a : [bela;belo;formoso;bonito;bonita;lindo;] : bonito, belo, que tem beleza. 
+01131043-a : [mau;ruim;má;malvado;maléfica;maléfico;] : que não é de boa qualidade, ruim. 
+15273406-n : [eternidade;] : nome que denota unidade de duração ou de intervalo de tempo. 
+04309348-n : [vapor;barco_a_vapor;] : navio, movido por máquina de vapor. 
+06151693-n : [sociologia;] : ciência, que trata da constituição e desenvolvimento das sociedades humanas. ciência das leis fundamentais das relações e das instituições sociais. ciência ou estudo da origem, desenvolvimento, organização e funcionamento da sociedade humana. 
+06833776-n : [ípsilon;] : vigésima letra do alfabeto grego υ, υ. 
+04225417-n : [seis;] : carta de jogar ou peça de dominó, que tem seis pontos. 
+03878674-n : [pálete;paleta;] : tábua delgada, em que os pintores dispõem e combinam as tintas, e que eles sustentam na mão esquerda com o dedo polegar, enfiado em um orifício da mesma paleta. 
+01618503-n : [secretário;] : ave de rapina diurna, única espécie da família sagittariidae. 
+14879750-n : [cristal;] : mineral ou vidro claro ou transparente que lembra o gelo. 
+02980625-n : [torre;] : peça do jogo de xadrez que se move na horizontal e na vertical. 
+13813591-n : [consangüinidade;consanguinidade;] : relação de parentesco entre os que procedem do mesmo pai ou da mesma raça. relação, parentesco entre os que procedem do mesmo pai ou da mesma raça. 
+14943580-n : [madeira;] : tábuas, vigas, ripas, caibros, tudo que, sendo lenhoso, se aplica a construções e trabalhos de marcenaria, carpintaria, etc. 
+06179792-n : [semântica;] : parte da linguística que estuda os significados das palavras. 
+06974127-n : [persa;língua_persa;] : língua iraniana falada no irã. 
+08540770-n : [cantão;] : cada uma das divisões territoriais de vários países. 
+05016753-n : [calor;] : energia térmica que flui de um corpo para outro em virtude da diferença de temperatura entre eles. energia na forma de calor pode entrar  ou sair  de um corpo, mas calor não pode ser adicionado ou removido de um corpo, pois nenhum corpo possui calor . é medido em calorias ou joules. 
+05598147-n : [olfato;nariz;] : parte saliente, piramidal e triangular do rosto, a qual constitue o órgão do olfacto. 
+08214083-n : [batalhão;] : corpo de infantaria, que faz parte de um regimento, e que se subdivide em companhias. 
+10173410-n : [heroína;] : mulher, que figura, como principal personagem, em uma obra literária. 
+08684769-n : [zênite;zénite;] : ponto mais alto da esfera celeste, exatamente por cima do local em que se encontra o observador, e exatamente oposto ao nadir. 
+00617865-n : [sapateiro;sapataria;] : arte ou estabelecimento de sapateiro. 
+15088111-n : [vinagre;] : ácido acético. 
+15136147-n : [semana;] : trabalho, que dura uma semana. 
+15113050-n : [xantina;] : composto orgânico encontrado na urina e em diversos tecidos do corpo humano, além de algumas plantas. 
+07751451-n : [amêixoa;ameixa;] : fruta extraída da ameixeira. 
+05640729-n : [especialidade;especializado;conhecimento;perícia;] : habilidade, arte, engenho, execução correta por meio de conhecimento. 
+03179701-n : [mesa;secretária;escrivaninha;] : mesa, própria para se escrever sobre ela, e ordináriamente com gavetas para se guardarem papéis ou documentos de importância. 
+00021939-n : [artefato;produto;utensílio;] : produto fibrado: uma construção da teoria das categorias. 
+04184701-n : [caco;fragmento;] : fragmento ou pedaço quebrado de louça, barro, vidro, mármore etc. 
+09241247-n : [canal;] : estreito, porção de água que, por entre costas, liga dois mares. 
+14646942-n : [niobio;nióbio;] : elemento químico de símbolo nb, possui o número atômico 41 e massa atômica relativa 92,906 u. é um metal de transição, sólido na temperatura ambiente, obtido através de mineriais como a niobite e a carbonatite. é utilizado na produção de ligas ferro-nióbio, utilizadas na fabricação de turbinas de jatos e foguetes. 
+13494919-n : [hidrólise;] : reação química de quebra que ocorre na presença de água. 
+10112129-n : [frei;frade;monge;] : religioso ou frade de mosteiro. 
+13480848-n : [flama;fogo;chama;labareda;] : labareda que se eleva dos materiais incandescentes, flama. 
+06945569-n : [língua_búlgara;búlgaro;] : língua eslava falada na bulgária. 
+03720163-n : [mapas;mapa;figura;ilustração;desenho;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. 
+13099734-n : [bugalho;] : qualquer objecto globular, semelhante à galha ou bugalho dos carvalhos. 
+01122938-n : [amortização;] : diminuição de uma dívida ou outra parcela do fluxo de caixa, mediante pagamentos parciais. 
+02671421-n : [acessório;] : um artigo ou conjunto de artigos de vestuário como luvas, brincos, xale etc que se usa para complementar o traje básico. 
+14642916-n : [cripton;crípton;criptónio;criptônio;] : elemento químico de símbolo kr, possui o número atômico 36 e massa atômica relativa 83,798 u. é um gás nobre, muito raro. é encontrado gasoso na temperatura ambiente, nos vapores vulcânicos e que emanam das águas termais. é utilizado na indústria da iluminação, em lâmpadas fluorescentes em conjunto com o argônio. 
+11608885-n : [pinheiro;pinho;] : madeira de pinheiro. 
+10307234-n : [membro;] : braço ou perna, no sentido popular do anatômico  membro superior ou membro inferior. 
+06836165-n : [υ;ipsilão;y;ipsilone;ípsilon;hipsilo;] : vigésima letra do alfabeto grego υ, υ. 
+03315023-n : [serviço;infra-estrutura;instalação;] : os serviços e instalações necessários para o funcionamento de uma comunidade ou sociedade. 
+10758713-n : [voz;] : produção de um som na laringe, especialmente na laringe humana. som produzido pelas cordas vocais. 
+09465459-n : [unidade;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+04344544-n : [estúdio;] : local de trabalho de um artista. 
+04007894-n : [produto;produtos;produções;bens;produção;] : /  /  criação de uma obra artística para apresentação ao público. 
+03470387-n : [alça;] : peça móvel e graduada para variar, segundo o afastamento do alvo, o ângulo que a arma faz com a linha de mira. 
+04888703-n : [hubris;húbris;] : orgulho excessivo, presunção, arrogância ou insolência. 
+06143546-n : [antropologia;] : antropologia cultural: estudo do homem nos seus diversos aspectos, constituindo o grupo das ciências humanas. 
+13945919-n : [estado;classe;posição;condição;status;] : representação, em cortes, de alguma classe social, no antigo regime. classe social. posição social. situação social, moral, econômica, etc. 
+11524662-n : [clima;fenómenos_meteorológicos;vento;tempo;condições_meteorológicas;] : as condições médias do tempo geralmente presentes numa região, como a temperatura, pressão do ar, umidade, precipitação, presença ou ausência do sol, ventos, etc. 
+04546194-n : [bengala;bastão;] : pequeno bastão, feito de cana de bengala ou da índia. 
+07998573-n : [classe;] : categoria taxonômica constituida por um conjunto de ordens. 
+01182654-n : [causa;processo;processo_judicial;pleito;] : nome abstracto que denota método, meio, processo, procedimento, etc. selecciona um complemento verbal. 
+01023636-n : [processo;procedimento;] : nome abstracto que denota método, meio, processo, procedimento, etc. selecciona um complemento verbal. 
+01415626-n : [eucarionte;eukaryota;eucariota;eucariontes;] : ser vivo cujas células possuem núcleo celular organizado, provido de carioteca. 
+14863521-n : [adubos;esterco;estrume;] : estrume, qualquer desperdício descomposto que serve como adubo da terra. 
+04842993-n : [sensibilidade;] : propriedade de certas partes do sistema nervoso, pela qual os homens e os animais percebem as impressões causadas por objectos exteriores, ou produzidas interiormente. 
+10018021-n : [dissidência;dissidente;] : indivíduo dissidente. 
+07093158-n : [épica;livros_épicos;] : poesia épica. 
+04373894-n : [gládio;espadas;espada;] : arma branca composta por um punho e uma lâmina pontiaguda e comprida, com um ou dois gumes. 
+03932203-n : [pedaço;peça;] : porção de pano tecido de uma só vez. aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+05813229-n : [amor;afeição;paixão;] : objecto da afeição. 
+14304060-n : [síndrome;síndroma;] : designação antiga dos sintomas mórbidos, sem referência a determinada doença. 
+07802417-n : [cereal;cereais;] : os grãos comestíveis de diversas plantas como trigo, cevada, milho. 
+06976392-n : [grego;] : língua helênica falada na grécia e no sul do chipre. o grego antigo compreendia quatro dialetos principais: o ático, o jônio, o dórico e o eólio. 
+02472987-n : [homem;mundo;geração;povo;espécie_humana;humanidade;] : conjunto de espaço, corpos e seres, que a vista humana pode abranger. 
+01026897-n : [cerimônia;] : atividade religiosa ou sagrada. 
+14145911-n : [asma;] : doença inflamatória crônica caracterizada por obstrução ao fluxo de ar nas vias respiratórias, cuja causa não está completamente elucidada. 
+07921615-n : [sidra;] : ( forma preferível a cidra, do fr cidre cast sidra, do lat sicera cp sícera ). 
+04524313-n : [veículo;veículos;viatura;] : meio de transporte ou veículo usado em terra, mar ou outro meio aquático ou no ar. 
+05774614-n : [dedução;inferência;raciocínio;] : inferência lógica de um raciocínio. 
+08362455-n : [oligarquia;] : regime político em que o poder é exercido por um pequeno grupo de pessoas, pertencentes ao mesmo partido, classe ou família. 
+03074380-n : [coluna;pilar;] : coluna de sustentação de edifício ou estrutura. 
+04128837-n : [veleiro;navios-veleiro;] : barco à vela, movido pelo vento. aquele que faz velas de navio. 
+05261566-n : [barba;] : cabelos da parte inferior e das laterais da cara do homem. 
+13320045-n : [usura;] : contrato de empréstimo, com a cláusula do pagamento de juros por parte do devedor. contrato de empréstimo de fundos que compreende uma cláusula que obriga o pagamento a ser acrescido de juros. 
+04351233-n : [naipe;] : cada um dos quatro símbolos com que se distinguem os quatro grupos das cartas de jogar: ouros e copas, paus e espadas. sinal, que distingue cada um dos quatro grupos de cartas de jogar. 
+05675130-n : [consciência;estudos_da_consciência;] : faculdade que permite ao homem o conhecimento e a avaliação do que se passa em si mesmo e à sua volta. 
+03561345-n : [figura;imagem;ilustração;desenho;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. 
+03721384-n : [marimba;xilofone;] : instrumento de percussão constituído por placas de madeira formando um teclado, percutidas por duas baquetas, tendo cabaças como ressoadores. instrumento de percussão constituído por lâminas de madeira de tamanhos diversos de modo a reproduzir as escalas musicais quando percutidos por baquetas. 
+00007846-n : [pessoa;alguém;indivíduo;ser_humano;] : os dois tipos mais comuns são pessoa física e pessoa jurídica. 
+09587409-n : [sete;] : o algarismo, que representa o número sete. 
+03254862-n : [dulcimer;saltério;] : instrumento triangular moderno, com treze ordens de cordas, que se ferem com uma palheta. instrumento musical de cordas, que se dedilhavam ou se tocavam com o plectro. 
+14654175-n : [selênio;selénio;selenio;] : elemento químico de símbolo se, possui o número atômico 34 e massa atômica relativa 78,96 u. elemento químico de símbolo se, possui o número atômico 34 e massa atômica relativa 78,96 u. é um não metal, sólido na temperatura ambiente, obtido principalmente como subproduto da refinação do cobre. é utilizado como semicondutor na produção de células solares e retificadores eletrônicos. 
+06834458-n : [δ;delta;deltas;] : quarta letra do alfabeto grego, a qual corresponde ao nosso d e tem a forma de δ. 
+05332225-n : [lacrimal;osso_lacrimal;] : pequeno osso, dentro da órbita ocular. 
+03636248-n : [luz;cadeeiro;candeia;lâmpadas;lâmpada;] : utensílio doméstico rústico usado para iluminação, com pavio abastecido a óleo. vaso em que arde uma luz alimentada a óleo. vaso de folha ou de barro, que se usa suspenso de parede ou velador, e em que se deita óleo, para alimentar a luz na torcida que sai por um bico do mesmo vaso. vaso, em que se acende a luz, alimentada a óleo. 
+03304730-n : [substâncias_explosivas;explosivo;] : substância química que causa mudança ou não entra na categoria de nomes massa. 
+04446276-n : [casa_de_banho;banheiro;pia;] : cômodo com instalações sanitárias para a higiene pessoal, quarto de banho. 
+13955874-n : [realidade;] : qualidade do que é real. 
+14586769-n : [liga_metálica;liga;ligas_metálicas;] : mistura de dois ou mais metais. 
+09394007-n : [planeta;] : astro sem luz própria que gira em torno de uma estrela e reflete a sua luz. 
+13731021-n : [quadrado;] : polígono regular de quatro lados de mesmo comprimento. 
+06337693-n : [apelido;cognome;alcunha;sobrenome;] : nome de família após o prenome. nome de família, que se segue ao nome de batismo. 
+01020936-n : [imitação;] : nome aspectual que denota cópia do modelo ou imitação. 
+09505153-n : [clérigo;] : aquele que tem algumas ou todas as ordens sacras da igreja católica. 
+03206908-n : [prato;louça;] : vasilha, normalmente de louça ou metal, em que se come ou se serve comida. 
+09179606-n : [porque_causa;porquê;porque;] : causa, razão--insuladamente, ou no fim da frase, lê se porquê. 
+15256714-n : [jogo;] : uma partida de um esporte. 
+02153959-n : [casco;pezunho;pata;] : pé ou mão de animal. 
+07719839-n : [beterraba;] : raiz carnuda e grossa, de que se extrai açúcar idêntico ao da cana sacarina. 
+13022538-n : [hifa;] : filamento que forma o micélio dos fungos e o micobionte dos líquenes. 
+04488530-n : [calça;] : peça de vestuário ( v calças ). peça de vestuário para as pernas. 
+15167349-n : [noitada;noite;] : período de uma noite que se passa geralmente em festas. 
+01181902-n : [causa;processo;] : nome abstracto que denota método, meio, processo, procedimento, etc. selecciona um complemento verbal. 
+07521674-n : [pavor;medo;dor;consternação;temor;] : estado de intenso susto ou medo. 
+14039534-n : [fome;sede;] : sede, ânsia, avidez, desejo intenso. 
+10763620-n : [garçonete;garçom;] : empregado que serve a mesa num restaurante ou outro estabelecimento congênere. 
+15162388-n : [festividade;] : festa religiosa, festa de igreja. 
+08644722-n : [zona_rural;áreas_rurais;campo;] : grande área aberta usada para cultivo agrícola ou criação pecuária. 
+08591592-n : [gramado;relva;prado;grama;prados;clareira;] : terreno, onde cresce a grama. 
+07884567-n : [bebidas_alcoólicas;bebida_alcoólica;álcool;álcoois;] : bebida alcoólica. 
+03001627-n : [cadeira;assento;cadeiras;] : objeto do mobiliário sobre o qual se assenta, normalmente composta por quatro pés, um assento e um encosto. 
+06947479-n : [inglês_estadunidense;inglês;inglês_americano;] : a língua dos ingleses. 
+05849789-n : [qualidade;carácter_distintivo;característica;] : característica, propriedade ou atributo essencial ou distintivo de algo. 
+03365991-n : [piso;andar;pavimento;] : piso de um edifício sobre o qual pode-se andar. 
+13077033-n : [micetes;mofo;bolor;] : bolor, espécie de fungo de tamanho  pequeno que coloniza a matéria orgânica rica em nutrientes, têm um  micélio filamentoso e enramado que é a forma macroscópica visível como borra ou pelo. 
+14647722-n : [nobelio;nobélio;] : elemento químico de símbolo no, possui o número atômico 102 e massa atômica relativa 259 u. é um metal radioativo de transição interna, de cor desconhecida, encontrado provavelmente sólido na temperatura ambiente. é um elemento transurânico sintético, produzido pelo método de irradiação de um alvo de átomos da série dos actinídeos com íons relativamente pesados. não possui aplicações práticas. 
+04341686-n : [estrutura;tecido;edifício;] : qualquer construção, que pode ser habitada, servir para alojamento ou abrigo, ou para estabelecimento de fábrica, exercício de funções públicas, etc. 
+05090441-n : [grandeza;magnitude;número;] : número característico de uma quantidade que serve de base de comparação com outras quantidades similares. 
+07226545-n : [promessa;] : juramento feito a deus ou aos santos para conseguir uma graça. 
+10375506-n : [velho;avô;] : homem velho. 
+07300960-n : [coincidência;acidente;] : ocorrência de eventos que, por acaso, se dão ao mesmo tempo e que parecem ter alguma conexão entre si. nome abstracto que denota um evento ou acontecimento no tempo. 
+15237250-n : [verão;estio;] : uma das quatro estações do ano, que principia no solstício de junho e termina no equinócio de setembro. 
+06835951-n : [sigma;σ;] : letra do alfabeto grego, correspondente ao nosso s. 
+09876892-n : [frade;irmão;] : membro de uma ordem religiosa, em especial as ordens franciscanas, dominicanas, carmelitas e augustinianas. 
+10162991-n : [responsável;chefe;cabeça;líder;] : chefe ( em esta aceção, cabeça emprega se muitas vezes como m ). 
+11714853-n : [nenúfar;] : género de plantas aquáticas, que serve de tipo às nympheáceas. 
+05622456-n : [abilidade;aptidão;competência;talento;habilidade;] : capacidade, competência natural ou adquirida em criar, fazer ou executar uma atividade específica. 
+02190166-n : [moscas;diptera;mosca;] : nome vulgar da mosca doméstica. 
+07754684-n : [jaqueira;jaca;] : fruta oriunda da jaqueira. 
+15165289-n : [madrugada;manhã;] : período do dia entre a meia-noite e o amanhecer. nome que designa período do dia. 
+10126708-n : [genitor;] : o pai ou a mãe. 
+14461519-n : [plenitude;] : estado do que é pleno. 
+05556325-n : [quadril;anca;] : coisa  que funciona estruturalmente, incluindo partes do corpo humano. 
+09206985-n : [declive;aclive;ladeira;subida;encosta;rampa;] : inclinação de terreno, ladeira, rampa, consideradas de baixo para cima. 
+00611433-n : [pedagogia;] : arte da educação e do ensino. 
+06816335-n : [tablatura;partitura;] : espécie de notação musical com indicações de posições dos dedos ao tocar ao invés da altura das notas, muito utilizada principalmente para pianos, contrabaixos, flautas, violões e guitarras. 
+04809237-n : [legalidade;] : qualidade de aquilo que é legal. 
+07946851-n : [inimigo;] : tropa das forças armadas adversas. 
+07903208-n : [conhaque;pinga;aguardente;cachaça;brandy;parati;] : bebida alcoólica, especialmente se de boa qualidade. 
+07860988-n : [massa;pasta;massa_de_pão;] : mistura de farinha com um líquido, formando pasta. 
+02913152-n : [prédio;edifício;] : casa de habitação. 
+15234764-n : [minuto;] : nome que denota unidade de duração ou de intervalo de tempo. 
+14714817-n : [nicotina;] : alcalóide neurotóxico e cancerígeno, encontrado principalmente no tabaco, que age como estimulante em mamíferos. alcaloide orgânico, que existe no tabaco. 
+07484265-n : [desejo;pretensão;apetite;anseio;] : desejo veemente. 
+06946355-n : [letão;língua_letã;] : língua báltica falada na letônia . 
+05098942-n : [tamanho;medida;dimensão;magnitude;] : extensão ou grandeza que se pode calcular. 
+05432948-n : [citoplasma;] : nome, que se dá ao protoplasma ordinário da célula, para o distinguir do nucleoplasma. 
+03160740-n : [damasco;] : tecido de seda com tafetá, fabricado primitivamente em damasco. tecido de seda com o desenho em relevo produzido na cidade de damasco. 
+14480420-n : [líquido;liquidez;estado_líquido;] : qualidade ou estado de aquilo que é líquido. substância, natural ou produzida, em estado líquido. 
+10749715-n : [veterinários;vet;veterinário;alveitar;] : médico veterinário. 
+08277393-n : [instituto;escola;] : casa ou estabelecimento, em que se recebe ensino de ciências, letras ou artes. 
+06308049-n : [afixo;] : designação comum dos prefixos, infixos e sufixos. 
+03094503-n : [contentores;contentor;continente;vaso;contêiner;caixa;jarro;vasilha;] : recipiente para líquidos, sólidos, flores etc. recipiente, geralmente com forma de paralelepípedo ou cilindro, que pode ou não ter tampa produzido de vários materiais e de vários tamanhos, que serve para conter objetos. 
+05567217-n : [dedo;polegar;dedo_polegar;] : o dedo mais grosso da mão. 
+05093581-n : [extensão;amplitude;medida;amplidão;dimensão;magnitude;] : extensão ou grandeza que se pode calcular. 
+14634591-n : [cloro;] : elemento químico de símbolo cl, possui o número atômico 17 e massa atômica relativa 35,453. é encontrado na natureza somente em compostos com outros elementos, como o cloreto de sódio ou o cloreto de potássio. é um gás, na temperatura ambiente, extremamente tóxico. utilizado como germicida padrão para o tratamento de água, na fabricação de papéis, derivados de petróleo, medicamentos, tintas, solvente e plásticos. 
+07712063-n : [batata_doce;batata-doce;] : planta herbácea da família das convolvuláceas com tubérculos comestíveis de polpa tenra e açucarada da espécie species:ipomoea batatas|ipomoea batatas. 
+13371958-n : [diamante;] : a mais dura e brilhante pedra preciosa, cristal de carbóne puro. pedra preciosa. 
+03600806-n : [baseado;] : cigarro de maconha. 
+15143477-n : [queda;morte;fim;] : fim da vida animal ou vegetal. 
+07932841-n : [chá;folha_de_chá;] : infusão de diversas plantas, como por exemplo chá de erva cidreira, de erva doce, de camomila, de boldo, etc. 
+07108010-n : [oximoro;oxímoro;] : figura de linguagem na qual uma locução produz um efeito aparentemente incongruente. 
+10541229-n : [governador;governante;] : nome que denota título de ser humano individual (não de organização). 
+14884481-n : [glicemia;] : normal: glicemia de jejum entre 70 mg/dl e 99mg/dl e inferior a 140mg/dl 2 horas após sobrecarga de glicose. 
+06929742-n : [língua_chinesa;chinês;] : como é mais conhecido o dialeto mandarim, língua predominante no território chinês. 
+07739125-n : [maçã;madeira_de_macieira;macieira;] : espécie de pomo, fruto da macieira. 
+01621127-n : [estrige;bufo;coruja;corujão;strigiformes;mocho;corujas;] : ave nocturna de rapina. ave nocturna, semelhante à coruja. ave de rapina de hábitos noturnos. ave de rapina noturna, de olhos amarelos. 
+14639795-n : [hássio;] : elemento químico de símbolo hs, possui o número atômico 108 e massa atômica relativa 269 u. é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado. produzido pelo bombardeamento do 208pb por íons de 58fe. não possui nenhuma aplicação prática conhecida. 
+05564590-n : [braço;mão;perna;] : parte do corpo humano, a qual, situada na extremidade do braço, serve especialmente para o tacto e para a apreensão dos objectos. 
+05902545-n : [programa;] : projecto ou plano escrito e minucioso de uma festa pública. 
+14974264-n : [carta;papel;] : folha, ou folhas, de papel escrito, que se dobra ou fecha em outro papel, e se dirige a pessoas ausentes, dando lhes notícias, ou fazendo lhes cumprimentos, pedidos, etc. 
+04033425-n : [dama;] : uma das peças do xadrez. peça do jogo de xadrez. 
+02400139-n : [bovídeos;] : classe de ruminantes, que compreende o boi, o búfalo, o bisonte, etc. 
+10663315-n : [prostituta;puta;rapariga;] : mulher pública. mulher da vida. 
+00029378-n : [evento;acontecimento;fato;] : ação de um objeto físico sobre outro, a observação desse acontecimento, dessa interação. ação, coisa feita, acontecimento. nome abstracto que denota um evento ou acontecimento no tempo. 
+05011790-n : [calor;temperatura_do_ar;temperatura;] : medida física relacionada ao conceito fisiológico de quente e frio. 
+10159186-n : [donzela;empregada;] : empregada doméstica. 
+03748886-n : [produto;mercadorias;mercadoria;artigo;fazenda;] : produto posto à venda. 
+06965961-n : [francês;] : língua dos franceses. 
+08402693-n : [embaixada;] : cargo ou missão de embaixador. 
+14677778-n : [gesso;gipsita;] : sulfato de cálcio hidratado. 
+10134001-n : [guarda-redes;goleiro;] : jogador que em esportes que não o futebol, atua mais próximo, abaixo ou na circunvizinhaça da trave de um gol ou meta, o qual a regra de jogo permite que atue de forma diferenciada dos demais jogadores quando presente na área delimitada no campo de jogo junto ao gol. jogador de uma equipe de futebol, que atua com vestimenta diferenciada e pode agarrar a bola com as suas mãos dentro do limite de uma área determinada no campo de futebol. 
+14534696-n : [umidade;humidade;] : qualidade ou estado de húmido. 
+07503260-n : [aversão;náuseas;repulsa;asco;náusea;nojo;repugnância;abominação;] : asco ou aversão por alguém ou alguma coisa. 
+05566097-n : [dedo;dígito;dedo_da_mão;] : cada uma das partes articuladas em que terminam os pés e as mãos. cada uma das partes distintas e articuladas, que terminam as mãos e os pés do homem. 
+03672521-n : [tela;pano;linho;] : tecido de lã, linho, seda, etc. tecido, feito de fio de linho, algodão, lã, etc. tecido fabricado com as fibras do linho. tecido de linho. tecido de algodão, lã, seda, linho, fibra artificial, etc. 
+09676490-n : [aborígene;aborígine;] : indígena australiano, membro dos povos aborígenes da austrália. 
+05326624-n : [caracol;cóclea;] : tubo em espiral do ouvido interno. 
+07929519-n : [árvore_de_café;café;] : bebida feita ao se coar a semente torrada e moída do café com água. estabelecimento, em que se toma café e outras bebidas. 
+08276720-n : [instituto;escola;colégio;escolas;] : estabelecimento de ensino primário ou secundário. 
+06952572-n : [língua_neerlandesa;holandês;neerlandês;] : língua, o mesmo que holandês, ou grupo de línguas, que abrange o holandês e o flamengo. 
+00494768-n : [póquer;pôquer;] : jogo de cartas ou dados. 
+09225146-n : [corpos_de_água;massa_de_água;corpo_de_água;água;oceano;] : a parte líquida que cobre aproximadamente 70 % da superfície terrestre, sob a forma de mares, lagos e rios. 
+14817592-n : [composto;composto_químico;] : substância ou corpo composto. 
+07985628-n : [casal;dupla;] : duas pessoas do mesmo sexo, que mantêm entre si um caso amoroso e/ou sexual. 
+13246475-n : [imóvel;imobiliária;] : bem imóvel, como terrenos, casas, prédios, propriedades rurais, etc. 
+04564278-n : [wattímetro;] : instrumento de medida de potência elétrica fornecida ou dissipada por um elemento. 
+03081021-n : [parte;componente;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+05301072-n : [língua;] : órgão da boca, auxiliar da mastigação e deglutição e responsável pela articulação dos sons. nome de vários objectos, que têm semelhança ou analogia com o órgão da língua. 
+06857726-n : [tonica;tônica;tónica;] : nota tónica. nota, vogal ou sílaba tónica. 
+03948459-n : [pistola;pistolas;] : pequena arma de fogo, do feitio da espingarda, mas que se segura e se dispara com uma só mão. 
+06794666-n : [marca;mancha;estigma;] : sinal, letras ou emblema aposto para determinar a propriedade de uma coisa. 
+06481320-n : [lista;lista_numerada;listagem;] : forma de organização através da enumeração de dados para melhor visualização da informação. 
+15252422-n : [data_de_nascimento;aniversário;] : dia em que se completa mais um ano sobre a data do nascimento de alguém ou sobre a ocorrência de um acontecimento. 
+04063868-n : [gravação;] : o registro de dados, imagens, sons, etc., em discos ou fitas magnéticas. 
+04097622-n : [estrada;calçada;rua;] : caminho ou rua empedrada. 
+03371875-n : [sanita;casa_de_banho;retrete;toalete;vaso_sanitário;banheiro;] : vaso sanitário. 
+04051549-n : [cãimbra;pendência;rampa;] : plano inclinado. 
+04766275-n : [complexidade;] : qualidade do que é complexo. 
+14774699-n : [benzol;benzeno;] : hidrocarboneto aromático líquido, inflamável, incolor e tóxico com fórmula c6h6. é utilizado como solvente e como matéria prima para produção de outros compostos orgânicos como fenol, anilina, trinitrotolueno, plásticos, gasolina, borracha sintética e tintas. 
+00716777-n : [vivissecção;vivisecção;] : dissecção ou operação cirúrgica, feita em animais vivos. 
+03268553-n : [cotovelo;] : ângulo saliente na articulação do braço com o antebraço. 
+06256697-n : [escudeiro;lauda;página;] : cada um dos lados de uma folha de papel, de pergaminho, etc. 
+10112591-n : [camarada;amizade;conhecido;amiga;amigo;] : companheiro de quarto. mulher, que estima ou ama outra pessoa. nome abstracto que descreve algo acerca  de uma pessoa ou coisa que não é inerente à sua natureza. sentimento de quem é amigo. 
+06944720-n : [polonês;polaco;língua_polaca;] : língua eslava falada na polônia. 
+10389398-n : [proprietário;amo;dono;possuidor;] : aquele que, sendo ou não o dono, arrenda um imóvel. aquele que detém a propriedade ou é possuidor de algo. 
+05217168-n : [corpo;corpo_humano;anatomia;carne;] : cadáver humano. tecido muscular do corpo humano e do corpo dos animais. doutrina da estrutura das substâncias organizadas conjunto dos conhecimentos, resultantes da dissecção dos corpos organizados, especialmente do corpo humano. 
+11456462-n : [clima;tempo;] : as condições médias do tempo geralmente presentes numa região, como a temperatura, pressão do ar, umidade, precipitação, presença ou ausência do sol, ventos, etc. 
+01616318-n : [abutre;urubu;] : ave de rapina, da ordem das diurnas. nome de outras aves de rapina. 
+04417809-n : [casa;teatro;] : casa ou edifício, apropriado para representações dramáticas ou espectáculos. 
+06807198-n : [numeral;número;] : símbolos matemáticos que representam os números. 
+08557271-n : [condado;] : divisão administrativa em diversos países. 
+02111277-n : [terra_nova;terra-nova;] : cão, pertencente a uma raça, que dizem procedente da terra-nova. 
+13744044-n : [três;trio;3;] : o número três, representado pelos símbolos 3, iii, γ, ३, em algarismos arábicos, romanos, gregos e indianos respectivamente. 
+15104598-n : [alpaca;] : tecido de lã da alpaca. lã da alpaca. 
+07664007-n : [hamburguer;hambúrguer;] : bife de carne picada de forma arredondada, sevido no pão ou no prato. 
+06938887-n : [malaio;] : língua dos malaios. 
+03140126-n : [crisol;cadinho;forno_cadinho;] : vaso, cadinho, pote ou instrumento usado pelo oleiro para purificar o ouro no fogo. 
+02331046-n : [ratazana;rattus;rato;] : pequeno quadrúpede roedor, de pequenas patas, cauda comprida e focinho bicudo, e de que há várias espécies, como a ratazana, o rato decúmano, o rato caseiro, ( mus musculus ), o ratinho dos matos, ( mus sylvaticus ), o musaranho, etc. 
+06589574-n : [publicação;edição;] : publicação de obra literária ou científica. 
+14604857-n : [diamina;] : composto químico, i.e., substância que consiste em dois ou mais elementos diferentes em porporções definidas (não contemplado em nome massivo). 
+14850483-n : [éster;ésteres;] : classe de compostos orgânicos derivados da reação de ácido com álcool. composto químico, i.e., substância que consiste em dois ou mais elementos diferentes em porporções definidas (não contemplado em nome massivo). 
+14645092-n : [mendelévio;mendelevio;] : elemento químico de símbolo md, possui o número atômico 101 e massa atômica relativa 258 u. é um metal radioativo de transição interna, de cor desconhecida, encontrado provavelmente sólido na temperatura ambiente. é um elemento transurânico sintético, produzido pela primeira vez através da irradiação de uma pequena amostra de einstênio por íons de hélio. não possui aplicações práticas. 
+05131647-n : [altitude;altura;] : altura em relação ao nível médio das águas do mar. 
+02703275-n : [munição_de_guerra;munição;] : conjunto de cartuchos necessários ou disponíveis para uma arma ou uma ação qualquer em que serão usadas armas de fogo. 
+06263369-n : [jornalismo;imprensa;jornal;] : conjunto de jornais, revistas e outras publicações. 
+08081668-n : [religião;igreja;igrejas;] : ordem religiosa. 
+02814533-n : [carro;] : carro de mão, pequeno veículo de uma só roda, para transporte de entulho, pedras, etc. 
+05982720-n : [intenção;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+15227846-n : [hora;] : vigésima quarta parte do dia, ou do tempo que a terra gasta para fazer uma rotação completa sobre si mesma. nome que denota unidade de duração ou de intervalo de tempo. unidade de medida de tempo. 
+06268567-n : [editorial;coluna;] : artigo de um periódico da responsabilidade da direção. 
+05424679-n : [barriga;abdómen;] : a parte do corpo humano abaixo do tronco. 
+02346627-n : [porco-espinho;porco_espinho;] : mamífero roedor pertencente à família erethizontidae ou hystricidae. 
+05839024-n : [classe;tipo;categoria;raça;género;espécies;] : cada uma das variedades da espécie humana ou de qualquer espécie de animais. 
+02450426-n : [zibelina;] : marta zibelina. 
+04160847-n : [holofote;] : espécie de lanterna, cuja luz, projectada por uma lente, ilumina os objectos a distância. 
+03678362-n : [maca;liteira;] : espécie de cadeira coberta, usada como meio de transporte, sustentada por duas varas compridas e erguidas por dois homens ou outros animais. 
+07996689-n : [grupo;jogo;] : no jogo do bicho, cada um dos conjuntos de quatro números  em que está subdividido o repertório total de 100 números ou 25 animais. 
+04592741-n : [ala;asa;] : órgão responsável pelo voo em aves e inseto. 
+09769636-n : [juiz;] : nome que denota título de ser humano individual (não de organização). 
+06954048-n : [língua_dinamarquesa;dinamarquês;danês;] : língua germânica falada na dinamarca. 
+06358900-n : [página;página_web;] : página de internet, conteúdo visto na tela ao se acessar um liame em um navegador – este é geralmente um arquivo da web com extensão html ou htm, e pode conter hipertexto, imagens e sons.nesta acepção, a palavra "página" não deve ser confundida com "sítio", pois um sítio da internet é um espaço em um computador ou rede de computadores preenchido por uma coleção de páginas interligadas, daí um sítio está associado, em geral, a uma coleção de páginas, e não apenas a uma só página. 
+04968895-n : [azul;] : a cor azul. 
+04878861-n : [infidelidade;] : deslealdade conjugal. 
+06455138-n : [evangelho;evangelhos;] : cada um dos 4 livros principais do novo testamento, ( o evangelho de san-matheus, o de san-lucas, o de san-marcos e o de san-joão ). 
+15266265-n : [presidência;] : funções ou cargo de presidente. cargo de presidente. 
+02139199-n : [morcegos;morcego;quirópteros;] : ordem de mamíferos, que têm por tipo o morcego. 
+14966667-n : [óleo;petróleo;] : óleo mineral, empregado principalmente como substância iluminante. óleo mineral de hidrocarbonetos obtido no subsolo pela exposição de matéria orgânica a condições extremas de calor e pressão. 
+05942888-n : [fé;certeza;convicção;] : crença religiosa, religião. 
+08306047-n : [casta;] : classe social endógama. classe social em certos países. 
+03904183-n : [faixa_de_segurança;passadeira;] : sinalização horizontal constituída por uma série de faixas que delimitam a área determinada para a travessia pedestre de ruas, avenidas e vias em geral. 
+09751076-n : [sérvios;sérvio;] : povo eslavo do sul que habita principalmente a sérvia, bósnia-herzegovina, croácia, macedónia e montenegro. 
+06196284-n : [atitude;posição;postura;] : opinião ou ponto de vista face a algo. 
+10485440-n : [devassa;menina;puta;cortesã;mulher_de_vida_fácil;rameira;mulher_da_vida;peripatética;prostituta;quenga;messalina;meretriz;rapariga;vadia;mulher_pública;] : prostituta, mulher da vida, vadia. 
+05560787-n : [perna;] : cada um dos membros locomotores do corpo humano. 
+06944348-n : [russo;língua_russa;] : língua eslava falada na rússia. 
+04253437-n : [sabão;sabões;sabonete;] : pedaço de sabão fino, mais ou menos aromatizado e em forma de pastilha ou bola. 
+08083320-n : [catolicismo;] : doutrina baseada nos ensinamentos de jesus cristo, e cuja representatividade se dá pelos sacerdotes nomeados pela santa sé - a igreja católica apostólica romana, com sede no vaticano, e sob a autoridade do papa. 
+07291312-n : [resultado;chegada;conclusão;fim;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+04100620-n : [chapa_de_radiografia;raio_x;radiografia;] : cópia de uma chapa obtida pela radiografia. 
+07289481-n : [milagre;maravilha;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+04161981-n : [cadeira;assento;] : objeto do mobiliário sobre o qual se assenta, normalmente composta por quatro pés, um assento e um encosto. 
+05533212-n : [glândula_parótida;parótida;] : cada uma das glândulas salivares, situadas atrás das orelhas. 
+14627655-n : [actínio;actínia;actinio;] : elemento químico de símbolo ac, possui o número atômico 89 e massa atômica relativa 227 u. é um metal radioativo de transição interna, prateado, encontrado sólido na temperatura ambiente. é uma das terras raras e dá o nome ao grupo de metais de transição interna chamados actinídeos. ocorre em pequenas quantidades em todos os minérios de urânio. 
+13751829-n : [bilhão;] : mil milhões, ( 1000000000 ) segundo o sistema francês. mil milhões. 
+10408552-n : [padroeiro;orago;patrono;] : santo protetor de uma cidade, país, etc. 
+10130686-n : [mulher;menina;amante;garota;rapariga;namorada;] : rapariga ou mulher, que alguém namora ou galanteia. 
+04042358-n : [chapa_de_radiografia;radiografia;] : cópia de uma chapa obtida pela radiografia. processo de registro gráfico de estruturas anatômicas profundas através de raio x|raios x ou de raio gama|raios gama. processo de registro gráfico de estruturas através de raios x ou de raios gama. aplicação dos raios x ou raios de r[ oe ]ntgen à medicina. 
+03089014-n : [duto;ducto;aqueduto;canal;conduto;] : canal para conduzir as águas de um lugar para o outro em alvenaria sobre arcadas ou por debaixo de estradas ou vias férreas. nome pelo qual se designam diversos canais ou vias adutoras do organismo humano. 
+05840188-n : [espécie;classe;tipo;género;variedade;] : reunião dos caracteres que distinguem uma raça ou classe. 
+13583724-n : [unidade_de_medida;medição;medida;unidade;] : conceito medido por unidade de medida. 
+15246853-n : [segundo;instante;minuto;momento;] : período de tempo correspondente a 60 segundos. 
+12695144-n : [mogno;] : árvore cedrelácea da américa tropical, cuja madeira é muito conhecida e apreciada em marcenaria. madeira dessa árvore. 
+14712692-n : [alcalóide;alcaloides;alcaloide;] : qualquer um dos membros de uma grande classe de compostos orgânicos que contêm nitrogênio e são de origem vegetal, alguns dos quais são líquidos mas a maioria são sólidos e que têm um gosto amargo, são geralmente insolúveis em água e solúveis em álcool, combinam com ácidos sem perda da molécula de água para formar hidrocloridos ou hidrobromidos solúveis em água e que geralmente têm uma ação farmacológica, como por exemplo, a nicotina, morfina, cafeína, cocaína e o quinino. 
+06172294-n : [quadrivium;] : na idade média, o conjunto dos quatro ramos do saber, orientados pela matemática, que compunham, com o trivium, as sete artes liberais ministradas nas universidades. 
+03262932-n : [poltrona;] : grande cadeira de braços, geralmente estofada. uma cadeira almofadada que suporta os braços, como num ônibus ou avião. 
+04232902-n : [foguete;] : peça de fogo de artifício, formada por uma cana, que tem na extremidade uma espécie de busca-pé em comunicação com um cartucho cheio de bombas ou de matérias inflamáveis. 
+14133543-n : [blenorréia;gonorréia;gonorreia;] : doença sexualmente transmissível  caracterizada por secreção mucopurulenta no canal do pênis ou vagina. 
+13308999-n : [taxa;imposto;tributo;colectas;impostos;] : forma de arrecadação de dinheiro do estado, podendo ser um imposto, uma taxa, ou uma contribuição de melhoria. espécie de tributo, assim como o imposto. 
+06964247-n : [italiana;italiano;lingua_italiana;língua_italiana;] : língua românica  falada na itália. 
+07307477-n : [evento;incidente;] : nome abstracto que denota um evento ou acontecimento no tempo. evento, fato que sobrevém no transcurso de um acontecimento principal. 
+06517779-n : [cálculo;] : processo envolvendo diversas operações artiméticas. 
+03686470-n : [sobrado;loft;sótão;] : o andar ou pavimento mais alto. 
+10499857-n : [rainha;] : consorte do rei, ou a governante de um país de sistema político monárquico. 
+02738535-n : [cadeirão;cadeira_de_braços;poltrona;] : grande cadeira de braços, geralmente estofada. uma cadeira almofadada que suporta os braços, como num ônibus ou avião. 
+09624168-n : [homem;macho;varão;] : indivíduo adulto do sexo masculino, varão da espécie homo sapiens. 
+07176804-n : [convenção;ajuste;concordância;acordo;conformidade;] : acordo, pacto, entre partidos que se hostilizavam. 
+04108268-n : [corda;toa;] : fio de tripa, de seda, de náilon ou de aço, esticado sobre a caixa de ressonância dum instrumento de cordas. cabo de fios vegetais unidos e torcidos uns sobre os outros. 
+13112664-n : [moita;arbustos;arbusto;mato;arvoreta;] : nome de planta, flor, erva, arbusto, etc. 
+12476510-n : [pita;piteira;agave;] : agave americana e outras agaves, piteira, planta de folhas carnosas, de bordos espinhosos, nascidas em roseta. 
+02782329-n : [balão;bola;] : brinquedo de látex que imita o formato de um balão usado para decoração, sobretudo de festas. 
+06960566-n : [gaélico;] : língua, falada ao norte da escócia e procedente do celta. língua céltica falada na escócia e na irlanda. 
+14971519-n : [óxidos;óxido;] : designação genérica dos compostos químicos binários formados por átomos de oxigênio e outros elementos, onde o oxigênio é mais eletronegativo. substância química que induz mudança. 
+10655875-n : [comissária_de_voo;aeromoça;comissária_de_bordo;hospedeira;] : comissária de bordo. 
+08559155-n : [casa;domicílio;] : casa de residência. lugar, que, embora não seja residência fixa, é considerada legalmente como domicílio, pelo cidadão exercer ali certos direitos ou funções. 
+05697976-n : [fé;confiança;] : crença religiosa, religião. 
+05559727-n : [bunda;anca;nádega;nalga;traseiro;banda;fundilhos;] : ,  parte traseira do corpo humano formada pelos músculos glúteos. 
+02083346-n : [canídeo;cão;] : são os cães, raposas, lobos e chacais. 
+05600637-n : [face;cara;rosto;] : parte anterior da cabeça humana, compreendendo testa, olhos, nariz, maçans do rosto, lábios e queixo. 
+14647623-n : [azoto;nitrogénio;nitrogênio;] : elemento químico de símbolo n, possui o número atômico 7 e massa atômica relativa de 14,0607 u. é um gás na temperatura ambiente, incolor, inodoro e insípido. representa 78% da composição atmosférica terrestre. é utilizado na indústria para produção do gás amoníaco para produção de fertilizantes e ácido nítrico. 
+13972797-n : [bagunça;desordem;] : estado de desordem. 
+05168261-n : [importância;magnitude;] : qualidade de importante. qualidade do ou de quem é importante. 
+04587648-n : [fenestra;janela;] : abertura nas paredes dos edifícios, para deixar entrar em eles o ar e a luz. 
+09429387-n : [segmento;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+00575741-n : [tarefa;trabalho;] : qualidade ou porção de trabalho, que se deve realizar em determinado tempo. cuidado ou esmero em qualquer serviço. 
+03007955-n : [carvão;] : desenho a carvão. 
+06967185-n : [espanhol;castelhano;] : língua castelhana. 
+08685188-n : [zodíaco;] : zona da esfera celeste, que envolve à eclíptica, e contém as doze constelações, que o sol parece percorrer no espaço de um ano. 
+06615561-n : [atração;] : causa da gravidade, da coesão, da adesão, da afinidade. 
+07940552-n : [reino;] : dizia se o conjunto dos negócios administrativos e políticos, que se tratam em uma das secretarias de estado e que são dirigidos por ministro que tem a seu cargo especialmente a administração política e civil ( a secretaria do reino foi substituida pela secretaria do interior ). 
+02399648-n : [barrete;] : segunda cavidade do estômago dos ruminantes. 
+04224842-n : [cítara;sitar;] : antigo instrumento de cordas, semelhante à lira, mas maior. 
+12633638-n : [maçã;macieira;] : espécie de árvore da família das rosáceas que produz as maçãs. árvore frutífera, da fam das rosáceas. 
+05425910-n : [capilar_sanguíneo;capilar;] : vaso capilar. 
+05436752-n : [gene;genes;guen;] : sequência de nucleotídeos do dna que pode ser transcrita em uma versão de rna. 
+03224032-n : [pórtico;acesso;entrada;portão;porta;] : abertura em parede, ao nível do chão ou de um pavimento, para dar entrada ou saída. 
+00097504-n : [desempenho;execução;realização;] : ato ou efeito de desempenhar, forma de execução de cargo, tarefa ou função. 
+08568719-n : [equador;] : círculo máximo da esfera celeste, perpendicular ao eixo da terra. círculo máximo da esfera terrestre, dividindo-a perpendicularmente ao eixo de rotação e equidistante dos polos, parte dos círculos máximos que formam o horizonte verdadeiro do homem no pólo, projetado na esfera celeste. 
+00917759-n : [cultivo;cultura;] : cultivo: a cultura das flores. 
+14914670-n : [hidróxido;hidróxidos;] : substância química que induz mudança. 
+02962545-n : [cartão;carta;cartas_geográficas;] : cada um dos pedaços de cartão, que formam o baralho. 
+07314427-n : [azar;acidente;] : má sorte. 
+06944623-n : [ucraniano;língua_ucraniana;] : língua eslava falada na ucrânia. 
+12201580-n : [cacaueiro;cacau;theobroma_cacao;] : fruto do cacaueiro, cuja a semente é usada na produção de chocolate e manteiga de cacau. 
+10780632-n : [mulher;esposa;marido;] : homem, em relação à mulher com quem está ligado por casamento. 
+14662281-n : [zircónio;zirconio;zircônio;] : elemento químico de símbolo zr, possui o número atómico 40 e massa atómica relativa 91,224 u. é um metal de transição branco acinzentado e brilhante. não é encontrado livre na natureza, mas, em associação com outros minerais. sua principal fonte é o silicato de zircónio . suas aplicações vão desde a adição em ligas metálicas, até o revestimento de reatores nucleares e imãs supercondutores. 
+04419642-n : [teremim;] : instrumento musical eletrônico inventado em 1919 pelo russo lev sergeivitch termen. 
+06831712-n : [f;] : a sexta letra do alfabeto latino. 
+06831819-n : [g;] : a sétima letra do alfabeto latino. 
+06831498-n : [d;] : quarta letra do alfabeto latino. 
+06832248-n : [k;] : letra proscrita do alfabeto português, é apenas usada em. 
+06833004-n : [r;] : décima oitava letra do alfabeto português, sucede ao q e precede o s. 
+06832788-n : [p;] : letra do alfabeto português cujo nome é pê. 
+06832896-n : [q;] : décima-sétima letra do alfabeto português. 
+14023374-n : [insônia;insónia;] : distúrbio do sono em que uma pessoa não consegue ou tem dificuldades para dormir. 
+06833220-n : [t;] : vigésima letra do alfabeto português. 
+11669921-n : [flor;] : nome de planta, flor, erva, arbusto, etc. 
+06947032-n : [língua_inglesa;inglês;lingua_inglesa;] : língua germânica originada na inglaterra, mas atualmente falada em vários países do mundo. a língua dos ingleses. 
+05554405-n : [peito;teta;mama;seio;seios;] : parte do corpo humano onde ficam as glândulas mamárias, maior no corpo feminino devido ao desenvolvimento das referidas glândulas. cada uma das glândulas mamárias femininas. 
+02313008-n : [sota;rainha;] : única fêmea reprodutora em certas espécies de insetos como as abelhas, vespas e cupins. 
+10289039-n : [homem;pessoa;] : os dois tipos mais comuns são pessoa física e pessoa jurídica. o papel social desempenhado por um ser humano. 
+02153445-n : [pé;] : parte inferior da perna, que assenta no solo e sustenta o corpo do homem e dos animais. 
+07922764-n : [pralina;chocolate_quente;cacau;chocolate;] : fruto do cacaueiro, cuja a semente é usada na produção de chocolate e manteiga de cacau. 
+08096624-n : [hinduismo;hinduísmo;] : neobramanismo, neo-hinduísmo estendendo-se do svi a.c. aos dias atuais, o hinduísmo sofre o impacto de religiões estrangeiras, religiões indianas heterodoxas, escolas filosóficas e místicas. 
+13485525-n : [fusão_nuclear;fusão;fusão_do_núcleo;] : fusão nuclear: processo pelo qual dois ou mais núcleos atômicos se juntam e formam um outro núcleo de maior número atômico. 
+13742573-n : [1;um;] : algarismo, que representa o número um. 
+01769347-n : [aracnideos;aracnídeo;aracnídeos;] : classe de artrópodes: aranha, escorpião e ácaro. 
+04610879-n : [jardim;quintal;pátio;cercado;] : pequeno terreno com jardim ou horta, junto a uma casa de habitação. 
+15248564-n : [época;idade;século;era;escala_de_tempo_geológico;tempo;período;] : nome que denota período de tempo geral, indiferenciado. parte de uma era, que é subdividida em idades. 
+05980875-n : [intenção;objectivo;meta;alvo;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+04748836-n : [diferença;discordância;] : qualidade de quem ou de aquilo que é diferente. qualidade do que é diferente. 
+04756172-n : [probabilidade;] : qualidade do que é provável. 
+14687633-n : [fuelóleo;petróleo;querosene;] : líquido produzido pela destilação do petróleo, formado por uma mistura de hidrocarbonetos alifáticos, naftênicos e aromáticos, é utilizado como combustível na aviação, solventes e como base de alguns inseticidas. 
+15236475-n : [estação_do_ano;tempo;estações_do_ano;sazão;estação;período;] : estação do ano. 
+05844105-n : [espécie;tipo;estilo;género;] : reunião dos caracteres que distinguem uma raça ou classe. 
+15122231-n : [época;era;tempo;dia;período;momento;] : espaço de tempo correspondente à rotação da terra, que equivale a 23 horas, 56 minutos e 4 segundos. 
+00122661-n : [pontaria;tiro;] : distância, que a carga de uma arma de fogo pode vencer. lugar, onde se fazem exercícios com arma de fogo. ato de disparar uma arma de fogo. o disparar de uma arma de fogo. acto de assestar ( uma arma de fogo ), na direcção da linha de mira. carga, disparada por arma de fogo. 
+07577374-n : [lanche;merenda;] : pequena refeição, entre o almoço e o jantar. ligeira refeição entre o jantar e a ceia. 
+09385911-n : [porção;pedaço;parte;tomo;secção;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+07994331-n : [rebanho;gado;manada;grei;] : rebanho de gado miúdo. rebanho de gado graúdo. 
+05497922-n : [claustro;] : pátio interior, descoberto e rodeado geralmente de arcarias, nos conventos, ou nos edifícios que o foram. pátio interior de um convento. 
+13806614-n : [preterito;pretérito;] : tempo verbal, que indica acção passada ou anterior. tempo verbal passado que indica uma ação passada. 
+13745086-n : [oito;] : o algarismo representativo do número oito. 
+03115180-n : [algodão;] : tecido de algodão. fio de algodão. fio ou tecido que se fabrica com esses filamentos. 
+14911057-n : [hidrocarbonetos;hidrocarboneto;] : composto químico, i.e., substância que consiste em dois ou mais elementos diferentes em porporções definidas (não contemplado em nome massivo). 
+03010795-n : [casula;] : veste litúrgica usada pelo sacerdote sobre a alva e a estola durante a celebração da missa. 
+13626013-n : [byte;baite;] : sequência adjacente de dígito binário|dígitos binários, formado geralmente por oito bits, é utilizado como uma unidade de informação, podendo representar números inteiros de 0 até 255. 
+06860177-n : [trilo;] : movimento alternado e rápido de duas notas musicais, que distam entre si um tom ou semitom. 
+08672562-n : [localidade;vila;] : povoação, de categoria inferior à de cidade e superior à de aldeia. povoação de tamanho intermédio entre aldeia e cidade. 
+15017604-n : [cloreto;cloreto_de_sódio;] : substância química que induz mudança. 
+05809878-n : [realidade;mundo;] : o outro mundo, a vida de além-túmulo. 
+03601964-n : [melé;curinga;coringa;] : carta de baralho que pode assumir qualquer valor em alguns jogos. 
+08287844-n : [cultura;civilização;] : conjunto das estruturas sociais, religiosas, etc., das manifestações intelectuais, artísticas etc., que caracteriza uma sociedade: a cultura inca. 
+03670849-n : [corda;linha;fio;] : fio de tripa, de seda, de náilon ou de aço, esticado sobre a caixa de ressonância dum instrumento de cordas. 
+14842703-n : [ar;] : formado por 21% de oxigênio, 78% de nitrogênio e 1% de outros gases, como o dióxido de carbono e gases nobres. 
+08278324-n : [instituto;escola;universidade;faculdade;] : instituição que tem por objetivo fornecer ensino de nível superior, graduação, e pós-graduação, além de fazer pesquisas científicas. casa ou estabelecimento, em que se recebe ensino de ciências, letras ou artes. 
+07323922-n : [começo;iniciação;gênese;origem;] : origem, princípio, elemento inicial, germe. 
+02693860-n : [passagem;corredor;passadiço;] : corredor ou galeria que comunica dois edifícios. 
+13939892-n : [fase;nível;ápice;grau;] : grau fahrenheit: unidade de medida de temperatura da escala de fahrenheit, a mais usada nos estados unidos. 
+09444783-n : [estrela;] : corpo celeste onde ocorrem fenômenos que produzem luz. 
+09738708-n : [norte-americano;estado-unidense;] : natural dos estados unidos da américa. 
+09424270-n : [satélite;satélites;] : corpo celeste, natural ou artificial, que gravita em torno de outro. 
+13100677-n : [cipó;videira;parreira;] : designação comum às plantas lenhosas e sarmentosas ou trepadeiras, que pendem e se trançam nas árvores, características das florestas tropicais. 
+05780885-n : [dedução;acarretamento;] : inferência lógica de um raciocínio. 
+05588840-n : [áxis;] : segunda vértebra cervical. 
+03892891-n : [porção;parte;] : parte de algo, pedaço, ração, dose. aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+05157574-n : [proveito;bem;lucro;] : proveito, vantagem gratuita. 
+08312359-n : [cúpula;conferência;cimeira;] : reunião de cúpula. 
+05845140-n : [classe;tipo;faça;make;] : reunião dos caracteres que distinguem uma raça ou classe. 
+05952678-n : [superstição;crendice;] : crença de cunho supersticioso, sem base em religiões institucionalizadas e, por isso, sem a sua sanção. 
+03963982-n : [carta;cartas_de_jogar;baralho;carta_de_baralho;] : conjunto geralmente composto de 52 cartas, divididas igualmente entre os quatro naipes e contendo cada uma um número ou uma das figuras. cada um dos pedaços de cartão, que formam o baralho. 
+04615226-n : [cítara;] : antigo instrumento de cordas, semelhante à lira, mas maior. na idade média, guitarra de quatro ou seis pares de cordas. 
+03140900-n : [cruzadores;cruzador;] : navio de guerra de grande porte, parcialmente couraçado, com artilharia de calibre médio, empregado em explorações marítimas, coberturas de navios capitais, escolta de comboios, ataques ao litoral inimigo etc. espécie de navio de guerra. 
+14635722-n : [cobre;] : é um metal avermelhado, encontrado na natureza associado a minérios como a cuprita, malaquita, calcopirita e a bornita. 
+13883885-n : [poliedro;poliedros;] : sólido poliedro. 
+02821627-n : [câmara;quarto;habitação;dormitório;] : cada um dos compartimentos de uma casa, à excepção da cozinha, casa de jantar e sala. sala de uma comunidade, em que há muitos leitos. 
+06960298-n : [línguas_celtas;celta;línguas_célticas;céltico;] : ramo de línguas indo-europeias faladas pelos diversos grupos humanos de origem celta, muitas delas já extintas, e que se divide em dois grupos: celta continental e celta insular. 
+07600285-n : [pastilha_elástica;chiclete;] : goma de mascar. 
+12735160-n : [sândalo;] : essência e perfume extraídos da madeira dessa árvore. 
+14640222-n : [holmio;hólmio;] : elemento químico de símbolo ho, possui o número atômico 67 e massa atômica relativa 164,9303 u. é um metal de transição interna  de cor branco prateado. é obtido de minerais ricos em ítrio como a gadolinita, euxenita e a fergusonita. é empregado como aditivo para ligas metálicas, na produção de lasers medicinais e odontológicos e para colorir vidros. 
+05465567-n : [neurônio;neurónio;neurônios;] : célula do sistema nervoso responsável pela transmissão de sinais químicos e elétricos. 
+08357784-n : [administração;burocracia;] : em regra, a burocracia é necessária para fazer cumprir o princípio básico da administração pública, que é a impessoalidade. a classe dos funcionários públicos, especialmente dos das secretarias de estado. 
+07921455-n : [sidra;cidra;] : ( forma preferível a cidra, do fr cidre cast sidra, do lat sicera cp sícera ). 
+03573848-n : [palmilha;] : parte da meia, que cobre a planta do pé. 
+09636339-n : [negro;negra;] : indivíduo de raça negra, preto. 
+05557500-n : [dorsal;dorso;] : parte posterior do corpo humano, entre os ombros e os rins. 
+06836275-n : [fi;φ;] : φ  ou fi é a vigésima-primeira letra do alfabeto grego. 
+05275315-n : [ilíaco;ílio;] : osso da bacia. a maior das três partes, em que se divide o osso ilíaco. 
+07325190-n : [começo;início;decolagem;princípio;] : o que vem primeiro, origem, início, começo. 
+05267345-n : [tecidos;tecido;tecido_celular;] : parte sólida dos corpos organizados. 
+04764412-n : [generalidade;] : qualidade do que é geral, do que abrange uma totalidade de coisas, ou do que é considerado em toda a sua extensão. 
+06318904-n : [infinitivo;] : todos os verbos no infinitivo são substantiváveis. o infinitivo entra na formação dos tempos compostos com o verbo ir, estar, em locuções verbais de significado aspectual, em locuções verbais em geral . 
+01644373-n : [perereca;] : anfíbio da ordem dos anuros da família hylidae. 
+06835206-n : [lambda;] : nome da letra, que no alfabeto grego corresponde ao nosso l. 
+06835740-n : [π;pi;] : a letra π  do alfabeto grego. 
+13300141-n : [moratória;] : adiamento dos vencimentos das dívidas, com suspensão dos pagamentos e da ação da justiça, decretado pelo governo quando o país enfrenta circunstâncias excepcionalmente graves. 
+12246641-n : [mirtilo;] : pequeno fruto de cor azul-escuro desse arbusto. 
+13584918-n : [dioptria;grau;] : grau kelvin: unidade de medida de temperatura da escala de kelvin, muito usada para observações científicas. grau fahrenheit: unidade de medida de temperatura da escala de fahrenheit, a mais usada nos estados unidos. grau celsius: unidade de medida de temperatura da escala de celsius, a mais usada no brasil e na europa. 
+03873416-n : [remo;pá;pagaia;] : remo de pá larga e haste curta. 
+08272460-n : [falange;] : cada um dos ossos dos dedos. 
+06359193-n : [site;website;sítio;sites;] : espaço em um computador ou rede de computadores preenchido com hipertexto, imagens e outros elementos dos mais diversos tipos, os quais formam um sistema de páginas interligadas, acessíveis pela rede mundial.nesta acepção são mais conhecidas, no brasil, as palavras "site" e "website", as quais são ambas estrangeirismos do idioma inglês. a palavra "sítio" não deve ser confundida com "página", pois um sítio da internet está associado a uma coleção de páginas interligadas, e daí não se reduz, em geral, a uma só página. 
+09495103-n : [górgona;] : na mitologia grega três mulheres, esteno, euríale e medusa que possuíam serpentes por cabelos e que transformavam em pedra quem as encarasse. 
+00015388-n : [ser;criatura;bicho;animal;besta;] : ser vivo, irracional. ser vivo pertencente ao reino wikispecies:animalia|animalia. 
+01887787-n : [vaca;] : carne de gado vacum. 
+14872697-n : [espuma;] : agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes ou agitados, mormente pela agitação de água à qual se adicionaram certas substâncias, tais como sabões ou detergentes. 
+14764820-n : [arminho;] : pele do arminho. 
+13983717-n : [noite;] : trevas, escuridão, período de provação e sofrimento. 
+02129165-n : [leão;leões;] : grande felídeo africano de juba abundante, cujo nome científico é panthera leo. 
+00024720-n : [estado;condição;situação;] : circunstância em que se está, situação. situação, modo de ser, de uma pessoa ou coisa. 
+05307952-n : [siso;dente_do_siso;] : dente do siso. 
+05540121-n : [caveira;crâneo;crânio;] : o crânio e ossos da face descarnados. 
+02394477-n : [artiodátilo;ungulados;artiodátilos;artiodáctilos;] : espécime da ordem de mamíferos que apresentam número par de dedos em cada pé e que engloba os porcos, hipopótamos, camelos, girafas, ovelhas, bodes, antílopes e outros animais assemelhados. 
+07644967-n : [frango;galinha;] : o filho da galinha, já crescido, mas antes de ser galo. 
+14635092-n : [crômio;cromio;crómio;cromo;] : elemento químico de símbolo cr, possui o número atômico 24 e massa atômica relativa 51,996 u. é um metal de transição, muito resistente à corrosão e a temperatura. é obtido principalmente do mineral cromita. é empregado na metalurgia para endurecer o aço e como revestimento de peças decorativas. 
+06267145-n : [folha;jornal;papel_de_periódico;] : gazeta diária. 
+08654360-n : [estado;província;] : cada uma das divisões administrativas de certos estados. divisão regional ou administrativa em alguns estados. 
+09622302-n : [amado;amante;namorada;] : homem a quem se tem amor. rapariga ou mulher, que alguém namora ou galanteia. 
+00004258-n : [ser;organismo;ser_vivo;] : disposição dos órgãos, nos seres vivos. conjunto de órgãos que constituem um ser vivo. todo ente vivo e/ou animado. 
+15141213-n : [milênio;milénio;] : nome que denota período de tempo geral, indiferenciado. 
+08499504-n : [biosfera;] : conjunto de todas as partes do planeta terra onde existe ou pode existir vida, e que abrange regiões da litosfera, da hidrosfera e da atmosfera. 
+02673291-n : [ás;] : carta de jogar, que tem um só ponto marcado. carta de baralho cujo valor é um e cujo símbolo é a letra "a". 
+14147380-n : [enfisema;] : doença pulmonar obstrutiva crônica caracterizada pela dilatação excessiva dos alvéolos pulmonares, o que causa a perda de capacidade respiratória e uma oxigenação insuficiente. 
+07156219-n : [patoá;] : dialeto de qualquer idioma. 
+09623038-n : [chefe;líder;] : indivíduo, que, entre outros, é cabeça ou o principal. 
+14652824-n : [roentgénio;roentgênio;] : elemento químico de símbolo rg, possui o número atômico 111 e massa atômica relativa 272 u. é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado. produzido por uma reação de colisão entre isótopos do 209bi e do 64ni. não possui nenhuma aplicação prática conhecida. 
+07509572-n : [espanto;admiração;surpresa;] : sentimento de assombro, surpresa ou espanto diante de uma situação. 
+06993225-n : [língua_herero;língua_hereró;hereró;] : língua nígero-congolesa, falada pelos hererós na namíbia e no botsuana. 
+14839322-n : [duraluminio;duralumínio;] : liga composta de alumínio, cobre, magnésio e manganês. 
+08593262-n : [fronteira;] : a totalidade dos pontos existentes nas linhas fronteiriças de um conjunto. linha divisória entre duas regiões ou países. o marco, a raia, a linha divisória entre duas áreas, regiões, estados, países etc. 
+14145501-n : [gripe;constipação;resfriado;gripa;] : doença muito frequente, normalmente virótica, que causa congestão das via respiratória|vias respiratórias e pode causar febre. 
+09976728-n : [credor;] : de forma análoga, diz-se da pessoa que presta um favor, em relação àquela em favor da qual o favor é prestado, haja vista a expressão popular "devo-lhe um favor". 
+15239579-n : [temporada;tempo;estação;estações;] : nome que denota período de tempo geral, indiferenciado. 
+13910116-n : [vaga;vácuo;vazio;vacância;] : espaço vazio. espaço vazio entre os corpos celestes. 
+06834245-n : [β;beta;] : o nome da segunda letra do alfabeto grego, de símbolo β, antecedida por alfa e sucedida por gama. no grego moderno é chamada vita e representa o som de "v". 
+00490350-n : [vinte-e-um;blackjack;] : jogo de cartas, em que se distribuem duas a cada parceiro, e em que o ganho é para aquele que reúne um número de pontos igual a vinte e um, ou próximo de este, mas nunca excedendo *o*. 
+12205694-n : [maconha;erva;] : nome de planta, flor, erva, arbusto, etc. 
+00034479-n : [coisa;] : em sentido filosófico, coisa é tudo aquilo subsistente por si mesmo. a filosofia kantiana afirma ser uma coisa aquilo que existe independentemente do espírito. no sentido usual, como para o direito, coisa é tudo aquilo que, percebido pelos sentidos, pode apresentar utilidade para o homem, caso em que se chama bem material. 
+00033615-n : [medida;magnitude;quantia;número;quantidade;] : conceito medido por unidade de medida. 
+06949591-n : [inglês_antigo;anglo-saxão;lingua_inglesa_antiga;língua_inglesa_antiga;] : língua germânica morta que foi falada pelos povos que invadiram a grã bretanha no início da idade média. evoluiu, originando o inglês atual. 
+07891726-n : [vinho;vinhos;] : bebida fermentada feita da uva. 
+14649775-n : [plutónio;plutonio;plutônio;] : elemento químico de símbolo pu. ver plutônio. 
+02767433-n : [espaldar;] : o encosto de uma cadeira. 
+00691050-n : [resecção;] : operação cirúrgica, que consiste em cortar uma parte, mais ou menos extensa, de um órgão. 
+01558594-n : [melro-preto;melro;] : ave do gênero turdus e portanto aparentada aos tordos, caraxués e sabiás. 
+14655371-n : [sodio;sódio;] : elemento químico de símbolo na, possui o número atômico 11 e massa atômica relativa de 22.989. é um metal alcalino, sólido na temperatura ambiente, com coloração branco prateado.  é encontrado em grande quantidade na forma de cloreto de sódio  nas águas marinhas. é a principal matéria prima para obtenção de outros sais. 
+14906850-n : [herbicida;herbicidas;] : substância química que induz mudança. 
+10182913-n : [homossexual;bicha;veado;lésbica;homo;sapatão;gay;] : indivíduo que sente atração sexual e/ou mantém relação sexual com pessoas do mesmo sexo. 
+14853947-n : [fezes;merda;excreção;excremento;] : matéria que se excreta, fezes, urina, suor. 
+04856308-n : [segurança;] : condição ou estado de estar seguro ou protegido. 
+11683989-n : [semente;fruta;] : grão ou parte do fruto com o embrião em estado de vida latente. 
+05122557-n : [ascendência;maioria;maioridade;] : o maior número. o maior número, a maior parte. 
+14619225-n : [átomo;] : é a menor partícula em que se pode dividir um elemento, exibindo ainda todas as características típicas do comportamento químico desse elemento. 
+04033995-n : [colcha;coberta;edredon;] : colcha de cama. coberta de cama, estampada ou com lavores. 
+03760310-n : [microprocessadores;microprocessador;] : circuito integrado, contendo uma unidade lógica e aritmética, unidade de controlo, entradas e saídas e, mais atualmente, outras unidades diversas. 
+03397266-n : [fragata;fragatas;] : navio de guerra. navio de guerra a vela, de três mastros, com apenas uma ou duas cobertas de canhões. navio de guerra de emprego geral ou apenas anti-submarino, maior do que a corveta e menor do que o cruzador. 
+03100490-n : [veículo;meios_de_transporte;modo_de_transporte;] : meio de transporte ou veículo usado em terra, mar ou outro meio aquático ou no ar. 
+05983347-n : [objectivo;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+08672199-n : [lugarejo;vila;] : divisão administrativa de uma cidade. 
+03180504-n : [contratorpedeiro;destróier;contra-torpedeiro;contratorpedeiros;] : navio veloz, de porte médio, que dispõe de torpedos, especialmente empregado na guerra anti-submarina. 
+15165490-n : [meio_dia;meio-dia;] : hora ou momento, que divide em duas partes iguais o dia alumiado. meio do dia, doze horas após a meia-noite. 
+03182795-n : [dois;] : carta de jogar ou peça do dominó, que tem dois pontos. 
+14639921-n : [hélio;] : elemento químico de símbolo he, possui o número atômico 2 e massa atômica relativa de 4,002602 u. é o primeiro elemento da classe dos gases nobres. 
+04370048-n : [suéter;camisola;pulôver;agasalho;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+04785908-n : [naturalidade;] : qualidade do que é natural. 
+05945642-n : [opinião;ideia;perspicácia;pensamento;idéia;] : intelecto, mente, conjunto das convicções e opiniões de uma certa pessoa. 
+09428741-n : [parte;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+10231087-n : [assassino;matador;] : indivíduo que retira a vida a outro ser humano. 
+04970916-n : [rosa;cor-de-rosa;] : o que é da cor mais característica das rosas. 
+14252564-n : [melanoma;melanoma_maligno;] : tipo de câncer que atinge o tecido epitelial, mais especificamente a pele. 
+15140405-n : [vida;duração_de_uma_vida;] : tempo desde o nascimento até a morte. tempo, que decorre entre o nascimento e a morte. 
+13961399-n : [vida;existência;] : forma de vida. aquilo que nas composições literária e artísticas é como a vida em um corpo. 
+01233802-n : [presença;] : existência ou assistência de uma pessoa em determinado lugar. 
+15166462-n : [véspera;tarde;anoitecer;fim_de_tarde;noite;] : o período do dia entre o meio-dia e o anoitecer. 
+06945095-n : [servocroata;língua_servo-croata;servo-croata;] : língua eslava falada principalmente na sérvia, em montenegro, na croácia e na bósnia-herzegovina. 
+08652036-n : [bairro_de_lata;favela;musseque;] : bairro de lata. 
+02715513-n : [sala;vestíbulo;saguão;antecâmara;átrio;antessala;] : compartimento ou pequena sala que precede a câmara do comandante. aposento que antecede a câmara. 
+05556943-n : [barriga;tronco;ventre;estômago;abdômen;abdómen;abdome;] : a parte do corpo humano abaixo do tronco. 
+14646152-n : [neão;neón;neônio;neon;neónio;néon;] : elemento químico de símbolo ne, possui o número atômico 10 e massa atômica relativa de 20.179. é o segundo elemento da classe dos gases nobres.  encontra-se distribuído por todo o universo. provavelmente, o neônio fazia parte do material que se condensou para dar origem ao planeta terra. é utilizado para fabricação de tubos para anúncios luminosos e lâmpadas estroboscópicas. 
+15063699-n : [sulfeto;sulfetos;sulfureto;] : composto químico, i.e., substância que consiste em dois ou mais elementos diferentes em porporções definidas (não contemplado em nome massivo). 
+06125041-n : [ciência_aplicada;tecnologia;engenharia;ciências_aplicadas;] : ciência ou arte de construção. 
+05577654-n : [dedo_do_pé;dedo;dedo_da_mão;] : cada uma das partes da luva, correspondentes aos dedos. 
+14271173-n : [níveis_de_sódio_baixos_no_sangue;hiponatremia;] : nível reduzido de sódio no sangue. 
+15254028-n : [época;idade;era;período;] : nome que denota período de tempo geral, indiferenciado. parte de uma era, que é subdividida em idades. 
+07175241-n : [consenso;aliança;pacto;aprovação;acordo;conformidade;] : concordância ou concórdia de sentimentos e ideias. 
+14934031-n : [levedura;leveduras;] : substância química que induz mudança. 
+08672738-n : [cidade;aldeia;aldeias;vila;] : pequena povoação, que não tem categoria de vila ou cidade povoação rústica. 
+09437241-n : [fatia;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+07902937-n : [araca;] : bebida alcoólica, preparada na índia e na américa com a fermentação do arroz principalmente. 
+08506496-n : [oásis;] : terreno, coberto de vegetação, nos grandes desertos da ásia e da áfrica. 
+01629276-n : [caudados;anfíbios_caudados;salamandras;salamandra;] : nome comum dos anfíbios caudados. 
+08306194-n : [casta;castas;] : classe social endógama. classe social em certos países. 
+03968293-n : [vela;] : vela eléctrica, conjunto dos carvões que, nos aparelhos de iluminação, produzem a luz eléctrica. 
+05574332-n : [barriga_da_perna;panturrilha;surata;] : a parte posterior, carnuda, da perna, formada pelos músculos gêmeos. 
+03614007-n : [teclado;teclados;] : conjunto de teclas de um instrumento. 
+03564667-n : [importação;] : processo comercial e fiscal que consiste em trazer um bem, que pode ser um produto ou um serviço, do exterior para o país ou região de referência. 
+03597469-n : [jóia;joalheria;joalharia;] : artefacto, de substância preciosa, pedra ou metal. 
+10287213-n : [homem;marido;macho;varão;] : indivíduo adulto do sexo masculino, varão da espécie homo sapiens. 
+02399791-n : [omaso;] : terceiro estômago dos ruminantes. 
+07969695-n : [tribo;família;clã;familia;] : grupo de famílias que se consideram descendentes dos mesmos ancestrais. 
+07754894-n : [grão_de_cacau;cacau;] : fruto do cacaueiro, cuja a semente é usada na produção de chocolate e manteiga de cacau. 
+03076708-n : [produto;bens;mercadoria;bem;artigo;fazenda;objecto_posto_à_venda;] : bens, produtos ou serviços que possam ser comprados e vendidos. 
+05535869-n : [cólon;] : porção média do intestino grosso que vai do ceco ao reto, composto pelos cólons ascendente, transverso, descendente e sigmóide. 
+02849154-n : [colcha;cobertor;coberta;manta;] : cobertor superior da cama, que pelo comum é para enfeite do leito, por vezes tecido de retalhos. cobertor, especialmente o que se destina à cama. colcha de cama. coberta de cama, estampada ou com lavores. 
+06573600-n : [compilador;compiladores;] : tipo de programa de computador ou rotina. inclui termo genérico e nome de produto específico. 
+03684823-n : [locomotivas;locomotiva;máquina;] : máquina a vapor, a óleos pesados ou a eletricidade que reboca um comboio. 
+07951464-n : [acervo;acúmulo;ruma;montão;cúmulo;colecção;grupo;reunião;multidão;aglomeração;chusma;pilha;coleção;] : no jogo do bicho, cada um dos conjuntos de quatro números  em que está subdividido o repertório total de 100 números ou 25 animais. 
+14915184-n : [gelo;geada;] : uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos quando eles resfriam-se abaixo do ponto de orvalho e quando o ponto de orvalho é inferior ao ponto de congelamento da água. 
+04090263-n : [espingardas;refle;espingarda;fuzil;rifle;] : arma de fogo, portátil e de cano comprido. arma de fogo portátil, de cano longo, maior que 48 cm. 
+13372665-n : [esmeralda;] : pedra preciosa translúcida normalmente de cor verde. pedra preciosa, ordinariamente verde. 
+05785508-n : [meditação;contemplação;reflexão;especulação;pensamento;] : contemplação ou consideração de algum assunto. 
+00248977-n : [melhoria;melhoramento;] : melhor estado. transição para melhor estado. 
+04381994-n : [louça;] : barro, porcelana ou outras substâncias análogas, manufacturadas por oleiro, para serviço de mesa especialmente. 
+05948857-n : [misticismo;] : crença religiosa ou filosófica, que admite comunicação oculta entre o homem e a divindade. 
+04175859-n : [posto;posto_de_gasolina;bombas_de_gasolina;] : posto de abastecimento. 
+07387509-n : [ruído;] : som desordenado de muitas vozes. 
+10203839-n : [pessoa;indivíduo;individuo;] : os dois tipos mais comuns são pessoa física e pessoa jurídica. 
+08574314-n : [região_geográfica;região;área_geográfica;] : grande extensão de território. 
+03122748-n : [capa;cobertura;] : coisa macia feita de tecido ou de pele, vestuário, roupa. vestuário largo e sem mangas, que, pendente dos ombros, se usa sobre a outra roupa. peça de vestuário ampla e sem mangas usada por cima da outra roupa. 
+00028270-n : [espaço_temporal;tempo;] : sucessão de anos, meses, dias, horas que envolve a sensação de passado, presente e futuro. 
+09676884-n : [eslavo;] : indivíduo dos eslavos, povo indo-europeu que habita a europa central e oriental há cerca de cinco mil anos. 
+15270431-n : [hora;tempo;] : período de sessenta minutos de tempo. 
+12532168-n : [semente_de_soja;soja;] : planta leguminosa, ( glycine soja, sieb ). 
+12641413-n : [cerejeira;] : árvore e flor  da família das rosáceas que produz as cerejas e madeira apreciada. 
+15237782-n : [inverno;] : estação do ano que se segue ao outono e antecede a primavera. uma das quatro estações do ano, entre o outono e a primavera. 
+07516354-n : [raiva;zanga;ira;cólera;] : sentimento de irritação, agressividade, rancor e/ou frustração, motivados por aborrecimento, injustiça ou rejeição sofridas, etc. 
+07907943-n : [licores;licor;] : bebida alcoólica, doce e aromatizada. 
+00024264-n : [predicado;propriedade;atributo;característica;] : nome abstracto que descreve a natureza inerente/intrínseca de uma pessoa ou coisa. 
+14584110-n : [actinídeo;actinídeos;] : grupo de elementos químicos com propriedades físicas semelhantes que, junto com os lantanídeos, são conhecidos por terras raras. todos eles são radioativos e possuem dois elétrons na camada de valência, numa configuração 7s2. os actinídeos são formados pelos elementos naturais ac, th, pa, u e, pelos chamados elementos transurânicos, np, pu, am, cm, bk, cf, es, fm, md, no, lw. 
+02863750-n : [caldeiras;caldeira;caldeira_de_vapor;] : grande vaso metálico, para aquecimento de água, produção de vapor, cozedura de alimentos, etc. 
+04227144-n : [desenho;esboço;croqui;] : esboço, em breves traços, de desenho ou de pintura. 
+02815950-n : [trave;viga;] : peça de sustentação horizontal, utilizada em construções. pode ser de madeira, de concreto armado ou de aço. 
+08524735-n : [cidade;centro_urbano;urbe;município;metrópole;] : metrópole nacional: cidade que devido ao porte de suas atividades financeiras, administrativas e no campo da informação, adquire importância e influência nacional, regional e até mundial, como, p.ex., londres, tóquio etc. 
+06834674-n : [zeta;dzeta;ζ;] : nome da letra, que no alfabeto grego corresponde a z. 
+04446521-n : [casa_de_banho;vaso_sanitário;banheiro;] : cômodo com instalações sanitárias para a higiene pessoal, quarto de banho. 
+02948719-n : [pavio;] : cabo das velas, círios, candeias, mecha. 
+02807731-n : [casa_de_banho;quarto_de_banho;banheiro;quartodebanho;sala_de_banho;] : cômodo com instalações sanitárias para a higiene pessoal, quarto de banho. 
+06403393-n : [caligrafia;] : escrita, geralmente cursiva, produzida principalmente com pincel. 
+14648100-n : [oxigenio;oxigénio;oxigênio;oxígênio;] : elemento químico de número atómico 8 e símbolo o. é um gás na temperatura ambiente, incolor, inodoro e insípido. 
+09428967-n : [sedimento;depósito;sedimentos;] : depósito, resultante da precipitação de substâncias dissolvidas ou suspensas em um líquido. 
+07480896-n : [ardor;paixão;] : sentimento ou emoção de grante intensidade. 
+07457126-n : [olimpíada;olimpíadas;jogos_olímpicos;] : cada um dos intervalos de quatro anos entre dois jogos olímpicos pelos quais o tempo era contado na grécia antiga. 
+01934440-n : [anelídeos;anelídeo;] : espécime dos anelídeos, filo de vermes de corpo mole e alongado, segmentado. 
+02965300-n : [cargueiro;navio_cargueiro;] : cargueiro a frete:  navio de carga empregado em linha não regular  de navegação destina-se, em cada viagem, a qualquer porto onde houver carga. cargueiro regular:  navio de carga empregado em linha regular de navegação. 
+15225249-n : [hora;semestre;] : período do ano correspondente a seis meses. 
+00026192-n : [impressão;emoção;sentimento;] : desordem--no sentido de comoção ou abalo moral, o termo é considerado galicismo dispensável. 
+04264914-n : [nave_espacial;astronave;naves_espaciais;espaçonave;] : nave espacial. 
+03682487-n : [fechadura;] : mecanismo que, acionado por uma chave, serve para fechar de forma segura portas, gavetas ou tampas. 
+06535035-n : [common_law;jurisprudência;jurisprudencia;direito_consuetudinário;] : conjunto das decisões judiciais tomadas mediante o uso da hermenêutica, isto é, a arte de interpretar as leis visando preencher suas lacunas. quando tem dúvida sobre o que diz a lei, o juiz deve seguir regras conforme o direito em causa. uma das regras consiste em observar a decisão que outros juízes tomaram diante da mesma dúvida. essa fonte de informações se chama jurisprudência. o juiz não é obrigado a imitar seus antecessores. pode inovar e criar nova jurisprudência. 
+03924811-n : [fotocópia;xérox;] : reprodução fotográfica de imagens diretamente sobre papel. reprodução de uma imagem em papel químico, impressionável pela luz e mediante uma matriz transparente. 
+03906997-n : [caneta_esferográfica;caneta-tinteiro;caneta;] : instrumento de escrita que usa tinta. 
+00021265-n : [comida;alimento;nutriente;] : o conjunto de substâncias normalmente ingeridas por uma pessoa ou animal. tudo que, digerido, alimenta ou serve para nutrição. 
+04577769-n : [açoite;chicote;chibata;] : instrumento com tiras de couro e algumas vezes extremidades pontiagudas, com o objetivo de ferir. 
+00066216-n : [falha;insucesso;] : insucesso, ação ou evento em que não se obteve sucesso. 
+02185481-n : [piolho;] : insecto parasita, de que há várias espécies, sendo a principal o piolho da cabeça, ( pediculus capitis ). 
+13810818-n : [resíduo;excedente;resto;sobra;resto_da_divisão_inteira;tudomais;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+11473291-n : [vida;] : nome que denota período de tempo geral, indiferenciado. propriedade que caracteriza os organismos cuja existência evolui do nascimento até a morte. aquilo que nas composições literária e artísticas é como a vida em um corpo. grande período de tempo. 
+05317354-n : [córnea;] : membrana transparente, que deixa passar os raios luminosos para a pupila do olho. membrana exterior do olho humano, situada anteriormente à pupila. 
+14660052-n : [ununpentio;ununpêntio;] : nome temporário do elemento químico de símbolo uup, possui o número atômico 115 e massa atômica relativa 288 u. é provavelmente um metal radioativo de cor desconhecida. produzido pelo bombardeamento do 95am com o 20ca. não possui nenhuma aplicação prática conhecida. 
+14631871-n : [boro;] : elemento químico de símbolo b, possui o número atômico 5 e massa atômica relativa 11 u. 
+13446197-n : [equilíbrio_químico;equilibrio_quimico;equilíbrio;] : a situação resultante quando uma reação química e sua contrapartida desenvolvem-se à mesma velocidade. 
+13343526-n : [aposta;] : jogo  que pode resultar em prêmio se uma aposta  for bem sucedida. 
+08190754-n : [corpo;] : grupo que atua em conjunto. parte principal de certos objetos. parte do vestuário feminino, que se ajusta ao corpo. 
+14481511-n : [plasma;] : também conhecido como quarto estado físico da matéria. 
+07196682-n : [questão;pergunta;interrogação;qüestão;] : frase cujo objetivo é convidar um ouvinte ou leitor a dar uma explicação, uma informação, ou, em qualquer caso, uma interrogação que demanda, chama ou solicita uma resposta. 
+05315095-n : [conjuntiva;] : membrana mucosa, que forra a parte externa do globo ocular, exceptuada a córnea, e que forra a face posterior das pálpebras, ligando *as* ao mesmo globo ocular. 
+04219277-n : [silhueta;] : desenho que representa o perfil de uma pessoa, segundo os contornos que a sombra dela projeta. 
+15147713-n : [infância;juventude;] : período do desenvolvimento do ser humano, que vai do nascimento ao início da adolescência. 
+06294441-n : [neologismo;] : palavra formada recentemente, utilizando elementos clássicos e/ou populares, ou adaptando um termo de língua estrangeira. 
+09451517-n : [superfície;] : face ou parte exterior dos corpos. 
+08647616-n : [cadeira;lugar;assento;] : o objecto ou espaço em que alguém se senta habitualmente ou destinado ao assento de alguém. 
+15153787-n : [idade;velhice;] : período que, na vida do indivíduo, sucede à idade madura. 
+06828818-n : [carácter;caracter;caractér;letra;] : cada um dos caracteres do alfabeto. 
+03786096-n : [fraque;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+03106110-n : [corda;] : fio de tripa, de seda, de náilon ou de aço, esticado sobre a caixa de ressonância dum instrumento de cordas. 
+06824227-n : [maiúsculo;maiúscula;letra_maiúscula;] : letra maiúscula. 
+04105893-n : [câmara;quarto;sala;aposento;] : cada um dos compartimentos de uma casa, à excepção da cozinha, casa de jantar e sala. 
+09626238-n : [par;pário;igual;] : pessoa que tem a mesma natureza, o mesmo modo de ser, o mesmo estado ou categoria. 
+09909060-n : [figura;] : figura geométrica. 
+07051851-n : [acalento;canção_de_ninar;cantiga_de_ninar;] : canção para adormecer as crianças / cantiga de ninar. 
+03502509-n : [chapéu;chapéus;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+08665504-n : [cidade;aldeia;povoado;burgo;arraial;vila;] : pequena povoação, que não tem categoria de vila ou cidade povoação rústica. povoação, de categoria inferior à de cidade e superior à de aldeia. povoação de tamanho intermédio entre aldeia e cidade. 
+07083732-n : [prosódia;] : padrão de acento e intonação da fala. 
+04531873-n : [colete;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+03361837-n : [prataria;] : baixela de mesa, vasos, talheres, de prata. 
+14936226-n : [calcário;] : rocha, formada pelo carbonato de cálcio. 
+14844693-n : [terra;solo;] : solo, composto formado por partículas minerais e substratos orgânicos onde se planta. 
+05996646-n : [disciplina;terreno;campo;domínio;] : aquilo que uma arte ou ciência compreende. âmbito de uma arte ou ciência. 
+03580615-n : [ciberespaço;internet;] : rede de computadores dispersos por todo o planeta que trocam dados e mensagens utilizando um protocolo comum, unindo usuários particulares, entidades de pesquisa, órgãos culturais, institutos militares, bibliotecas e empresas de toda envergadura. 
+06898129-n : [volapuque;] : língua artificial, inventada em 1879. 
+07456188-n : [torneio;competição;certame;jogo;concurso;partida;] : uma sessão de jogo ou torneio. 
+05902327-n : [projeto;figura;esquema;plano;ilustração;desenho;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. desenho que decora uma obra ou ajuda a perceber uma ideia. 
+02912065-n : [bufete;prateleiras;armário;] : móvel, normalmente de madeira ou metal, e que normalmente apresenta portas e prateleiras. móvel de madeira, com prateleiras, para guardar objectos de uso doméstico. 
+13981403-n : [guerra;] : luta com armas, entre nações ou entre partidos. 
+03931044-n : [figura;imagem;ícone;ilustração;desenho;fotografia;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. 
+08182379-n : [montão;turba;multidão;] : grande massa de gente. 
+04826235-n : [justiça;honestidade;] : justeza ou retidão no tratamento de outras pessoas. 
+09976429-n : [ser;criatura;criança;] : designação para ser vivo/animado não humano (de micro-organismo a mamífero). excluí ser humano e organização humana. ser humano que se começa a criar. ser humano. 
+09303008-n : [colinas;colina;barranco;ladeira;morros;montanha;monte;morro;montanhas;chegarterra;] : elevação de terreno menos extensa e menos alta do que a montanha. 
+10470779-n : [padre;presbítero;clérigo;sacerdote;pastor;] : aquele que tem algumas ou todas as ordens sacras da igreja católica. 
+04708113-n : [naturalidade;facilidade;] : qualidade de aquilo que é fácil. qualidade do que é fácil. 
+04304215-n : [nave_espacial;nave_estelar;espaçonave;] : nave espacial. 
+03563967-n : [ferramenta;ferramenta_de_programação;instrumento;] : qualquer dos utensílios utilizados para produzir sons musicais. ferramenta ou utensílio utilizável para executar ou observar algo. 
+00496599-n : [copas;] : um dos quatro naipes das cartas de jogar, no qual cada um dos pontos tem a figura de um coração encarnado. naipe de cartas de baralho em que cada ponto é representado por um coração vermelho. 
+08256735-n : [boda;casamento;] : banquete e festa, para celebrar casamento. 
+07744246-n : [groselha;passa_de_corinto;] : fruto da groselheira. fruto retirado da groselheira. 
+00020827-n : [substância;matéria;] : substância sólida de que se faz um produto ou uma obra. qualquer substância, sólida, líquida ou gasosa, que ocupa lugar no espaço. 
+03157348-n : [prato;címbalo;pratos;] : instrumento de percussão metálico com formato de disco. normalmente no plural, instrumento musical de percussão metálico em forma de prato1. 
+06834351-n : [γ;gama;] : nome de letra, que no alfabeto grego corresponde ao nosso g. 
+06572857-n : [ciclo;] : o menor intervalo de tempo necessário para executar um comando num computador. 
+10134870-n : [comadre;madrinha;] : mãe do neófito, em relação à madrinha e ao padrinho. 
+07843775-n : [laticínio;lacticínios;produto_lácteo;lacticínio;laticínios;] : produto cuja principal matéria-prima é o leite. 
+12628986-n : [marmeleiro;marmelo;] : árvore da família das rosáceas que produz os marmelos com que se faz a marmelada. 
+00183505-n : [voto;votação;eleição;] : processo de escolha dos dirigentes de um país ou instituição através do voto de seus cidadãos ou membros. 
+09918554-n : [menina;criança;menino;] : ser humano que se começa a criar. 
+10599354-n : [idiota;matarruano;estúpido;simplório;simplória;] : uma pessoa que é estúpida. 
+00006484-n : [célula;] : unidade estrutural básica da constituição dos seres vivos, excetos dos vírus. 
+03057021-n : [casaco;sobretudo;] : casaco comprido e largo, próprio para se vestir sobre outro, como resguardo contra o frio ou a chuva. 
+05835747-n : [concepção;conceitos_por_campo;idéia;conceito;] : ideia ou noção geral. entidade psíquica abstrata e universal que serve para designar uma categoria ou classe de entidades, eventos ou relações. 
+06834992-n : [ιota;iota;ι;] : nome de letra, que no alfabeto grego corresponde ao nosso i. 
+05982915-n : [objetivo;intenção;ideia;objectivo;mente;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+08508361-n : [nascente;fonte;manancial;] : fonte ou nascente de água. 
+07066659-n : [estilo;linguagem;discurso;língua;] : comunicação através de fala ou símbolos. 
+09355623-n : [asteroide;planeta_menor;asteróide;] : cada um dos pequenos corpos celestes que gravitam em torno do sol, sendo que a maioria deles tem órbita entre marte e júpiter. pequeno corpo cósmico, que percorre o espaço, como as estrelas cadentes e os aerólithos. 
+09285254-n : [fragmento;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+13789002-n : [co-secante;cossecante;] : cossecante hiperbólica:  função definida como o inverso do seno hiperbólico. 
+04526964-n : [ventilador_pulmonar;circulador_de_ar;ventilador;exaustor;] : aparelho que funciona retirando algum ar indesejado de um lugar. 
+07745466-n : [framboesa;framboeseira;] : fruto da framboeseira, de sabor adocicado, pequeno tamanho, e cor avermelhada. 
+03840823-n : [oitante;] : instrumento de medida. 
+02958343-n : [automóveis;veículo;automóveis_particulares;carro;auto;automovel;viatura;automóvel;máquina;] : carro de mão, pequeno veículo de uma só roda, para transporte de entulho, pedras, etc. 
+08537837-n : [favela;bairro;] : bairro de lata. 
+01896031-n : [pluma;plumagem;pena;] : conjunto das penas de uma ave. pena de ave, especialmente a que é destinada a adornar chapéus, etc. conjunto de penas que cobre o corpo de uma ave. 
+00846021-n : [foda;trepada;sexo;cópula;coito;metida;] : cópula carnal, coito. relação sexual. ato sexual, coito. 
+05943300-n : [doutrina;filosofia;] : conjunto de regras e orientações que servem de base para o aprendizado dos praticantes de crenças filosóficas, políticas e/ou religiosas. 
+03234306-n : [figura;imagem;ilustração;desenho;pintura;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. 
+13741022-n : [algarismo;dígito;número;] : cada um dos símbolos de 0 a 9 usados para formar os números. 
+13742358-n : [zero;número;] : algarismo em forma de 0, que por si não tem valor algum, mas que, à direita de outros números, faz que estes tenham um valor dez vezes maior. 
+14654541-n : [silicone;silício;silicio;] : elemento químico de símbolo si, possui o número atômico 14 e massa atômica relativa 28,086. é o segundo elemento mais abundante da terra, é encontrado na argila, no granito no quartzo e na areia. é o principal elemento do vidro, cimento, cerâmica e da maioria dos componentes semicondutores eletrônicos. 
+00826397-n : [caratê;] : arte marcial|arte marcial criada com foco na luta desarmada e desenvolvida principalmente pelos habitantes da ilha de okinawa, do arquipélago ryukyu, no japão. 
+04802907-n : [exatidão;correção;rigor;acurácia;exactidão;precisão;] : qualidade de aquilo que é exacto. pontualidade, exatidão e rigor quanto ao tempo. qualidade do que é exato, rigoroso e/ou pontual. 
+06834885-n : [θ;teta;] : oitava letra do alfabeto grego . 
+07478531-n : [outono;] : estação do ano posterior ao verão e que antecede o inverno. terceira estação do ano, entre o estio e o inverno. 
+10028765-n : [recruta;] : exercício militar de recrutas. 
+00221056-n : [assassinatos;assassinato;] : palavra que deve ser evitada por ser galicismo. recomenda-se assassínio ou homicídio. 
+01019524-n : [acto_de_copiar;cópia;] : nome aspectual que denota cópia do modelo ou imitação. 
+00623862-n : [dificuldade;] : qualidade de aquilo que é difícil. 
+12345280-n : [romã;romãzeira;] : árvore da espécie punica granatum cujo fruto é a romã. 
+14654058-n : [seabórgio;] : elemento químico de símbolo sg, possui o número atômico 106 e massa atômica relativa 266 u. é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado. produzido pela colisão de íons de 249cf e de 18o. como é um elemento altamente radioativo, seu isótopo mais estável possui meia-vida de 21 segundos, não possui nenhuma aplicação prática conhecida. 
+03214670-n : [diuréticos;diurético;] : medicamento diurético. 
+14732946-n : [enzimas;enzima;] : proteína que atua como catalisador. 
+03999160-n : [presbitério;] : o edifício de uma igreja paroquial. 
+03659292-n : [pé-de-cabra;alavanca;] : alavanca de ferro, com a extremidade fendida, à semelhança de um pé de cabra. 
+03904782-n : [pedômetro;podómetro;pedómetro;podômetro;] : instrumento, com que se mede o pé, especialmente o pé dos animais, para se fazerem ferraduras adequadas à medida do respectivo pé. 
+14659512-n : [tungstênio;tungsténio;tungstenio;volfrâmio;] : elemento químico de símbolo w, também conhecido como wolfrâmio, possui o número atômico 74 e massa atômica relativa 183,84 u. é um metal de transição, branco acinzentado brilhante. é encontrado em minerais como a wolframita, a scheelita e tungstita. devido a sua extrema dureza e elevado ponto de fusão, é utilizado no revestimento de brocas de perfuração de solos, filamentos de lâmpadas incandescentes e em ligas metálicas. 
+12396924-n : [maconha;cânhamo;] : nome de planta, flor, erva, arbusto, etc. 
+12739332-n : [visco;] : planta parasita, da fam das lorantháceas. 
+14643323-n : [laurêncio;lawrêncio;laurencio;] : elemento químico de símbolo lr, possui o número atômico 103 e massa atômica relativa 262 u. 
+14481080-n : [gás;estado_gasoso;] : /  estado fluido da matéria, sem forma definida, cujo volume é o do recipiente que o contém. 
+02936714-n : [jaula;gaiola;] : ( cast jaula, gaiola ). 
+14636392-n : [darmstádio;darmstádtio;] : elemento químico de símbolo ds, possui o número atômico 110 e massa atômica relativa 281 u. é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado. produzido por uma reação de colisão entre isótopos do níquel e do chumbo. não possui nenhuma aplicação prática conhecida. 
+08407330-n : [instituto;institutos;instituição;] : sociedade ou organização de caráter educacional ou que realiza um determinado trabalho, via de regra pesquisas científicas. 
+08271801-n : [exército;] : força armada ou corpo militar numeroso e bem organizado especializado em operações terrestres. 
+08524404-n : [umbigo;] : centro, ponto mais importante. 
+05426989-n : [retina;] : a mais interior membrana do olho, em que se formam as imagens, e que transmite a percepção ao cérebro por intermédio do nervo óptico. 
+11462526-n : [vendaval;intempérie;tempestade;tempestades;tormenta;trovoadas;borrasca;] : tempestade marítima, com vento e chuva. estado climático caracterizado por ventos fortes e, muitas vezes, acompanhado por chuva, granizo, relâmpagos e trovões. violenta agitação atmosférica, muitas vezes acompanhada de chuva, granizo, trovões. 
+13819207-n : [taxa;proporção;razão;] : proporção entre duas grandezas. relação entre duas quantidades matemáticas ou entre dois números. 
+04412901-n : [estação;] : local onde param trens e ônibus. 
+00543233-n : [música;] : execução de uma composição musical, por meio da voz ou de instrumentos. 
+02330245-n : [mouse;ratazana;rato_do_computador;mus;camundongo;rato;] : pequeno quadrúpede roedor, de pequenas patas, cauda comprida e focinho bicudo, e de que há várias espécies, como a ratazana, o rato decúmano, o rato caseiro, ( mus musculus ), o ratinho dos matos, ( mus sylvaticus ), o musaranho, etc. 
+14640434-n : [hidrogênio;hidrogénio;] : elemento químico de símbolo h, possui o número atômico 1 e massa atômica relativa de 1,00794 u. é o elemento mais abundante, constituindo 75% da massa e 90% dos átomos do universo. é também o nome da substância simples, h2, um gás na temperatura ambiente, incolor, inodoro e insípido e combustível. 
+07901587-n : [espíritos;bebida_alcoólica;álcool;] : bebida alcoólica. 
+14637176-n : [európio;] : elemento químico de símbolo eu, possui o número atômico 63 e massa atômica relativa 151,964 u. é um metal de transição interna  de cor branco prateado. como o európio não possui isótopos estáveis, não é utilizado comercialmente. 
+04808639-n : [popularidade;] : qualidade do que é popular. 
+03014705-n : [arca;mala;baú;] : caixa retangular com tampa convexa e geralmente revestida de couro cru. grande caixa, de tampa chata. caixa retangular com tampa chata e geralmente revestida de couro cru, destinada a guardar o enxoval. caixa de madeira, ordinariamente revestida de coiro cru, e com tampa convexa. 
+08546870-n : [condado;condado_dos_eua;] : divisão administrativa em diversos países. 
+05845888-n : [tipo;] : reunião dos caracteres que distinguem uma raça ou classe. 
+10084295-n : [meninota;garotinha;menina;moçoila;menininha;mocinha;garina;garota;moça;jovem;puela;rapariga;guria;] : mulher moça. mulher jovem. 
+14669927-n : [cassiterita;] : mineral, de que se extrai o estanho. 
+07942152-n : [pessoas;gente;povo;população;] : conjunto de seres vivos da mesma espécie que habitam uma certa região num certo momento. 
+09426788-n : [oceano;mar;] : grande massa de água salgada, que cobre a maior parte da superfície da terra. 
+05888929-n : [possibilidade;teoria;hipótese;suposição;] : mera conjectura ou hipótese ainda sem fundamento factual. conjectura ou hipótese para a qual não há e não se espera encontrar fundamento factual. 
+10193967-n : [cônjuge;homem;marido;esposo;varão;] : termo genérico para marido ou esposa. 
+09449510-n : [tira;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+07970406-n : [família;] : conjunto das pessoas relacionadas, por criação ou geneticamente, a alguém, linhagem, e.g: pai, mãe, filhos, avôs etc. 
+09763784-n : [amizade;conhecido;conhecida;amigo;] : nome abstracto que descreve algo acerca  de uma pessoa ou coisa que não é inerente à sua natureza. 
+05284333-n : [vértebra;vertebra;] : cada um dos ossos que compõem a coluna vertebral dos vertebrados. 
+01613294-n : [águia;águias;] : grande e vigorosa ave de rapina. 
+13961642-n : [vida;animação;] : aquilo que nas composições literária e artísticas é como a vida em um corpo. 
+06244149-n : [zoroastrismo;masdaísmo;] : religião monoteísta fundada na antiga pérsia pelo profeta zaratustra, com a crença no paraíso, na ressurreição, no juízo final e na vinda de um messias. 
+05790944-n : [opção;intercorrência;escolha;eleição;alternativa;] : processo de escolha dos dirigentes de um país ou instituição através do voto de seus cidadãos ou membros. 
+14480772-n : [estado_sólido;sólido;] : estado da matéria, cujas características são ter volume e forma definidos. 
+02395003-n : [porco;suíno;świnia;] : animal do gênero sus, porco, javali. 
+07747951-n : [tangerina;mexeriqueira;mandarina;bergamoteira;bergamota;mexerica;tangerineira;] : fruta cítrica da tangerineira ou mexeriqueira. fruta cítrica produzida pela tangerineira ou mexeriqueira. 
+05513020-n : [uretra;] : canal que parte da bexiga e termina no pénis/pênis ou na vulva, por onde passa a urina . 
+13901423-n : [pelota;bola;] : nome genérico de vários jogos de bola, como beisebol, pelota basca, pelota valenciana, etc. 
+15295045-n : [floração;flor;auge;] : nome que denota período de tempo geral, indiferenciado. 
+06939431-n : [javanês;jau;] : ,  língua antiga que deu origem ao javanês. 
+03113035-n : [corveta;corvetas;] : navio de guerra com três mastros. antigo navio de guerra com três mastros. 
+06413889-n : [folheto;opúsculo;livreto;brochura;panfleto;] : pequeno livro, folheto, especialmente destinado a assuntos políticos, e escrito em estilo violento. livro ou folheto brochado. 
+13809920-n : [elemento;componente;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+05946687-n : [religião;fé;crença_religiosa;] : crença religiosa, religião. 
+02732433-n : [duto;adutora;aquedutos;ducto;aqueduto;canalização;conduto;] : nome pelo qual se designam diversos canais ou vias adutoras do organismo humano. 
+01195867-n : [julgamento;processo;] : nome abstracto que denota método, meio, processo, procedimento, etc. selecciona um complemento verbal. 
+04353803-n : [soma;totalidade;] : soma, conjunto das partes que formam um todo. 
+13250398-n : [possessão;riqueza;bem;] : situação referente à abundância na posse de dinheiro e propriedades. 
+04746842-n : [comparação;] : figura de linguagem semelhante à metáfora usada para confrontar qualidades ou ações de elementos. 
+05838176-n : [resoluções;decisão;determinação;resolução;] : opinião ou decisão formalmente expressada por um grupo de pessoas, tomada por exemplo numa reunião pública. 
+10235549-n : [parente;] : indivíduo que, em relação a outro ou outros, pertence à mesma família. indivíduo que, em relação a outro, pertence à mesma família. pessoas que procedem de progenitor comum e pertencem à mesma família. 
+09691279-n : [australiano;] : variante da língua inglesa praticada na austrália. habitante da austrália. grupo de línguas autóctones da austrália. natural ou habitante da austrália. 
+15164957-n : [jornada;dia;] : nome que designa período do dia. 
+03515338-n : [heráldica;] : ciência e à arte de descrever os brasões de armas ou escudos. conjunto dos emblemas de brasão. 
+14722589-n : [ametista;] : pedra preciosa, roxa, variedade de quartzo. 
+11418460-n : [fortuna;sorte;] : boa sorte. 
+04210390-n : [santuário;relicário;santuários;santário;] : o lugar mais sagrado do templo de jerusalém, onde estava a arca da aliança. 
+00636921-n : [pesquisa;] : pesquisa de mercado: realizada para obter dados gerais sobre um produto ou serviço e sua influência no mercado. 
+14624743-n : [lantanídeo;lantanídio;terras_raras;] : grupo de elementos químicos com propriedades físicas semelhantes, conhecidos por terras raras. todos eles possuem dois elétrons na camada mais externa, numa configuração 6s2. os lantanídeos conhecidos são: la, ce, pr, nd, pm, sm, eu, gd, tb, dy, ho, er, tm, yb, lu. 
+00445351-n : [remo;] : esporte que se pratica com remo. 
+09615807-n : [engenheiro;] : pessoa habilitada por diploma oficial a desempenhar trabalhos de engenharia. 
+05333777-n : [artéria;artérias;arteria;] : vaso sanguíneo eferente do coração, ou seja, que conduz sangue proveniente do coração. geralmente, conduz sangue rico em oxigênio. a exceção é a artéria pulmonar, que conduz sangue pobre em oxigênio. 
+14859344-n : [fertilizantes;fertilizante;estrume;] : substância química que induz mudança. 
+02751295-n : [radiotelescópio;] : telescópio sensível a ondas de rádio. 
+07041795-n : [quinteto;] : composição musical para cinco instrumentos ou vozes. 
+06575932-n : [interpretador;intérprete;] : tipo de programa de computador ou rotina. inclui termo genérico e nome de produto específico. 
+14652104-n : [radão;rádon;radônio;] : elemento químico de símbolo rn, possui o número atômico 86 e massa atômica relativa 222 u. é um gás nobre radioativo, incolor. é encontrado em fontes de águas termais. ele também é expelido naturalmente pela superfície da terra, principalmente, em regiões de solo granítico. sua ocorrência é de um átomo de radônio para 1 x 1021 moléculas de ar. 
+04206356-n : [caçadeira;espingarda;escopeta;] : arma de fogo, portátil e de cano comprido. 
+02924116-n : [autocarros;autocarro;ónibus;machimbombo;ônibus;auto-ônibus;carreira;] : e  autocarro de transportes públicos. 
+05313115-n : [coróide;coroide;] : membrana do olho, situada entre a esclerótica e a retina. membrana da parte posterior do olho. 
+13743269-n : [dois;duas;] : algarismo, representativo de esse número. 
+05216365-n : [cadáver;corpo;corpo_humano;] : corpo sem vida de um animal ou ser humano. 
+08539717-n : [alastramento_urbano;conurbação;] : conjunto formado por uma cidade  e outras cidade-satélite|cidades-satélites, constituindo uma área urbana contínua. 
+09645091-n : [pele_vermelha;índia;indígena;índio;] : indivíduo de qualquer um dos povos nativos da américa. 
+10628644-n : [borboleta-monarca;suserano;monarca;] : chefe supremo, vitalício e, geralmente, hereditário, de uma nação ou estado. 
+07510184-n : [fascínio;espanto;encatamento;admiração;] : sentimento de assombro, surpresa ou espanto diante de uma situação. 
+07122639-n : [hosana;] : recorre-se ao hosana também fora da liturgia, como um grito de exultação. 
+08181658-n : [classe-média;burguesia;classe_media;classe_média;] : classe social que, surgindo nos burgos medievais, inciou sua ascensão com a renascença, e domínio político a partir da w:revolução francesa|revolução francesa. 
+15207872-n : [mês;lua;] : mês lunar, período de tempo, aproximadamente 28 dias, que a lua demora a dar a volta à terra. 
+09303528-n : [declive;vertente;ladeira;encosta;rampa;] : declive de montanha, por onde derivam as águas pluviais. 
+01114458-n : [retalho;varejo;] : venda a retalho. 
+14530061-n : [suscetibilidade;susceptibilidade;] : a qualidade ou estado de ser suscetível. 
+03575240-n : [equipamentos;apetrechos;] : munições e instrumentos de guerra. 
+01465593-n : [canino;presa;] : dente canino. cada um dos dentes caninos. 
+03148130-n : [buraco;] : buraco negro: região do espaço com alta densidade gravitacional de onde nem a luz escapa. 
+13923779-n : [saúde;] : condição geral do corpo e da mente em relação às doenças e ao vigor físico e mental. estado do que não tem doenças ou ferimentos. 
+02909870-n : [caçamba;cubeta;balde;] : vasilha de forma quase cilíndrica para o transporte de água e outros usos domésticos feita em madeira, metal ou plástico. 
+04439305-n : [iodo;] : elemento químico de símbolo i, possui o número atômico 53 e massa atômica relativa 126,904 u. 
+14980579-n : [óleo;petróleobruto;petróleo;querosene;nafta;petroleo;crude;] : líquido produzido pela destilação do petróleo, formado por uma mistura de hidrocarbonetos alifáticos, naftênicos e aromáticos, é utilizado como combustível na aviação, solventes e como base de alguns inseticidas. 
+04204953-n : [tecla_de_atalho;atalho;] : caminho estreito, que, por fora de estrada comum, encurta as distâncias. 
+03450516-n : [vestido;manto;beca;] : veste feminina, larga, comprida e sem mangas, usado por cima do vestido, que pode cobrir inclusive a cabeça, cingida pela cintura. 
+09681351-n : [judeu;hebreu;hebreia;hebraica;judia;hebraico;] : indivíduo que pertencia aos hebreus, povo antigo da judeia, do qual descendem os atuais judeus. 
+07972425-n : [feudalismo;] : sistema social que tinha tal relação como base. 
+02737660-n : [braço;] : cada um dos membros superiores, ligados ao ombro, no corpo humano. apêndice de móveis como cadeiras e poltronas que serve para apoiar o braço de quem senta. porção do membro anterior humano compreendida entre o ombro e o cotovelo. 
+07546465-n : [aversão;ódio;odio;objecto_de_ódio;] : sentimento de repulsão. 
+06425065-n : [número;] : cada uma das folhas ou cadernos de uma publicação, geralmente periódica e distribuída em mais ou menos exemplares com o mesmo texto. 
+03495258-n : [harpa;] : instrumento triangular, de cordas desiguais, que se tocam com os dedos. instrumento musical de cordas triangular. 
+03053788-n : [paus;] : naipe de cartas de baralho representado por um trevo negro . 
+04189482-n : [lata;folhadelata;folha;placa;] : chapa, lâmina de metal. 
+05844881-n : [espécie;classe;tipo;género;espécies;variedade;] : reunião dos caracteres que distinguem uma raça ou classe. 
+05527085-n : [prepúcio;] : pele, que cobre a glande do pénis. 
+06336904-n : [último_nome;apelido;cognome;sobrenome;nome_de_família;] : nome de família após o prenome. nome de família, que se segue ao nome de batismo. 
+07288801-n : [milagre;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+00825331-n : [aikido;] : arte marcial japonesa, de natureza marcadamente defensiva, com técnicas que buscam a neutralização de ataques adversários por meio de movimentos de rotação e esquiva, nos quais a própria força do oponente é usada para desequilibrá-lo e vencê-lo. 
+04344246-n : [estudio;estúdio;] : local de trabalho de um artista. 
+11453016-n : [potencia;potência;] : nome que denota unidade de medida de potência, cinética ou energia. 
+07066285-n : [reggae;] : estilo de música popular jamaicana surgido na década de 1960 que mistura blues, calypso e rock-n-roll, caracterizado por um ritmo sincopado forte e letras de protesto social. 
+06400271-n : [passagem;] : porção ou seção de um texto escrito. 
+03574816-n : [ferramenta;aparelho;instrumento;instrumento_musical;] : dispositivo utilizado como ferramenta para realizar um trabalho. 
+03932670-n : [pano;] : as peças que formam uma saia ou as velas de um navio. tanga ou pedaço de tecido que tapa as partes pudentes. 
+15144371-n : [época;período;] : nome que denota período de tempo geral, indiferenciado. 
+06966310-n : [português;língua_portuguesa;] : língua, falada pelos portugueses. 
+07222581-n : [lenda;conto_de_fadas;estória;contodefadas;] : história, no sentido de narrativa ficcional. 
+01640846-n : [rã;rãs;ranidae;] : anfíbio da ordem dos anuros que possui pele lisa. geralmente, da família dos ranídeos. 
+06664981-n : [protocolo;] : conjunto de regras a observar em matéria de etiqueta, como as seguidas em cerimónias oficiais. 
+02402425-n : [gado;gado_bovino;vacum;boi;vaca;bovinos;] : carne do gado vacum. 
+08168367-n : [estrangeiro;país_exterior;terra_estrangeira;] : pessoa com origem em outro país, nação ou estado. 
+03320519-n : [disfarce;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+07508486-n : [orgulho;auto-estima;] : pondunor, sentimento de dignidade pessoal. sentimento de dignidade a si mesmo. 
+05314919-n : [pestana;celha;cílio;] : pêlos, que garnecem as pálpebras. pêlo, que guarnece as pálpebras. cada um dos pêlos que bordam as pálpebras. 
+02366301-n : [paca;] : quadrúpede roedor da américa do sul, ( cavia paca, lin ). 
+13744304-n : [quarteto;4;quatro;] : o algarismo, que representa o número quatro. 
+05567381-n : [indicador;dedo_índex;índex;dedo_indicador;] : dedo indicador. 
+03183080-n : [dispositivo;ferramenta;aparelho;instrumento;aparato;mecanismo;equipamentos;] : aparelho, destinado a produzir sons musicais. 
+14997699-n : [produto;produtos;] : substância obtida a partir de outra substância por meio de reação química. 
+07575076-n : [lanche;merenda;almoço;] : pequena refeição, entre o almoço e o jantar. 
+02984469-n : [cateter;] : tubo que pode ser inserido em um ducto ou vaso, em uma cavidade corpórea natural ou em uma cavidade cística ou de abcesso, possibilitando a drenagem ou injeção de fluidos ou o acesso a instrumentos cirúrgicos. 
+06320569-n : [verbo;] : em português, os verbos no infinitivo têm as terminações ar, er ou ir. 
+04371774-n : [baloiço;balanço;] : brinquedo normalmente encontrado em parques. 
+03149810-n : [cureta;] : instrumento cirúrgico, em forma de colher ou pá, para extrair do organismo animal um corpo estranho. instrumento cirúrgico para raspar. 
+03007130-n : [capelas;capela;ermida;igreja;] : lugar no vão da parede de igreja com um altar. 
+05155821-n : [benefício;vantagem;handicap;utilidade;lucro;] : vantagem, benefício, lucro ou proveito de algo que se considera útil para determinado fim. 
+14327707-n : [enxaqueca;] : condição clínica configurada por vários graus de dores internas na cabeça. dor, em parte da cabeça. 
+02687172-n : [transportador;porta-aviões;] : navio de guerra com aviões. 
+10513823-n : [ruivo;ruiva;] : indivíduo que tem o cabelo ruivo. indivíduo de cabelo ruivo. 
+06023969-n : [média;] : média harmônica:  o inverso da média aritmética dos inversos de um conjunto de valores. 
+02844056-n : [bispo;] : peça do jogo de xadrez que se move na diagonal. 
+03716966-n : [bandolim;] : instrumento musical com formato de pera, com oito cordas, as quais são afinadas duas a duas em uníssono, afastadas em quintas. 
+14649197-n : [fósforo;fosforo;] : elemento químico de símbolo p, possui o número atômico 15 e massa atômica relativa 30,973. 
+08598823-n : [meridiano;] : círculo máximo, que passa pelos polos, pelo zenithe e pelo nadir, e corta o equador em ângulos rectos. 
+09376198-n : [oceanos;oceano;mar;] : grande massa de água salgada, que cobre a maior parte da superfície da terra. 
+04206948-n : [acostamento;berma;] : caminho, entre um molhe e a borda de um canal ou fosso. 
+04509592-n : [uniforme;fardamento;farda;] : farda ou vestuário, feito segundo um modelo comum, para uma corporação ou uma classe. traje uniforme para uma categoria de indivíduos. 
+06904171-n : [língua_natural;linguagem;linguagem_natural;idioma;língua;lingua_natural;] : linguagem, idioma, conjunto de expressões sonoras com um significado convencional partilhado por um grupo de seres humanos. 
+06128570-n : [ciência_da_computação;informática;ciencia_da_computacao;] : conjunto das ciências da informação, entre elas: a ciência da computação, a teoria da informação, o processo de cálculo, a análise numérica e os métodos teóricos de representação do conhecimento e de modelagem de problemas. 
+03840681-n : [ocarina;] : instrumento de sopro globular feito de porcelana, terracota ou pedra, semelhante a uma flauta. 
+09724533-n : [neozelandês;] : natural ou habitante da nova zelândia. 
+04803880-n : [exatidão;rigor;precisão;] : pontualidade, exatidão e rigor quanto ao tempo. 
+11608250-n : [pinheiro;] : o pinheiro de riga, ( pinus sylvestris ). género de árvores coníferas, ( pinus ), de que há várias espécies, como. o pinheiro silvestre, ( pinus sylvestris ). 
+05845419-n : [classe;tipo;] : reunião dos caracteres que distinguem uma raça ou classe. 
+10143172-n : [avós;avô;] : plural que se refere ao avô e à avó, por parte do pai, da mãe, ou ambos. 
+08626283-n : [autarquias;concelho;cidade;comuna;município;] : circunscrição territorial, que é uma das divisões do distrito. 
+15247518-n : [período;] : parte de uma era, que é subdividida em idades. 
+03031306-n : [cigarrilha;] : pequeno cigarro, de capa de tabaco. 
+05280998-n : [osso_esfenoide;osso_esfenóide;esfenoide;] : osso ímpar, situado no meio dos ossos da base do crânio, e que concorre para a formação das órbitas, das cavidades nasais, etc. 
+15271008-n : [suspensão;fazerumapausa;interrupção;pausa;] : interrupção de um acto por algum tempo. 
+14660183-n : [ununquádio;ununquadio;] : antigo nome do elemento químico atualmente conhecido como fleróvio, de número atômico 114. nome temporário do elemento químico de símbolo uuq, possui o número atômico 114 e massa atômica relativa 289 u. é provavelmente um metal radioativo de cor desconhecida. produzido pelo bombardeamento do 244pu com o 48ca. não possui nenhuma aplicação prática conhecida. 
+06255081-n : [veículo;] : meio de transporte ou veículo usado em terra, mar ou outro meio aquático ou no ar. 
+06950528-n : [alemão;língua_alemã;] : pessoas que pertencem a "nacionalidade alemã", falam alemão como sua língua mãe, como austro-alemães, mesmo que austríacos, suíço-alemães, luxemburgueses, belgo-alemães e franco-alemães. língua germânica falada na alemanha, áustria, liechtenstein, na maior parte da suíça e em parte da bélgica. língua dos alemães. 
+03030663-n : [cigarro;tabaco;] : cigarro de tabaco ou conjunto deles. 
+09915834-n : [enxadrista;xadrezista;] : jogador de xadrez. 
+08213817-n : [regimento;batalhão;] : corpo de infantaria, que faz parte de um regimento, e que se subdivide em companhias. 
+14607521-n : [ácido;ácidos;] : substância química que induz mudança. substância que libera como único cátion o h+ quando dissolvida em água. 
+14747587-n : [andrógeno;andrógenos;] : termo genérico para qualquer composto natural ou sintético, geralmente um hormônio esteróide, que estimula ou controla o desenvolvimento e manutenção das características masculinas em vertebrados. 
+06410904-n : [livro;] : obra literária, científica ou artística que compõe, em regra, um volume. composição literária ou científica, mais extensa que um folheto e constituindo volume. 
+14341091-n : [colite;doença_inflamatória_intestinal;] : inflamação do cólon. 
+12411922-n : [íris;] : membrana circular e colorida situada no interior do olho e da qual procede a cor dos olhos. 
+00503237-n : [xadrez;jogo_de_xadrez;] : género de tecidos, cujas cores são dispostas em quadrados alternados, como as casas do tabuleiro, em que se joga o xadrez. tabuleiro de esse jogo. jogo de estratégia para dois jogadores, jogado num tabuleiro quadrado com sessenta e quatro quadrados menores alternados claros e escuros chamados casas, cada jogador possui 16 peças: peőes, torres, cavalos, bispos,  uma dama e um rei. jogo, sobre um tabuleiro com 64 casas, em que se fazem mover diferentes peças ou figuras. 
+13022709-n : [micélio;] : parte filamentosa do talo do fungo. 
+15236015-n : [nanosegundo;] : nome que denota unidade de duração ou de intervalo de tempo. 
+05833840-n : [opinião;ideia;pensamento;idéia;conceito;] : conceito formado a respeito de um assunto, tema ou conversa, seja ele refletido ou infundado. ideia ou noção geral. 
+02997607-n : [cerâmica;] : designação comum de tijolos, telhas e outros objetos de barro cozido como porcelanas, faianças e louça de grés. 
+15074962-n : [folha;papel;] : papel higiênico. 
+05454070-n : [glóbulo_vermelho;eritrócito;hemácia;] : corpúsculo vermelho, glóbulo vermelho, hemácia. 
+07647731-n : [peru;] : nome que designa ave, doméstica ou selvagem. 
+13268020-n : [recompensa;] : prêmio ou remuneração concedida em reconhecimento a determinado ato. 
+04076846-n : [afiguração;ficheiro_gráfico;quadro;figura;imagem;ilustração;desenho;] : obra de pintura ou desenho. conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. nome aspectual que denota cópia do modelo ou imitação. 
+06485178-n : [papiro;] : documento antigo em papiro. 
+14426910-n : [adolescência;] : período na vida humana, entre a puberdade e a virilidade. período da vida entre a puberdade  e o início da idade adulta. 
+05560244-n : [membros;membro;perna;] : braço ou perna, no sentido popular do anatômico  membro superior ou membro inferior. 
+00622068-n : [grande_esforço;batalha;luta;] : grande esforço, luta. 
+00037396-n : [atividade;ato;ação;] : conjunto de atos para a realização duma finalidade. 
+07151380-n : [locução;provérbio;expressão;idioma;ditado;] : reunião de duas ou mais palavras exercendo a função de uma única. as locuções podem referir-se às classes gramaticais ou a outros tipos de expressões sempre que ditas de forma invariável. 
+11525955-n : [vento;] : corrente de ar, mais ou menos rápida, resultante das mudanças no peso específico da atmosfera. 
+13810323-n : [unidade;componente;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+07047679-n : [noturno;] : certo tipo de composição musical erudita. 
+07199565-n : [resposta;] : enunciado que se faz como réplica a uma pergunta. 
+07042586-n : [serenata;] : composição musical, melodiosa, graciosa e simples, mais ou menos análoga às trovas dos cantores ambulantes. 
+07330007-n : [perdição;fado;destino;sorte;] : destino, considerado como causa dos acontecimentos da vida, segundo a crença dos antigos. 
+06431740-n : [bíblia;] : livros sagrados do antigo e novo testamento. 
+05274590-n : [osso_etmóide;osso_etmoide;etmoide;] : osso do crânio, que contribue para a formação das cavidades nasais. 
+06172071-n : [trivium;] : na idade média, a primeira parte do ensino universitário, formada por três disciplinas  ministradas antes do quadrivium e que, com este último, constituía as sete artes ou as artes liberais. 
+14657228-n : [telúrio;telurio;] : elemento químico de símbolo te, possui o número atômico 52 e massa atômica relativa 127,60 u. 
+06865345-n : [tom;nota;] : intervalo, entre duas notas da escala musical, excepto o de mi para fá, e o de si para dó. 
+14688500-n : [minério;minérios;] : minério de ferro: é a forma bruta com que o ferro é extraído na natureza. 
+03249569-n : [membranofone;tímpano;membranofones;tambor;] : instrumento musical do tipo membranofone, consistindo de uma membrana esticada sobre um tubo ou caixa de ressonância que pode ser de vários formatos. 
+00003553-n : [todo;unidade;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+05562249-n : [anca;coxa;] : parte da perna, desde as virilhas até o joelho. parte superior dos membros locomotores, desde o joelho às virilhas. 
+14686913-n : [gasolina;benzina;] : mistura líquida de hidrocarbonetos, obtida pela destilação do petróleo bruto, usada em motores de explosão interna. 
+07724943-n : [feijão;fava;] : nome de vários objectos, de configuração semelhante à da semente da fava. 
+04096066-n : [autoestradas;rodovia;estrada;estradas;caminho;via;] : via férrea, caminho de ferro. 
+05519820-n : [endométrio;] : membrana mucosa que reveste a parede do útero que permite ao embrião aderir à parede do útero  e que nos primeiros meses de gravidez forma a placenta. 
+07470671-n : [combate;luta;partida;] : uma sessão de jogo ou torneio. 
+09178999-n : [motivo;razão;causa;] : nome abstracto que descreve causa, razão, motivo; potencial ou disposição para acção. selecciona um complemento verbal. 
+14351629-n : [otite;] : inflamação ou das cavidades da orelha média, ou da mucosa que as recobre ou da membrana do tímpano. 
+12770529-n : [ébano;] : árvore, de que se tira essa madeira. a madeira dessa árvore. árvore da família das ebanáceas, que produz madeira valiosa, muito rija e de cor negra. 
+04574999-n : [roda;] : peça, ou máquina simples, de forma circular e própria para se mover em volta de um eixo. 
+14637507-n : [fluor;flúor;] : elemento químico de símbolo f, possui o número atômico 9 e massa atômica relativa 18,998. 
+04961472-n : [cal;] : nome vulgar do óxido de cálcio. 
+00916464-n : [cultivo;pecuária;agricultura;] : actividade de criação e tratamento de gado. 
+10025195-n : [senhor;] : título, que por deferência se dá a certos homens, distintos pela sua posição ou dignidade. 
+07308889-n : [caso;exemplo;ocorrência;ocasião;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+09448361-n : [córrego;] : regueiro, sulco aberto pelas águas correntes. pequeno rio, menor do que um riacho. 
+05263029-n : [cavanhaque;perilla;cavaignac;] : barba aparada em bico no queixo. 
+12102133-n : [relva;erva;grama;] : conjunto de ervas rasteiras e delgadas, ordinariamente gramíneas, que crescem espontâneamente nos campos e nos caminhos. 
+07673872-n : [azeite;] : óleo, que se extrai da azeitona. óleo extraído da azeitona. 
+08106934-n : [ordem;] : quarto nível da hierarquia que identifica a espécie de um ser vivo, mais específico que classe e menos específico que família. 
+05513302-n : [genitalia;orgão_sexual;genitália;órgão_sexual;órgãos_sexuais;] : órgãos reprodutores, em especial os externos. 
+05012272-n : [entalpia;] : grandeza física que busca medir a totalidade de energia atrelada a um sistema termodinâmico, incluso energia armazenada em interações com a vizinhança. particularmente útil no estudo de transformações a pressão constante, situação na qual a variação de entalpia iguala-se à energia recebida pelo sistema na forma de calor. 
+02403003-n : [boi;] : animal macho adulto castrado das espécies bos taurus e bos indicus. 
+12301445-n : [azeitona;] : fruto da oliveira donde se extrai o azeite. 
+05194151-n : [força;influência;] : vigor, robustez, saúde física. 
+05418717-n : [veia;veias;] : qualquer dos vasos sanguíneos. a exceção é a veia pulmonar, que conduz sangue rico em oxigênio. vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao coração. 
+02773037-n : [bolsa;carteira;sacola;saco;] : saco de dois alforjes ou fundos que frades mendicantes usam para recolher as dádivas e que ainda hoje usam os pedintes para levar as esmolas. 
+03545150-n : [casa;] : edifício para habitação. 
+03698360-n : [alaúde;] : antigo instrumento de cordas. instrumento musical de cordas. 
+09638875-n : [caucasiano;branco;caucasiana;] : pessoa de raça branca. homem de raça branca. 
+00017222-n : [vegetal;vida_vegetal;flora;planta;] : um dos cinco grandes reinos dos seres vivos, dentro do qual se encontram as plantas. 
+04508489-n : [calças;cuecas;ceroulas;] : vestuário, que os homens usam por baixo das calças. 
+11620673-n : [pinheiro;abeto;] : género de árvores coníferas, ( pinus ), de que há várias espécies, como. 
+04846770-n : [virtude;moralidade;moral;] : boa qualidade moral. qualidade de aquilo que é moral. qualidade do que é moral. 
+00092366-n : [hasta;leilão;arrematação;almoeda;] : venda em hasta pública a quem oferecer maior preço. venda em hasta pública. 
+05534333-n : [barriga;intestinos;intestino;] : víscera musculo-membranosa, contida na cavidade abdominal, e que se estende desde o estômago até ao ânus, compreendendo os chamados intestinos delgados ,--duodeno, jejuno e íleo,--e os intestinos grossos ,--ceco, cólon e recto. 
+15010703-n : [sais;sal;] : condimento composto principalmente por cloreto de sódio. 
+11623105-n : [cedro;] : nome de árvore cuja madeira é um nome mass. 
+05521111-n : [vagina;] : canal do  feminino dos mamíferos, que se  desde o  à vulva e cujas funções são receber o pénis/pênis durante o coito e dar saída ao feto no momento do parto, assim como expulsar o conteúdo. 
+03390207-n : [fração;parte;fracção;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+03538037-n : [cavalo;] : peça de xadrez. uma das peças do jogo de xadrez. 
+10221520-n : [jesuíta;jesuítas;] : religioso pertencente à companhia de jesus. 
+14644963-n : [meitnerio;meitnério;] : elemento químico de símbolo mt, possui o número atômico 109 e massa atômica relativa 268 u. é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado. produzido por uma reação de colisão entre o 58fe e o 209bi. seu isótopo mais estável é o 266mt com uma meia-vida de 3,4 milisegundos. não possui nenhuma aplicação prática conhecida. 
+04476116-n : [arrastão;] : rede em forma de saco que os barcos de pesca arrastam debaixo dágua. 
+03544360-n : [casa;vivenda;habitação;edifício_residencial;] : edifício para habitação. 
+06872905-n : [contraltos;contralto;] : uma mulher que canta com voz de contralto. 
+14268623-n : [hipercalcemia;níveis_de_cálcio_altos_no_sangue;] : nível elevado de cálcio no sangue. 
+07903841-n : [conhaque;cognac;] : aguardente da região francesa de conhaque, produzido a partir da destilação de vinhos envelhecidos em cascos de carvalho. 
+09617867-n : [experto;] : alguém que é experiente em determinado assunto. 
+11877646-n : [nabo;] : planta herbácea da espécie brassica rapa, de raiz carnuda, branca, arredondada ou pontiaguda com variedades muito cultivadas para a alimentação. o tubérculo dessa planta, também conhecido por cabeça de nabo. 
+07929351-n : [café;] : bebida feita ao se coar a semente torrada e moída do café com água. 
+04584512-n : [curinga;] : carta de baralho que pode assumir qualquer valor em alguns jogos. 
+01662784-n : [testudinata;tartarugas;tartaruga;] : concha de tartaruga. 
+15202634-n : [ano;] : período de tempo correspondente à revolução da terra em torno do sol que equivale a 365 dias, 6 horas, 13 minutos e 53 segundos. 
+09230202-n : [planalto;] : região plana, que se situa no alto de um local como uma montanha ou uma serra. exemplo: a capital paulista são paulo é um planalto. 
+14271015-n : [hipernatremia;níveis_de_sódio_altos_no_sangue;] : nível elevado de sódio no sangue. 
+14889371-n : [xisto;] : rocha metamórfica cujos minerais são visíveis a olho nu, e que tem um aspecto folheado. 
+02672831-n : [gaita;acordeão;sanfona;harmônica;] : instrumento musical aerófono composto por um fole, um diapasão e duas caixas harmônicas de madeira. 
+14655731-n : [estrôncio;estroncio;] : elemento químico de símbolo sr, possui o número atômico 38 e massa atômica relativa 87,62 u. é um metal alcalino terroso, encontrado sólido na temperatura ambiente. é obtido de minerais como a celestina e a estroncianita, relativamente abundantes na crosta terrestre. como metal o estrôncio não tem aplicações diretas. seus compostos são usados na indústria açucareira, na indústria pirotécnica na produção de fogos de artifício e outras aplicações na medicina. 
+04703424-n : [opacidade;] : qualidade do que é opaco. 
+14276649-n : [zoonoses;zoonose;] : designação genérica das doenças dos animais. 
+03928116-n : [piano;] : instrumento musical, em que as notas são dadas por percussão em um teclado, que faz vibrar um sistema de cordas dentro de uma caixa sonora. 
+06376154-n : [drama;] : composição teatral, que ocupa, quanto à sua índole e forma, o meio termo entre a tragédia e a comédia, quando não participa de ambas. gênero literário tragicômico. 
+05200169-n : [abilidade;capacidade;habilidade;] : qualidade do que é capaz. 
+07933891-n : [tisana;infusão;chá;] : infusão de diversas plantas, como por exemplo chá de erva cidreira, de erva doce, de camomila, de boldo, etc. a preparação de infusão das folhas de chá. 
+15136723-n : [dia;] : espaço de tempo correspondente à rotação da terra, que equivale a 23 horas, 56 minutos e 4 segundos. nome que denota unidade de duração ou de intervalo de tempo. unidade de medida de tempo equivalente a 86400 segundos e que é simbolizada por d. qualquer parte ou momento de essas vinte e quatro horas. espaço de 24 horas. nome que designa período do dia. 
+08552138-n : [distrito;terra;país;condado;circunscrição_administriva;bairro;colónia;região;districto;domínio;comarca;território;província;circunscrição;] : : divisão administrativa de município ou cidade, que pode compreender um ou mais bairros. 
+07114712-n : [vogais;vogal;] : letra vogal. 
+02933112-n : [estante;armário;] : móvel, normalmente de madeira ou metal, e que normalmente apresenta portas e prateleiras. móvel de madeira, com prateleiras, para guardar objectos de uso doméstico. móvel, com prateleiras intervaladas, destinada especialmente para livros ou papéis. móvel com prateleiras para livros, papéis, etc. 
+15167027-n : [tarde;noitada;fim_de_tarde;noite;] : us na loc adv no tarde, serodiamente, fora do tempo próprio. período de uma noite que se passa geralmente em festas. espaço de tempo, que vai desde o crepúsculo da tarde até o crepúsculo da manhã. 
+05158296-n : [privilégio;] : vantagem concedida a alguém, com exclusão de outros e contra o direito comum. 
+08161757-n : [congresso;congresso_dos_estados_unidos;] : reunião solene de chefes de estado ou dos seus representantes, corpos legislativos, sábios, diplomatas, etc., para tratar de assuntos de interesse geral, internacional ou comum. 
+14269556-n : [níveis_de_potássio_altos_no_sangue;hipopotassemia;hipercalemia;hipercaliémia;] : nível elevado de potássio  no sangue. 
+15228910-n : [hora;momento;] : período de sessenta minutos de tempo. 
+14632129-n : [bromo;] : elemento químico de símbolo br, possui o número atômico 35 e massa atômica relativa 79,904 u. 
+07494018-n : [sadomasoquismo;] : relação entre tendências opostas, o sadismo e masoquismo. 
+02128757-n : [leopardo-das-neves;onça;] : grande felino, encontrado nas altas montanhas da ásia central, de pelagem cinzenta, longa e densa, com manchas sólidas ou rosetas e cabeça relativamente pequena. 
+01023820-n : [processo;processos;] : nome abstracto que denota método, meio, processo, procedimento, etc. selecciona um complemento verbal. 
+06597466-n : [revista;jornal;] : título de certas publicações periódicas. 
+14779205-n : [água_sanitária;agentes_de_branqueamento;lixívia;descorante;] : solução de hipoclorito de sódio que pode levar outros componentes usada para limpeza, para branquear. 
+07234230-n : [acusação;arguição;denúncia;] : censura, imputação de culpas, denúncia. 
+14950394-n : [mentol;] : substância química que induz mudança. 
+00430140-n : [aposta;jogo_de_azar;] : jogo  que pode resultar em prêmio se uma aposta  for bem sucedida. 
+00502822-n : [gamão;gamao;] : jogo de dados no qual o objetivo é fazer avançar tábulas sobre um tabuleiro de dois compartimentos, cada um dos quais com dois grupos de seis casas triangulares ou flechas. tabuleiro em que se disputa esse jogo. 
+03901750-n : [peão;] : cada uma das pequenas peças de xadrez, que se colocam na frente, e são as primeiras a avançar. uma das peças do xadrez. 
+06570110-n : [programa_aplicativo;aplicativo;aplicação;] : programa que roda num computador, aplicativo. 
+07933274-n : [chá;] : infusão de diversas plantas, como por exemplo chá de erva cidreira, de erva doce, de camomila, de boldo, etc. 
+04197391-n : [camisa;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+04442831-n : [fumo;tabaco;] : cigarro de tabaco ou conjunto deles. 
+12648045-n : [pessegueiro;] : árvore do gênero prunus persica, cujo fruto é o pêssego, ou malacatão. 
+05449268-n : [glóbulo_vermelho;hematócito;eritrócito;hemácia;células_sanguíneas;célula_sanguínea;corpúsculo;célula_vermelha;] : corpúsculo vermelho, glóbulo vermelho, hemácia. 
+08235513-n : [maçonaria;francomaçonaria;] : sociedade secreta, iniciática, sem fins lucrativos, cuja origem se perde na antigüidade. sociedade secreta e filantrópica, que usa como símbolos os instrumentos de architecto e pedreiro. 
+07115381-n : [consoante;] : letra consoante. 
+05981230-n : [objetivo;ponto_de_mira;intenção;ideia;fim;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+13163250-n : [galho;ramo;] : divisão e subdivisão de um tronco, ou de um caule, ou braço que irrompe de um tronco ou caule. 
+10153414-n : [cara;tio;rapaz;] : forma de tratamento usada ante  rapazes ou homens mais velhos que não se conhece. 
+03790512-n : [motos;motocicletas;mota;moto;motocicleta;] : motocicleta, veículo motorizado de duas rodas. 
+14845743-n : [água;agua;] : qualquer líquido, em que água é parte principal. 
+02932400-n : [choça;cabana;] : habitação simples, cabana. 
+09307300-n : [fragmento;pedaço;naco;] : pedaço ou porção de algo. aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+01038761-n : [crisma;confirmação;] : sacramento da confirmação. crisma, um dos sacramentos da igreja. 
+08679972-n : [rumo;direcção;curso;direção;] : direcção do navio por alguma de essas linhas. direção ou rota tomada ou a ser tomada. 
+14628920-n : [argônio;argónio;argon;árgon;] : elemento químico da classe dos gás nobre|gases nobres, possui o número atômico 18, massa atômica relativa de 39,948 e símbolo ar. 
+03745571-n : [menir;] : monumento megalítico, pedra grande fincada no chão, perafita. 
+14638517-n : [germânio;germanio;] : elemento químico de símbolo ge, possui o número atômico 32 e massa atômica relativa 72,64 u. 
+10247358-n : [menina;garota;rapariga;senhorita;moça;] : mulher moça. 
+06073888-n : [paleontologia;] : ciência natural que estuda a vida animal e vegetal do passado da terra e seu desenvolvimento ao longo do tempo geológico, bem como os processos de integração da informação biológica no registo geológico, ou seja, os processos de formação dos fósseis. 
+04855138-n : [santidade;] : qualidade ou estado de aquele ou de aquilo que é santo. qualidade de santo. 
+15153225-n : [prazo;] : o termo de um determinado período de tempo. 
+14994328-n : [polímero;polímeros;polymero;] : composto químico de elevada massa molecular relativa, resultante de reações químicas de polimerização. 
+13371866-n : [prata;] : metal branco e precioso, muito dúctil e sonoro. 
+12189987-n : [baobabe;embondeiro;baobá;adansônia;] : árvore tropical africana, mais conhecida como embondeiro ou baobá. 
+06013741-n : [cálculo;calculo;] : é uma contração, pois o nome completo é cálculo diferencial e integral, por exemplo. 
+09315159-n : [ião;ion;iões;íons;íon;] : partícula atómica ou subatómica. 
+04008634-n : [míssil;projéctil;projétil;] : objeto atirado por uma arma com carga explosiva, tal como uma bala, granada, foguete, etc. 
+06836599-n : [ómega;omêga;ω;] : última letra do alfabeto grego. 
+06926798-n : [turco;língua_turca;] : língua, falada pelos turcos. 
+07368646-n : [eclipses;eclipse;] : os tipos mais comuns são o eclipse lunar e o eclipse solar. 
+06858266-n : [dominante;] : nota, que domina o tom, ou quinta nota acima da tónica. 
+14938907-n : [lipídio;lipido;lípidos;gordura;lípido;] : qualquer das várias substâncias gordurosas brancas ou amareladas que formam a maior parte do tecido adiposo dos animais e que também aparece em plantas. 
+03259505-n : [casa;domicílio;habitação;lar;moradia;aposento;morada;residência;] : edifício para habitação. 
+05999540-n : [ciência;] : o conjunto sistematizado de todas as teorias científicas, do método científico e dos recursos necessários à produção das mesmas. 
+06988307-n : [aramaico;] : conjunto de línguas semíticas faladas outrora na síria e na mesopotâmia. 
+06989473-n : [língua_fenícia;fenício;] : língua semítica, falada pelos fenícios. 
+02908217-n : [brocha;escova;pincel;escova_de_dentes;] : instrumento formado por um tufo de pelos atados a um cabo que serve para pintar, ensaboar, etc. espécie de pincel composto de pelos animais  aparados em formas estabelecidas, que serve para misturar e espalhar tintas e outros líquidos, e de um cabo geralmente de madeira. 
+14652954-n : [rubidio;rubídio;] : elemento químico de símbolo rb, possui o número atômico 37 e massa atômica relativa 85,467 u. é um metal alcalino, de coloração branca. é encontrado em minerais como a leucita, polucita e zinnwaldita. é utilizado na fabricação de tubos de vácuo, células fotoelétricas e equipamentos de visão noturna. 
+02463611-n : [garupa;culatra;anca;traseiro;rabo;traseira;] : parte do corpo dos répteis, peixes e animais de feitio análogo, prolongada além do ânus. coisa  que funciona estruturalmente, incluindo partes do corpo humano. 
+02795978-n : [realejo;sanfona;] : instrumento musical aerófono composto por um fole, um diapasão e duas caixas harmônicas de madeira. 
+14686352-n : [combustível_fóssil;petróleo;combustíveis_fósseis;] : óleo mineral, empregado principalmente como substância iluminante. óleo mineral de hidrocarbonetos obtido no subsolo pela exposição de matéria orgânica a condições extremas de calor e pressão. 
+03786901-n : [almofariz;gral;morteiro;] : gral, vaso em que se pisa ou esmaga qualquer coisa com pilão. 
+12268246-n : [carvalho;carvalho-vermelho;] : grande árvore amentácea, que produz bolotas. 
+00197772-n : [reposição;substituição;] : de substituição    * syn pt: de reposição. 
+13389763-n : [xelim;] : moeda inglesa de prata que representava 1/20 da libra esterlina, até 1971. moeda inglesa de prata, correspondente a 225 reis. 
+15242955-n : [idade;] : época da vida, com referência a certos fins ou actos. 
+07893642-n : [champanha;champagne;champanhe;] : vinho espumante de champagne ou similar. vinho espumante da região francesa de champagne, considerado como o rei dos vinhos e indispensável em ocasiões festivas. 
+04310904-n : [aço;] : liga composta principalmente de ferro e carbono utilizada para a fabricação de utensílios, armas, veículos e uma infinidade de outros objetos da vida moderna. 
+06122178-n : [geografia;] : ciência, que tem por objecto o conhecimento das diferentes partes da superfície da terra, e da descrição e recíproca situação de essas partes. 
+03381126-n : [sapato;calçado;] : peça de calçado que cobre só o pé. peça de vestuário, que cobre os pés por todos os lados. 
+07451463-n : [funeral;enterro;] : cerimônia de enterro. 
+05859811-n : [fatorial;factorial;] : produto de vários números consecutivos, sendo o primeiro a unidade. fatorial de n : significa 1 × 2 × 3 × ... × n, produto que tem por notação: n!. 
+03935450-n : [pique;chuço;lança;] : espécie de lança pequena, feita com uma haste de madeira e uma ponta de ferro. uma arma longa para ser arremessada, que consiste de uma haste de madeira à qual é ligada uma ponta de metal. lança de aproximadamente 3 metros, com uma ponta de metal. 
+15167906-n : [tarde;noite;] : us na loc adv no tarde, serodiamente, fora do tempo próprio. espaço de tempo, que vai desde o crepúsculo da tarde até o crepúsculo da manhã. 
+02991555-n : [cela;] : aposento de religiosos em conventos. aposento de frades ou de freiras, nos conventos. 
+03467517-n : [guitarra;violão;] : guitarra acústica com cordas de nylon, concebida inicialmente para a interpretação de peças de música clássica cujo corpo é oco e feito de várias madeiras diferentes. 
+03447721-n : [gongo;] : instrumento de percussão idiófono originário da china. 
+15094294-n : [cera;] : substância vegetal, semelhante à cera das abelhas. 
+15113229-n : [etapa;tempo;período;] : sucessão de anos, meses, dias, horas que envolve a sensação de passado, presente e futuro. 
+08178547-n : [estado;] : representação, em cortes, de alguma classe social, no antigo regime. 
+06422740-n : [guia;] : livro, manual, publicação contendo instruções, ensinamentos, conselhos de diversas naturezas. 
+06896500-n : [ido;] : língua artificial, uma versão simplificada do esperanto. não é adotada oficialmente por nehum país e é seguida por grupos pequenos de pessoas, especialmente na europa. 
+07745940-n : [morango;] : pequeno fruto de cor externa vermelha e gosto levemente ácido cuja árvore é o morangueiro. fruto dos morangueiros, semelhante à amora. 
+07270179-n : [selo;marca;marcadores;] : marca ou sinal feito com esse objeto. marca registrada de alguns produtos. sinal, letras ou emblema aposto para determinar a propriedade de uma coisa. 
+08651832-n : [bairro_de_lata;favela;favelas;bairro_pobre;] : bairro de lata. 
+00826681-n : [taekwondô;taekwon-do;tae_kwon_do;tae_kwon-do;tae-kwon-do;taekwondo;] : arte marcial de origem coreana semelhante ao caratê. 
+14631757-n : [bóhrio;] : elemento químico de símbolo bh, possui o número atômico 107 e massa atômica relativa 264 u. 
+03546340-n : [abrigo;casa;alojamentos;abrigos;] : edifício para habitação. 
+06377442-n : [poema;poesia;] : algo digno de ser cantado como um poema, em verso. 
+12088223-n : [batata-doce;inhame;] : planta herbácea da família das convolvuláceas com tubérculos comestíveis de polpa tenra e açucarada da espécie species:ipomoea batatas|ipomoea batatas. 
+12432808-n : [cebola;] : bolbo da cebola. 
+06323284-n : [superlativo;] : adjectivo, elevado ao grau superlativo. 
+06973941-n : [avéstico;] : língua iraniana oriental utilizada na antiga pérsia, na qual está escrito o avesta . 
+04422727-n : [garrafa_térmica;cafeteira;] : vasilha para servir café: garrafa térmica. 
+15204983-n : [década;décadas;decênio;decada;] : espaço de dez anos, década. período de dez anos. 
+05711503-n : [audição;] : percepção dos sons por meio do ouvido. 
+06045562-n : [ciências_médicas;medicina;] : arte, que tem por objecto a cura das doenças e a conservação da saúde, baseando se na patologia ou ciência das enfermidades. 
+02183857-n : [sem-vergonha;piolho;] : insecto parasita, de que há várias espécies, sendo a principal o piolho da cabeça, ( pediculus capitis ). 
+14133985-n : [lues;sifilis;sífilis;] : doença sexualmente transmitida  causada por um espiroqueta chamado treponema pallidum. 
+00004475-n : [ser;criatura;organismo;ser_vivo;] : designação para ser vivo/animado não humano (de micro-organismo a mamífero). excluí ser humano e organização humana. um animal, especialmente não humano. ser humano. disposição dos órgãos, nos seres vivos. conjunto de órgãos que constituem um ser vivo. 
+00789391-n : [batalha;luta;] : grande esforço, luta. 
+06954925-n : [sueco;língua_sueca;linguagem_sueca;] : língua germânica falada na suécia e em partes da finlândia. 
+15008142-n : [rubi;] : pedra preciosa e transparente, de cor vermelha. 
+04295881-n : [estádio;estádios;] : campo circundado por bancadas em anfiteatro para competições desportivas. 
+07575510-n : [merenda;] : ligeira refeição entre o jantar e a ceia. 
+04617562-n : [temperamento;pessoa;personalidade;] : os dois tipos mais comuns são pessoa física e pessoa jurídica. qualidade do que é pessoal. conjunto de características comportamentais, de inteligência e de carácter que distinguem um indivíduo de outro. 
+15170331-n : [quinzena;] : período de tempo correspondente a 15 dias. 
+07757132-n : [cereja;ginja;] : fruta produzida pela cerejeira. 
+06012513-n : [trigonometria;] : parte da matemática que estabelece os métodos de resolução dos triângulos e investiga as funções trigonométricas. 
+03602562-n : [diário;] : jornal ou periódico, que se publica todos os dias. 
+04803430-n : [exatidão;exactidão;precisão;] : pontualidade, exatidão e rigor quanto ao tempo. 
+12992868-n : [fungo;fungos;] : um dos reinos em que se dividem os seres vivos. 
+15168185-n : [meia_noite;meia-noite;] : hora ou momento, que divide a noite em duas partes iguais. 
+12629666-n : [nespereira;ameixa;nêspera;] : árvore frutífera, da fam das rosáceas, ( nespilus germanica, lin ). árvore da família das rosáceas, conhecida também por nespereira-do-japão, cujo fruto é a nêspera. 
+13865298-n : [cilindro;] : vaso de metal, em que se metem brasas, e que se imerge na água das banheiras, para a aquecer. 
+05770926-n : [ideia;pensamento;] : intelecto, mente, conjunto das convicções e opiniões de uma certa pessoa. 
+07767171-n : [amora;amoreira;] : fruto da amoreira e de algumas espécies de silvas. 
+03875218-n : [tinta;cor;pintura;] : líquido de qualquer cor, para escrever, imprimir ou tingir. 
+00220522-n : [assassínio;homicídio_doloso;assassinato;homicídio;] : palavra que deve ser evitada por ser galicismo. recomenda-se assassínio ou homicídio. 
+07575726-n : [refeição;jantar;ceia;almoço;] : principal refeição diária, algumas vezes a última do dia, mas ordinariamente a que se toma entre o almoço e a ceia. 
+06784639-n : [adivinha;enigma;charada;] : espécie de problema ou adivinha, cuja solução depende da decifração de cada uma das partes, em que a adivinha se decompõe. 
+05549830-n : [corpo;torso;tronco;] : parte do vestuário feminino, que se ajusta ao corpo. parte central do corpo de vários animais, de onde saem a cabeça e os membros. 
+14633206-n : [carbono;] : é encontrado em três formas alotrópicas principais: o diamante, a grafite e o carbono amorfo. 
+06968343-n : [romeno;língua_romena;] : língua românica falada na  e na moldávia. 
+04894037-n : [imprudência;] : falta de prudência. 
+04800359-n : [originalidade;] : qualidade do que é original. 
+15016314-n : [pólvora;] : substância explosiva, composta de salitre, carvão e enxofre. 
+12386462-n : [tamargueira;tamariz;tramaga;tramagueira;tamarga;tamarisco;] : arbusto, de casca adstringente, ( tamarix gallica ). 
+11468763-n : [inércia;] : inércia rotacional: o mesmo que momento de inércia. 
+06338908-n : [antenome;nome_de_batismo;denominação;título;nome_próprio;prenome;nome;primeiro_nome;] : título, que precede o nome. 
+03309808-n : [produtos_têxteis;rede;tecido;tecidodelã;pano;estofo;fazenda;tecido_têxtil;têxteis;] : tecido de algodão, lã, seda, linho, fibra artificial, etc. 
+14661274-n : [xenónio;xenonio;xenônio;xenón;xenão;] : elemento químico de símbolo xe. também é conhecido como xénon em portugal. ver xenônio. 
+05399847-n : [sangue;] : líquido vermelho que circula pelos vasos sanguíneos. 
+05910940-n : [horário;cronograma;ordem_do_dia;programa;plano;] : projecto ou plano escrito e minucioso de uma festa pública. 
+07573696-n : [refeição;jantar;alimento;] : principal refeição diária, algumas vezes a última do dia, mas ordinariamente a que se toma entre o almoço e a ceia. 
+06966695-n : [basco;vasconço;língua_basca;] : natural ou habitante do país basco. língua falada no país basco. 
+04782878-n : [credibilidade;] : qualidade de aquilo que é crível. 
+09506216-n : [deus;semideus;] : herói, filho de um deus e de uma mortal ou de uma deusa e de um mortal. 
+09281104-n : [fiordes;fiorde;] : golfo estreito, profundo e íngreme, formado pela erosão de glaciares. 
+07730562-n : [salsão;aipo;] : seu nome científico é apium graveolens. 
+14069747-n : [salmonelose;] : intoxicação alimentar causada pela bactéria salmonella enterica. 
+06407733-n : [pergaminho;rolo;] : forma característica dos antigos manuscritos em papiro, pergaminho ou pele. 
+03322836-n : [quinta;casa_de_fazenda;] : propriedade rústica, com casa de habitação. 
+01134861-n : [tratamento;] : cuidados médicos dispensados a um paciente. 
+05000342-n : [corpulência;obesidade;] : excesso de peso caracterizado por uma participação da massa de tecido adiposo superior a 20% no peso total do indivíduo. 
+05538625-n : [pescoço;cabeça_e_pescoço;cabeça;] : a parte mais elevada do corpo humano, e a parte mais anterior dos animais irracionais, a qual contém o cérebro, os órgãos da vista, audição, paladar e olfato. 
+14638256-n : [galio;gálio;] : elemento químico de símbolo ga, possui o número atômico 31 e massa atômica relativa 69,723 u. é um metal pouco abundante, líquido na temperatura ambiente, obtido através de mineriais como a bauxita, carvão, diáspora e germanita. é utilizado, principalmente, na forma de arsenieto de gálio, para produção de circuitos integrados, diodos laser e diodos led. seu isótopo radioativo ga67 é utilizado na cintilografia óssea na medicina nuclear. 
+03738472-n : [máquina;mecanismo;] : aparelho ou instrumento, próprio para comunicar movimento ou para aproveitar e pôr em acção um agente natural. 
+10640620-n : [consorte;cônjuge;colega;homem;cónjuge;esposa;marido;esposo;] : homem, em relação à mulher com quem está ligado por casamento. 
+06929279-n : [japonês;] : língua falada pelos japoneses. 
+08499057-n : [atmosfera;ar;] : gás que constitui a atmosfera terrestre. o espaço aéreo. 
+04564698-n : [estrada;caminho;via;] : via férrea, caminho de ferro. 
+05635624-n : [fortificar;fortificação;] : arte de fortificar e defender uma praça, um acampamento, etc. 
+04180888-n : [sextante;] : instrumento matemático, para a medição dos ângulos. 
+00196485-n : [substituição;mudança;] : de substituição    * syn pt: de reposição. 
+15170504-n : [final_de_semana;fim-de-semana;fim_de_semana;] : nome que denota período de tempo geral, indiferenciado. período que decorre entre a noite de sexta-feira ou a manhã de sábado e que vai até ao fim do dia de domingo. 
+15275851-n : [aceleração;] : aumento de velocidade. taxa de variação da velocidade em relação ao tempo. 
+09504915-n : [destino;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+07966570-n : [minoria;] : diz-se de grupo humano e social que esteja em inferioridade numérica em relação a um grupo majoritário e/ou dominante. 
+09622049-n : [menor;juventude;jovens;juvenil;] : pessoa menor. 
+07710616-n : [batata;marmêndoa;batatinha;] : planta solânea, de raízes tuberculosas e comestíveis. 
+06430537-n : [cânone;] : composição musical em que sucessivamente vão entrando as vozes segundo uma determinada ordem. 
+03188531-n : [cueiro;fralda;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+05074774-n : [colocação;posição;situação;localização;] : lugar, localização no espaço. 
+05559256-n : [ânus;cu;bunda;nádegas;anca;popô;traseiro;rabo;bumbum;nalgas;] : ,  parte traseira do corpo humano formada pelos músculos glúteos. parte do corpo dos répteis, peixes e animais de feitio análogo, prolongada além do ânus. coisa  que funciona estruturalmente, incluindo partes do corpo humano. 
+10289766-n : [mandarim;] : funcionário público de alto escalão durante o império chinês. 
+15268682-n : [expiração;decurso;vencimento;desinência;término;] : ato de chegar ao fim o prazo para o pagamento de uma conta ou para o cumprimento de qualquer encargo. 
+05483890-n : [pituitária;hipófise;] : glândula endócrina de funções múltiplas, entre as quais regular as atividades das glândulas tireoide e suprarrenal. 
+10187130-n : [anfitrião;hospedeiro;] : organismo que abriga outro em seu interior ou o carrega sobre si, seja este um parasita, um comensal ou um mutualista. 
+02206856-n : [bê;vespa;abelha;] : designação especial da abelha doméstica da espécie apis mellifera que vive em enxames produzindo mel e cera. 
+09339810-n : [litosfera;geosfera;] : camada sólida mais externa do planeta terra. 
+09274500-n : [estuários;estuário;] : sinuosidade ou baía, formada por um rio, perto do mar, e na qual se confunde a água salgada com a doce. 
+02530999-n : [sável;] : peixe clúpeo, ( clupea alosa ). 
+03699975-n : [máquina;maquinaria;] : aparelho ou instrumento, próprio para comunicar movimento ou para aproveitar e pôr em acção um agente natural. 
+09925459-n : [oficial;] : certo tipo de funcionário público. 
+07503430-n : [aversão;repulsa;asco;horror;repulsão;repugnância;ódio;detestação;execração;abominação;] : asco ou aversão por alguém ou alguma coisa. 
+01135952-n : [gestão;administração;gerenciamento;] : o gerenciamento de um escritório, negócio ou organização. 
+02462828-n : [canela;] : casca da árvore chamada caneleira, uma especiaria de aroma e sabor agradáveis. 
+03925226-n : [foto;figura;imagem;retrato;ilustração;desenho;fotografia;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. 
+06988057-n : [árabe;línguas_semíticas_centro-meridionais;] : língua semítica falada em grande parte do norte da áfrica e do oriente médio. 
+01168569-n : [concorrência;competição;] : prova que põe em concorrência duas ou mais pessoas ou grupos no que tange a determinadas aptidões ou qualidades físicas ou atléticas. 
+03198223-n : [dilatador;] : instrumento cirúrgico, para alargar uma abertura ou separar tecidos. 
+15120346-n : [era;período;] : nome que denota período de tempo geral, indiferenciado. parte de uma era, que é subdividida em idades. 
+04985930-n : [soprano;] : cantor ou cantora, que tem voz de soprano. 
+03599351-n : [pé-de-cabra;] : alavanca de ferro, com a extremidade fendida, à semelhança de um pé de cabra. 
+00019128-n : [natureza;objeto_natural;] : conjunto de todos os seres que constituem o universo. o mundo natural como ele existe sem os seres humanos e a civilização. o universo com todos os seus fenômenos. 
+08082602-n : [cristianismo;] : conjunto de religiões cristãs, monoteístas, baseadas na vida e nos ensinamentos de jesus cristo, tais como, o catolicismo romano, o protestantismo, o anglicanismo e as religiões ortodoxas orientais. 
+14659794-n : [ununbio;unúnbio;] : antigo nome sistemático de elemento do atual elemento químico copernício, com número atômico 112. teve o símbolo químico uub. 
+06621771-n : [episódio;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+13990064-n : [pureza;] : condição ou estado de puro. 
+06100778-n : [óptica;] : ciência, parte da física, que estuda as radiações eletromagnéticas com comprimento de onda entre 10 å e 1 mm, e suas interações nos diversos meios. 
+04350905-n : [terno;vestido;fato;traje;] : coisa macia feita de tecido ou de pele, vestuário, roupa. 
+02805443-n : [cadeia;prisão;] : lugar de prisão, cárcere. pena de detenção, que tem de ser expiada na cadeia. 
+05845332-n : [espécie;tipo;qualidade;género;jaez;laia;variedade;] : reunião dos caracteres que distinguem uma raça ou classe. 
+05725378-n : [febre;temperatura;] : grau apreciável de calor ou frio, em um lugar ou corpo. estado de frio ou calor, de humidade ou secura do ar, impressionando os nossos órgãos. 
+05547396-n : [cerviz;pescoço;nuca;] : a nuca compreendendo a parte posterior do pescoço. 
+07283608-n : [evento;acontecimento;ocorrência;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+12284821-n : [amieiro;] : nome de árvore que não denota a sua madeira. 
+07290761-n : [evento;eventualidade;acontecimento;] : nome abstracto que denota um evento ou acontecimento no tempo. 
+05552607-n : [peito;seio;] : parte do corpo humano onde ficam as glândulas mamárias, maior no corpo feminino devido ao desenvolvimento das referidas glândulas. parte anterior e externa da caixa torácica. parte do corpo, que contém os pulmões e o coração. 
+02472293-n : [homem;humano;homo_sapiens;ser_humano;humanidade;humana;] : denominação genérica dos exemplares da espécie homo sapiens. indivíduo adulto do sexo masculino, varão da espécie homo sapiens. um tipo de primata bípede e bímano da espécie homo sapiens. a espécie homo sapiens. 
+06220616-n : [socialismo;] : na teoria marxista é o estágio que segue o capitalismo na transição da sociedade para o comunismo e é caracterizada pela implementação imperfeita dos princípios coletivistas. 
+02186153-n : [pulgas;pulga;siphonaptera;] : nome comum dos insetos sem asas da ordem siphonaptera. 
+06582403-n : [função;subrotina;sub-rotina;] : tipo de programa de computador ou rotina. inclui termo genérico e nome de produto específico. 
+08558963-n : [casa;domicílio;residência;] : lugar, que, embora não seja residência fixa, é considerada legalmente como domicílio, pelo cidadão exercer ali certos direitos ou funções. 
+14980215-n : [pesticidas;pesticida;] : substância química que induz mudança. 
+05941423-n : [religião;opinião;fé;crenças;crença;convicção;] : crença religiosa, religião. 
+14629561-n : [astatínio;ástato;astato;] : elemento químico de símbolo at. ver astato. 
+05725527-n : [calor;febre;] : energia térmica que flui de um corpo para outro em virtude da diferença de temperatura entre eles. energia na forma de calor pode entrar  ou sair  de um corpo, mas calor não pode ser adicionado ou removido de um corpo, pois nenhum corpo possui calor . é medido em calorias ou joules. 
+06962600-n : [latím;latim;] : do latim resultam as atuais línguas românicas ou neolatinas. 
+01090446-n : [comércio;] : operação que tem como finalidade a venda ou a compra de uma mercadoria ou serviço, podendo revendê-la, transformá-la, ou não. 
+11514008-n : [vendaval;rajada;tempestade;aguaceiro;borrasca;] : tempestade marítima, com vento e chuva. 
+13625237-n : [bite;bit;] : , nas comunicações assíncronas e na memória principal, um bit extra incluído em toda palavra de dados com o objetivo de testar a sua paridade. 
+09359803-n : [montanha;monte;montanhas;] : elevação de terreno menos extensa e menos alta do que a montanha. 
+04849241-n : [bondade;virtude;] : boa qualidade moral. 
+06785223-n : [adivinha;enigma;adivinhação;charada;adivinhas;] : espécie de problema ou adivinha, cuja solução depende da decifração de cada uma das partes, em que a adivinha se decompõe. 
+13801700-n : [indicativo;modo_indicativo;] : modo indicativo: o modo do verbo que indica o estado, a ação ou existência de forma absoluta. 
+14939445-n : [líqüido;fluido;] : termo genérico para designar líquidos e gases. 
+15015501-n : [azotato;nitrato;nitratos;] : substância química que induz mudança. 
+03829954-n : [nora;] : aparelho, para extrair água de poços ou cisternas, e cuja parte principal é uma roda que faz girar uma corda, a que estão presos os alcatruzes. 
+05562756-n : [canela;perna;] : parte da perna, entre o pé e o joelho. 
+15235126-n : [segundo;] : unidade de medida de tempo, definida como a sexagésima parte do minuto. 
+03209910-n : [disquete;disco_flexível;] : disco magnético flexível, removível do computador e usado para transportar e armazenar cópias de arquivos e programas. 
+15079030-n : [triazina;] : substância química que induz mudança. 
+04598582-n : [madeiras;] : conjunto dos instrumentos de sopro de uma orquestra cujo som é obtido por vibrações de ar dentro de uma coluna de madeira cilíndrica ou troncônica e regulado por palheta simples e por chaves. 
+14486639-n : [nadir;] : ponto mais baixo da esfera celeste, exatamente abaixo do local em que se encontra o observador, e exatamente oposto ao zênite. 
+03159640-n : [tribuna;cátedra;estrado;pódio;púlpito;] : tribuna ou tablado alto, de onde se prega, ordinariamente dentro das igrejas. 
+07309781-n : [movimento;] : cada uma das partes de uma composição musical. 
+06959261-n : [lapão;lapônia;] : conjunto de línguas faladas na lapônia, sami. 
+14636523-n : [dubnio;dúbnio;] : elemento químico de símbolo db, possui o número atômico 105 e massa atômica relativa 262 u. é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado. produzido pela colisão de íons de 243am e de 22ne. como é um elemento altamente radioativo, seu isótopo mais estável possui meia-vida de 16 horas, não possui nenhuma aplicação prática conhecida. 
+11484741-n : [monção;] : ventos sazonais que ocorrem em grandes áreas das regiões costeiras tropicais e subtropicais, em geral associados à alternância entre a estação das chuvas e a estação seca. 
+09341987-n : [fiorde;] : golfo estreito, profundo e íngreme, formado pela erosão de glaciares. 
+02782093-n : [aeróstato;balão;] : balão, que se enche de ar aquecido ou de gás mais leve que o ar, e que por isso se eleva e se sustém na atmosfera. 
+04599396-n : [obra;trabalho;] : quantidade de energia transferida entre um sistema e sua vizinhança em virtude do movimento da fronteira que os separa, e não através dessa fronteira . o trabalho é, nesse caso, igualmente determinado pelo produto entre a pressão na fronteira  e a variação do volume do sistema. se o volume do sistema aumenta, o trabalho é positivo. 
+05535247-n : [jejuno;] : parte do intestino delgado, entre o duodeno e o ílio. segmento do intestino delgado logo após o duodeno e antes do íleo, ou seja uma parte do intestino delgado. 
+03613294-n : [tecla;chave;botão_de_accionamento;] : mecanismo que abre e fecha orifícios, permitindo controlar o som em instrumentos musicais. 
+08160276-n : [cidadania;gente;povo;população;] : diz-se do conjunto de direitos e deveres do cidadão. 
+14820180-n : [betão;concreto;formigão;] : material compósito que resulta da mistura de material granular com um composto ligante, mais frequentemente rocha britada com cimento portland. 
+04986796-n : [baixo;] : instrumento musical de cordas. 
+06497459-n : [alfabeto;] : conjunto das mesmas letras. conjunto de letras que são usadas para representar as palavras de uma língua. 
+01503061-n : [ave;pássaro;] : animal vetebrado, ovíparo, recoberto de penas, de bico córneo, sem dentes, e cujos membros posteriores servem para marcha, sendo os anteriores transformados em asas. 
+06824955-n : [versalete;] : letra cuja forma é a da maiúscula, mas o tamanho da minúscula. 
+03060074-n : [coca;] : arbusto frondoso sul-americano da família wikispecies:erythroxylaceae|erythroxylaceae, seu nome científico é wikispecies:erythroxylum coca|erythroxylum coca. 
+07062697-n : [jazz;] : música moderna de origem negro-americana, muito difundida após a guerra de 1914-1918, caracterizada pelo improviso e pelas sonoridades e ritmos sincopados, basicamente extraídos do ragtime e do blues em sua forma mais popular, o jazz é especialmente vocal ou dançado. 
+05849040-n : [qualidade;carácter_distintivo;atributos;] : característica, propriedade ou atributo essencial ou distintivo de algo. 
+01249315-n : [perdão;indulto;amnistia;] : ato de clemência do poder executivo, concedendo perdão, desculpa. 
+06954303-n : [língua_norueguesa;norueguês;] : língua germânica setentrional falada na noruega. 
+02959942-n : [trem;carro;vagões;automotora;vagão;comboio;automóvel;] : carruagem, empregada em comboios de caminho de ferro. 
+11894958-n : [rabanete;rábano;] : espécie de rábano, de raiz curta e carnosa. 
+03592245-n : [cadeia;xilindró;penalty;xadrez;presídio;grande_penalidade;grades;penalidade_máxima;prisão;penálti;casa_de_detenção;pênalti;cárcere;prisno;cana;] : género de tecidos, cujas cores são dispostas em quadrados alternados, como as casas do tabuleiro, em que se joga o xadrez. lugar de prisão, cárcere. pena de detenção, que tem de ser expiada na cadeia. 
+14481929-n : [chance;possibilidade;] : qualidade do que é possível. 
+06969822-n : [cigano;romani;] : língua dos ciganos do oriente da europa, de que há treze dialectos, mais ou menos adulterados. língua dos ciganos do oriente da europa. possui treze dialectos relativamente adulterados. 
+04900947-n : [modéstia;pudor;] : sentimento de timidez ou vergonha, produzido pelo que pode ferir a decência, a honestidade ou a modéstia. 
+13464820-n : [evolução;] : qualquer processo de formação ou crescimento. 
+04274530-n : [esfera;bola;] : globo terrestre, o mundo. 
+09416076-n : [rocha;pedra;penhasco;pedras;] : corpo duro e sólido, da natureza das rochas, empregado especialmente na construção de edifícios. 
+00219012-n : [morte;assassinato;homicídio;] : morte, causada por uma pessoa ou pessoas a outra ou outras. 
+02822220-n : [colcha;cobertor;] : cobertor superior da cama, que pelo comum é para enfeite do leito, por vezes tecido de retalhos. 
+00201058-n : [passagem;transição;] : passagem de um estado para outro. 
+10311823-n : [mestiço;] : designação para ser vivo/animado não humano (de micro-organismo a mamífero). excluí ser humano e organização humana. 
+08180639-n : [daràluz;proletariado;classe_trabalhadora;] : classe dos proletários. 
+07891433-n : [saqué;saquê;] : bebida alcoólica japonesa obtida da fermentação do arroz. 
+00620752-n : [trabalho;mão-de-obra;] : tarefa que exige muito esforço ou empenho. 
+06320801-n : [modificador;] : nome geral que se atribui a classes gramaticais tais como advérbio, adjetivo, etc. 
+06946199-n : [língua_lituana;lituânico;lituano;lituânio;] : língua báltica falada na lituânia. 
+03895866-n : [carruagem;vagão;] : carro de trem. 
+05296253-n : [tendão;] : cordão fibroso, formado por tecido conjuntivo, graças ao qual os músculos se inserem nos ossos ou nos outros órgãos. 
+02687992-n : [aeródromo;aeroporto;] : aeródromo com os serviços e instalações necessários ao desembarque de passageiros e mercadorias. 
+06624161-n : [carta;missiva;] : documento de habilitação para dirigir veículos automotores, abreviação de carta de condução. 
+15249799-n : [aniversário;] : dia em que se completa mais um ano sobre a data do nascimento de alguém ou sobre a ocorrência de um acontecimento. 
+00021734-n : [nutrientes;nutriente;] : substância nutriente. 
+05159725-n : [operacionalidade;valor;utilidade;lucro;] : vantagem, benefício, lucro ou proveito de algo que se considera útil para determinado fim. 
+01791625-n : [frango;galinha;galo;] : pinto já crescido que ainda não é galo, ou melhor, adolescente. nome que designa ave, doméstica ou selvagem. o filho da galinha, já crescido, mas antes de ser galo. 
+03642806-n : [computador_portátil;laptop;laptops;lap_top;] : computador portátil. 
+06311723-n : [caso_dativo;dativo;] : caso oblíquo. 
+13809207-n : [porção;categoria;parte;componente;] : aspecto de coisa que denota membro, segmento, porção ou parte de um todo. 
+03303965-n : [saída;escapatória;porta;] : abertura em parede, ao nível do chão ou de um pavimento, para dar entrada ou saída. 
+14644249-n : [magnésio;magnesio;magnêsio;] : elemento químico de símbolo mg, possui o número atômico 12 e massa atômica relativa de 24.305. é um metal alcalino, sólido na temperatura ambiente.  é muito abundante na natureza, principalmente na água do mar como íon dipositivo e na crosta terrestre, na forma de magnesite. o óxido de magnésio é muito utilizado na indústria de materiais refratários, borracha, fertilizantes, plásticos e na construção mecânica. 
+06862562-n : [clave;] : notação ou símbolo colocado no início da pauta musical para se determinar quais são as notas e sua respectiva altura. 
+03030035-n : [cigarro;charuto;tabaco;] : cigarro de tabaco ou conjunto deles. 
+05535367-n : [íleo;íleon;] : parte final do intestino delgado. última parte do intestino delgado. 
+08183802-n : [hoste;legião;exército;] : força armada ou corpo militar numeroso e bem organizado especializado em operações terrestres. 
+14854262-n : [fezes;merda;] : matérias fecais. 
+05256085-n : [cabelo;pêlo;] : pêlos, que crescem sobre a cabeça humana. 
+02774630-n : [embrulho;bagagens;bagagem;mala;] : objetos que os viajantes levam para seu uso, em pacotes, malas, caixas ou baús. 
+05297523-n : [órgão;] : instrumento musical com teclado cujo som é formado pelo vento que passa por tubos. instrumento musical de vento e teclado. 
+01605630-n : [acípitre;gavião;] : pequena ave de rapina, ( falco nisus ). 
+05898568-n : [planos;projeto;traçado;intenção;ideia;programação;programa;plano;concepção;projecto;] : projecto ou plano escrito e minucioso de uma festa pública. 
+08456727-n : [burocracia;] : em regra, a burocracia é necessária para fazer cumprir o princípio básico da administração pública, que é a impessoalidade. 
+07583197-n : [sopa;sopas;] : caldo, com alguma substância sólida, e que constitue ordinariamente o primeiro prato de um jantar. 
+12587803-n : [coco;coqueiro;palmeira;] : variedade de palmeira, que produz cocos. palmeira cujo fruto é o coco, com um caule comprido e sem galhos, comum na região litorânea. 
+14268871-n : [níveis_de_cálcio_baixos_no_sangue;hipocalcémia;hipocalcemia;] : nível reduzido de cálcio no sangue. 
+08164585-n : [administração;organização;] : um grupo de administradores, principalmente no que se refere ao governo. 
+05650820-n : [linguagem;discurso;idioma;língua;] : linguagem, idioma, conjunto de expressões sonoras com um significado convencional partilhado por um grupo de seres humanos. emprego da língua, para a expressão dos pensamentos ou sentimentos. nome de vários objectos, que têm semelhança ou analogia com o órgão da língua. 
+06249177-n : [estratégia;] : ciência das operações militares. ciência ou arte de combinar ou empregar unidades militares em grandes movimentos e operações. 
+14031108-n : [rapidez;preparação;prontidão;] : agilidade e rapidez em responder a uma situação. 
+03015254-n : [cômoda;aparelhador;cômodas;gaveteiro;cómoda;] : móvel, geralmente de madeira, com gavetas, cuja face superior forma uma mesa. 
+14785325-n : [enxofre;enxôfre;] : composto químico, i.e., substância que consiste em dois ou mais elementos diferentes em porporções definidas (não contemplado em nome massivo). 
+03894379-n : [divisória;paredes;parede;] : muro que, geralmente, sustenta o madeiramento de um edifício. 
+07496755-n : [angústia;agonia;transe;tormento;] : algo que causa grande dor, sofrimento ou preocupação. grande dor, sofrimento, preocupação. 
+03482523-n : [ponteiro;] : espécie de agulha, que nos mostradores dos relógios indica as horas e as fracções de estas. espécie de agulha que indica as horas e suas frações nos mostradores dos relógios analógicos. 
+08101410-n : [estirpe;raça;] : cada uma das variedades da espécie humana ou de qualquer espécie de animais. 
+13989051-n : [pesar;tristeza;] : sentimento de pesar, melancolia. 
+06873017-n : [mezzo_soprano;mezzo-sopranos;mezzo-soprano;mezzosoprano;] : uma mulher que canta com voz de mezzo-soprano. 
+06333653-n : [antenome;nome_de_batismo;nome_próprio;prenome;nome;primeiro_nome;] : nome, que precede o de família. título, que precede o nome. 
+09605289-n : [terceira_idade;adulto;de_maior;] : indivíduo adulto. 
+04767347-n : [regularidade;] : qualidade do que é regular. 
+01326291-n : [microorganismo;microrganismo;] : organismo, animal ou vegetal, de dimensões microscópicas. emprega-se o termo para designar especificamente os germes patogênicos: protozoários, espiroquetas, micetes, bactérias, rickéttsias e vírus. 
+14632648-n : [calcio;cálcio;] : metal branco e amarelado, que se extrai da cal. metal, que, combinado com o oxigénio, constitue a cal. 
+02410509-n : [bisonte;bisão-europeu;bisão-americano;auroque;bisão;] : grande mamífero ungulado e ruminante do gênero bison, da família bovidae, com duas espécies ainda existentes, o bisão-europeu, bison bonasus, e o bisão-americano, bison bison. 
+12202936-n : [til;tília;] : tília, género/gênero de árvores da família wikispecies:malvaceae|malvaceae. 
+11706761-n : [abacate;abacateiro;] : o fruto comestível do abacateiro, árvore originária do méxico. 
+05320183-n : [pupila;] : abertura, que a membrana íris apresenta no meio, e pela qual passam os raios luminosos, até chegarem ao cristalino. 
+06599788-n : [assunto;tópico;tema;mensagem;matéria;temas;] : argumento, matéria, objeto, tema de que se trata. 
+15265518-n : [começo;início;princípio;] : o que vem primeiro, origem, início, começo. 
+15246353-n : [segundo;instante;tempo;quando;momento;] : sucessão de dias, horas, momentos. momento, um ponto determinado no tempo. 
+04723816-n : [qualidade;atributos;] : característica, propriedade ou atributo essencial ou distintivo de algo. 
+02872752-n : [bota;calçado;] : calçado que cobre o pé e parte da canela. 
+09455206-n : [tau;] : nome da décima nona letra do alfabeto grego . 
+14880960-n : [obsidiana;] : pedra escura ou verde-negra, com aparência de vidro, vulgar em alguns terrenos vulcânicos, especialmente no méxico e no peru, onde de antes se usava como faca e como espelho. 
+13801937-n : [modo_subjuntivo;subjuntivo;conjuntivo;] : modo conjuntivo. o modo conjuntivo dos verbos. 
+14653831-n : [escandio;escândio;] : elemento químico de símbolo sc, possui o número atômico 21 e massa atômica relativa 44,955. é um metal de transição, do grupo das terras raras, mole, muito leve e resistente a ácidos. o óxido de escândio é utilizado na fabricação de lâmpadas de vapor de mercúrio. 
+06831177-n : [primeira_letra_do_alfabeto;á;alguém;] : nome da primeira letra do alfabeto latino. 
+03686130-n : [mansarda;sótão;ático;trapeira;] : o andar ou pavimento mais alto. 
+11686912-n : [esporófito;] : fase diplóide das plantas cujo ciclo de vida apresenta alternância de gerações. 
+08198398-n : [forças_armadas;exército;] : força armada ou corpo militar numeroso e bem organizado especializado em operações terrestres. 
+12882779-n : [digital;dedaleira;erva-dedal;] : planta escrofularínea, medicinal, ( digitalis purpurea ). 
+07514968-n : [calma;tranquilidade;] : tranquilidade, paz de espírito, sossego. 
+06566077-n : [software;programa;suporte_lógico;] : tipo de programa de computador ou rotina. inclui termo genérico e nome de produto específico. 
+02787622-n : [banjo;] : espécie de instrumento de cordas da família do alaúde, de corpo redondo, com uma abertura circular na parte posterior, originário da áfrica. tosco instrumento músico, que é usado pelos indígenas da américa espanhola e consta de um pandeiro, adicionado de um braço comprido com duas ou três cordas, por forma que o mesmo tocador dedilha as cordas e toca no pandeiro. 
+11669335-n : [flores;floração;flor;florada;] : nome de planta, flor, erva, arbusto, etc. estado das plantas em flor. 
+02410702-n : [bisonte_americano;bisonte;bisão-americano;búfalo;bisão;] : grande mamífero ungulado e ruminante do gênero bison, da família bovidae, com duas espécies ainda existentes, o bisão-europeu, bison bonasus, e o bisão-americano, bison bison. 
+05534955-n : [duodeno;] : primeira parte do intestino delgado, entre o estômago e o jejuno. zona inicial do intestino delgado, entre o estômago e o jejuno. 
+09450163-n : [sol;] : estrela central de algum outro sistema planetário. 
+04339291-n : [banda;] : fita larga, faixa. 
+07958727-n : [escultura;] : arte plástica|arte plástica cujo meio de expressão é a forma e o volume. 
+09716047-n : [italiana;italiano;itálico;ítalo;] : língua oficial da república italiana. 
+03351151-n : [anzol;] : qualquer gancho com mesma finalidade do anzol. 
+07828807-n : [baunilha;] : essência adocicada e aromática obtida dos frutos da orquídea vanilla planifolia. 
+01874928-n : [seringüê;saragüéia;cuíca;didelfo;didelphimorphia;gambá;didelphidae;timbu;sarigueia;] : designação comum aos marsupiais do gênero didelphis, os maiores da família dos didelfídeos, com três espécies, encontrados do sul do canadá à argentina, com até 50 cm de comprimento, cauda preênsil, longa e quase inteiramente nua, com a parte distal branca, pelagem cinza, preta ou avermelhada e fêmeas com marsúpio bem desenvolvido sinônimo: cassaco, micurê, mucura, raposa, sarigüê, sarigüéia, saruê, tacaca, taibu, ticaca, timbu. 
+04714058-n : [normalidade;] : caráter ou condição de normal. 
+08507558-n : [nascente;procedência;raiz;fonte;manancial;prosedensia;] : fonte ou nascente de água. 
+05982152-n : [objetivo;intenção;finalidade;objectivo;intento;propósito;] : nome abstracto que denota finalidade, intenção, objectivo. selecciona um complemento verbal. 
+06834138-n : [α;alfa;] : primeira letra do alfabeto sírio e grego. primeira letra do alfabeto grego. 
+07510348-n : [espanto;surpresa;assombro;sobressalto;] : aquilo que produz espanto, terror, admiração. 
+07752664-n : [uva_passa;passa;corinto;] : fruta seca, principalmente uva. fruta seca. 
+12434775-n : [alho;] : adivinha ou divilha dalho:  tempero para carnes ou aves à base de alho, vinho e vinagre. 
+04249415-n : [caixa;] : recipiente, geralmente com forma de paralelepípedo ou cilindro, que pode ou não ter tampa produzido de vários materiais e de vários tamanhos, que serve para conter objetos. 
+08184217-n : [massa;estouro_da_boiada;horda;turbilhão;correição;turba;tropel;barafunda;legião;manada;multidão;aglomeração;mundaréu_de_gente;agrupamento;nuvem;turbamulta;roda-viva;enxame;leva;chusma;baderna;turma;batalhão;debandada;] : grande quantidade de pessoas, turba, multidão. 
+10027246-n : [sósia;] : pessoa que é muito parecida com outra. 
+13456715-n : [decomposição;deterioração;apodrecimento;putrefação;] : corrupção, deterioração de  em função de máculas, nódoas. 
+06123363-n : [arquitectura;arquitetura;] : arte de construir edifícios. 
+12653762-n : [amoreira;] : árvore, da fam das moráceas, e de que são principais espécies a amoreira branca e a amoreira negra. 
+03945615-n : [flauta;] : instrumento musical de sopro sem palheta e com buracos. instrumento músico de sopro, cilíndrico e sem palheta. 
+06987812-n : [amharico;amárico;] : língua semítica falada na etiópia. 
+15239292-n : [temporada;tempo;estação;] : nome que denota período de tempo geral, indiferenciado. 
+14629149-n : [arsénico;arsênico;arsénio;arsênio;mata-ratos;arsênico-branco;] : elemento químico de símbolo as, possui o número atômico 33 e massa atômica relativa 74,921 u. é um metaloide, obtido na forma de sulfuretos, arsenietos, sulfoarsenetos e arsenites. o arsenieto de gálio é um importante semicondutor empregado em circuitos integrados. também é empregado como conservante de madeira, veneno, pigmento e para fins terapêuticos. elemento químico de símbolo as, possui o número atômico 33 e massa atômica relativa 74,921 u. 
+08441203-n : [lei;jurisprudência;ciências_jurídicas;] : conjunto das decisões judiciais tomadas mediante o uso da hermenêutica, isto é, a arte de interpretar as leis visando preencher suas lacunas. quando tem dúvida sobre o que diz a lei, o juiz deve seguir regras conforme o direito em causa. uma das regras consiste em observar a decisão que outros juízes tomaram diante da mesma dúvida. essa fonte de informações se chama jurisprudência. o juiz não é obrigado a imitar seus antecessores. pode inovar e criar nova jurisprudência. 
+10231515-n : [rei;] : uma das peças do xadrez. 
+08554440-n : [subúrbio;periferia;subúrbios;arrabalde;] : arrabaldes ou vizinhanças de cidade ou de qualquer povoação. 
+06115701-n : [geologia;] : ciência que estuda a origem e a constituição da terra. ciência, que tem por objecto a história natural da terra, o conhecimento da forma exterior do globo, o estudo dos diferentes terrenos, da formação deles e da sua posição actual. 
+03684740-n : [cadeia;xilindró;casa_de_detenção;xadrez;presídio;cárcere;grades;prisão;cana;] : género de tecidos, cujas cores são dispostas em quadrados alternados, como as casas do tabuleiro, em que se joga o xadrez. lugar de prisão, cárcere. pena de detenção, que tem de ser expiada na cadeia. 
+10285313-n : [infante;criança;menino;moço;garoto;rapaz;] : homem jovem. 
+06155567-n : [história;historia;] : estudo das origens e progressos de uma arte ou ciência. 
+07927197-n : [refrigerante;refresco;soda;refrigerantes;] : bebida artificial composta por água, gás carbônico e substâncias artificiais para dar sabor e odor. 
+06964901-n : [língua_francesa;francês;] : língua dos franceses. 
+00908405-n : [animação;] : ato ou efeito de dar vida ou alma a. 
+09698108-n : [chinesa;chinês;] : como é mais conhecido o dialeto mandarim, língua predominante no território chinês. 
+06954183-n : [língua_islandesa;islandês;] : língua germânica falada na islândia. 
+14875077-n : [combustível;carburantes;material_com_que_se_aquece;combustíveis;] : lenha ou qualquer substância com que se faz lume. 
+02953673-n : [lona;] : tecido de uso intensivo utilizado na confecção de velas, tendas, toldos, mochilas e outros produtos onde a resistência seja necessária. 
+06359096-n : [página_inicial;páginas_pessoais;página_principal;homepage;] : página inicial de um sítio web. 
+05220461-n : [parte_do_corpo;anatomia;] : arte de dissecar as partes dos corpos organizados. 
+09466280-n : [criação;mundo;natureza;universo;cosmo;] : os elementos do mundo natural como as montanhas, as florestas, os animais, os rios, etc. o mundo natural como ele existe sem os seres humanos e a civilização. segundo a mitologia cristã, todo o universo, a natureza e tudo que existe nela. 
+04965661-n : [amarelo;] : cor do ouro, do açafrão, do limão, da gema do ovo, do enxofre, do topázio, entre outros. 
+14696793-n : [rochas;pedra;pedras;] : mineral, de origem ígnea, precioso pela sua raridade e mais conhecido por pedra preciosa. 
+06328996-n : [feminino;] : uma das flexão de gênero gramatical, presente em diversas línguas naturais, frequentemente atribuído a seres do sexo feminino. 
+15237044-n : [primavera;] : primeira estação do ano, a qual começa em 19 a 21 de março. estação do ano que se segue ao inverno e antecede o verão. 
+04463983-n : [via;] : via férrea, caminho de ferro. 
+02084071-n : [cachorro;cão;] : animal mamífero, carnívoro e quadrúpede da família dos canídeos. 
+02370360-n : [úbere;ubre;] : glândula mamária das fêmeas de alguns animais. 
+10752093-n : [vítima;] : pessoa que foi assassinada, ferida ou atingida casualmente, criminosamente ou em legítima defesa ou por um acidente, catástrofe, crime, etc. pessoa que é sacrificada aos interesses de outrem. 
+14653416-n : [rutherfordio;ruterfórdio;rutherfórdio;] : elemento químico de símbolo rf, possui o número atômico 104 e massa atômica relativa 261 u. é um metal de transição, radioativo e, provavelmente, branco prateado. produzido pela colisão de íons de 242pu e de 22ne. como é um elemento altamente radioativo e com a meia-vida da maioria de seus isótopos menor que 70 segundos, não possui nenhuma aplicação prática conhecida. 
+00311809-n : [passeio;viagem_de_recreio;ida;excursão;] : jornada ou passeio, para recreio ou instrução, a pequena distância do lugar em que se reside. passeio, viagem de estudo ou de recreio, incursão. 
+14859100-n : [cerca;] : construção feita de materiais diversos  que serve para cercar uma área. 
+06584891-n : [instrução;] : cada linha de comando num programa de computador. 
+07509996-n : [espanto;admiração;surpresa;maravilha;] : sentimento de assombro, surpresa ou espanto diante de uma situação. 
+13377268-n : [letra_de_câmbio;cheque;] : ordem de pagamento, para este ser feito ao portador. 
+15180528-n : [instante;momento;] : intervalo de tempo bem definido, com início e fim. 
+14584765-n : [aldeídos;aldeído;] : composto químico, i.e., substância que consiste em dois ou mais elementos diferentes em porporções definidas (não contemplado em nome massivo). 
+05457973-n : [óvulo;] : gâmeta feminino dos animais, que quando fecundado gera um outro ser. 
+01112420-n : [marketing;mercadologia;] : a promoção, distribuição e venda de um produto ou serviço. 
+05416198-n : [saliva;cuspo;cuspe;] : secreção das glândulas salivares que auxilia na mastigação dos alimentos. 
+02699494-n : [altar;] : estrutura, via de regra uma mesa, na qual os ofícios divinos são recitados e na qual a eucaristia é celebrada em igrejas cristãs. 
+02068974-n : [delphinidae;boto;golfinho;delfim;] : nome, que se deu aos senadores do delfinado, em frança, por alusão ao delfim ou golfinho que figurava em suas armas. 
+07553301-n : [camaradagem;simpatia;compaixão;piedade;] : virtude que inspira devoção às coisas santas e atos de amor e compaixão. 
+06961221-n : [língua_manesa;manquês;manx;manês;] : gaélico manquês. 
+00608896-n : [alvenaria;] : profissão, arte de pedreiro. 
+04297750-n : [vitral;] : janela com pinturas sobre o vidro. 
+02870880-n : [estante;] : móvel, com prateleiras intervaladas, destinada especialmente para livros ou papéis. móvel com prateleiras para livros, papéis, etc. 
+14068894-n : [botulismo;] : forma de intoxicação alimentar rara mas potencialmente fatal, causada por uma toxina produzida pela bactéria clostridium botulinum, presente no solo e em alimentos contaminados e mal conservados. 
+11900569-n : [papoila;dormideira;papoula;] : planta com grandes flores de quatro pétalas, que contêm ópio, papoula da espécie wikispecies:papaver somniferum|papaver somniferum. planta com grandes flores de quatro pétalas, do gênero wikispecies:papaver|papaver, entre elas a wikispecies:papaver somniferum|papaver somniferum dormideira, que contêm ópio. 
+01645776-n : [sapo;] : refere-se à maioria dos anfíbios da ordem dos anuros que possuem pele rugosa e seca. 
+03187972-n : [ouros;diamante;] : naipe de cartas de baralho representado por um balão vermelho . 
+11508382-n : [nevada;neve;] : precipitação de cristais de gelo, frequentemente agrupados em flocos e formados pelo congelamento do vapor de água que se encontra suspenso na atmosfera. 
+03637618-n : [lança;] : uma arma longa para ser arremessada, que consiste de uma haste de madeira à qual é ligada uma ponta de metal. 
+01902274-n : [anca;] : coisa  que funciona estruturalmente, incluindo partes do corpo humano. 
+06134899-n : [nanotécnologia;nanotecnologia;] : ciência e tecnologia dedicadas a criar nanopartículas e manufaturar máquinas cujo tamanho vai de 0,1 a 100 nanômetros. 
+14658855-n : [estanho;] : é um metal maleável, cinza prateado brilhante, obtido comercialmente da cassiterita. 
+05577410-n : [dedo_do_pé;dedo;] : cada uma das partes articuladas em que terminam os pés e as mãos. cada uma das partes distintas e articuladas, que terminam as mãos e os pés do homem. 
+03265874-n : [efígie;figura;imagem;ilustração;desenho;] : conjunto de linhas e pontos sobre um plano que formam uma imagem ou ilustração. 
+12638218-n : [ameixeira;ameixoeira;ameixa;] : árvore da família das rosáceas que produz ameixas, cujo nome científico é prunus domestica. 
+02323286-v : [fornecer;abastecer;suprir;] : fornecer ou prover  o que está  faltando ou é necessário. 
+02304982-v : [amontoar;enrolar;juntar;coleccionar;acumular-se;empilhar;acumular;amontoar-se;reunir;] : juntar desordenadamente, acumular. 
+00351963-v : [acabar;terminar;finalizar;] : levar ao seu termo, perfazer, terminar, concluir. 
+02506546-v : [constranger;obrigar;compelir;forçar;] : obrigar alguém a fazer algo que esta não queria fazer. forçar a barra: fazer algo além dos limites do aceitável. 
+00014405-v : [cochilar;dormir;repousar;descansar;] : dormir ou estar deitado na cama. 
+01752495-v : [parir;fazer;] : dar a luz, trazer ao mundo. 
+01560731-v : [podar;dividir;cortar;separar;] : separar ou dividir por meio de corte. 
+01642924-v : [causar;ocasionar;fazer;provocar;produzir;efetuar;] : fazer acontecer, ser causa de. 
+02648639-v : [viver;habitar;residir;morar;] : habitar, viver, ter estabelecido residência. 
+02147109-v : [acobertar;ocultar;esconder;cobrir;] : tapar, ocultar, com algum objecto posto em cima. 
+01785971-v : [encolerizar;irar;enraivecer;] : tornar-se colérico, enraivecido, enfurecido ou irritado. 
+02263027-v : [oferecer;fazer_doação_de;doar;dar;brindar;presentear;] : dar presente a. dar um presente a. 
+02650552-v : [habitar;morar;domiciliar;] : habitar, viver, ter estabelecido residência. 
+00484166-v : [acabar;encerrar;terminar;finalizar;] : levar ao seu termo, perfazer, terminar, concluir. 
+02336483-v : [fornecer;abastecer;dar;ministrar;mobiliar;] : fazer provisão ou acquisição--na acepção de dar, ministrar, é francesia ridícula, no conceito de castilho. 
+01560984-v : [apartar-se;terminar;dividir;separar;cortar;separar-se;] : separar ou dividir por meio de corte. 
+00115157-v : [transmudar;converter;modificar;mudar;transformar;] : fazer mudar de lugar ou domínio. fazer mudar de crença, opinião ou partido. fazer mudar de crença ou de opinião. 
+01904930-v : [andar;ir;caminhar;] : dar passos, caminhar. 
+00059376-v : [aguardar;esperar;] : estar esperando. aguardar em emboscada. 
+01052301-v : [gorjear;pipilar;chilrear;piar;trinar;cricrilar;] : piar, pipiar, emitir pipilos. 
+02621133-v : [fazer;] : fazer que, causar. 
+01887576-v : [escorregar;passar_gradativamente_a;deslizar;] : escorregar suavemente, resvalar, afastar-se lentamente. 
+02649830-v : [viver;habitar;morar;povoar;] : habitar, viver, ter estabelecido residência. 
+02238770-v : [atingir;obter;adquirir;] : alcançar ou adquirir ( o que se pede ou se deseja ). 
+01621555-v : [construir;criar;fazer;produzir;] : criar, gerar, dar fruto. 
+00804139-v : [dizer_sim;aquiescer;responder_que_sim;concordar;assentir;] : consentir, concordar, condescender, anuir, assentir, ceder, submeter-se. 
+01552519-v : [dividir;cortar;] : separar ou dividir por meio de corte. 
+00339934-v : [acontecer;suceder;ocorrer;] : vir depois, ou acontecer sucessivamente, ( falando se de mais de uma coisa, em relação a outra ). vir depois, ou acontecer sucessivamente. 
+00953216-v : [narrar;contar;recontar;] : contar ou narrar de novo ou diversas vezes. 
+01448100-v : [puxar;tirar;] : puxar a, tirar a, parecer-se com, fazer lembrar. 
+00179060-v : [sacar;tirar;] : puxar a, tirar a, parecer-se com, fazer lembrar. 
+01994442-v : [recuar;andar;retirar-se;retroceder;sumir;voltar_atrás;] : andar para trás, recuar. 
+01629000-v : [fazer;gerar;] : fazer produzir. 
+02200686-v : [oferecer;dar;entregar;regalar;dar_de_presente;] : fazer doação de, doar. 
+02375131-v : [prosseguir;continuar;] : continuar a falar, a proceder, etc. 
+02609764-v : [acabar;encerrar;terminar;cessar;parar;finalizar;] : acabar, encerrar, chegar ao fim. 
+02763740-v : [luzir;resplandecer;brilhar;] : brilhar muito, intensamente. 
+02504562-v : [obrigar;compelir;forçar;] : obrigar alguém a fazer algo que esta não queria fazer. forçar a barra: fazer algo além dos limites do aceitável. 
+02169702-v : [sentir;escutar;ouvir;ouvir_dizer;] : prestar atenção, para ouvir alguma coisa. 
+01974062-v : [levantar;elevar;alçar;erguer;] : fazer subir, levantar. 
+02050132-v : [passar;atravessar;] : atravessar, passando de um lado para outro. 
+02632940-v : [conter;abarcar;incluir;] : abranger, incluir em si. 
+02169891-v : [dar_atenção_a;escutar;ouvir;] : prestar atenção, para ouvir alguma coisa. 
+02210855-v : [atingir;comprar;obter;receber;adquirir;] : alcançar ou adquirir ( o que se pede ou se deseja ). adquirir por dinheiro. obter algo em troca de dinheiro. 
+01850315-v : [deslocar;mover;] : fazer mover. 
+02315525-v : [herança;herdar;] : receber, obter ou ter direito a receber em virtude de herança. 
+02610628-v : [acabar;terminar;] : acabar, encerrar, chegar ao fim. levar ao seu termo, perfazer, terminar, concluir. 
+01649024-v : [fazer;desovar;] : fazer que, causar. 
+00730052-v : [referir;mencionar;] : mencionar, citar, fazer alusão. 
+01889610-v : [sacudir;agitar;tremer;] : fazer tremer, estremecer. 
+01463963-v : [arranjar;dispor;] : pôr metodicamente, colocar por ordem. 
+02327200-v : [fornecer;abastecer;dar;prover;suprir;] : fornecer ou prover  o que está  faltando ou é necessário. 
+00715074-v : [concluir;acabar;terminar;finalizar;] : levar ao seu termo, perfazer, terminar, concluir. 
+00058516-v : [parir;] : dar a luz, trazer ao mundo. 
+00178102-v : [tirar;] : puxar a, tirar a, parecer-se com, fazer lembrar. 
+02409941-v : [contratar;empregar;] : contratar os serviços de alguém. 
+00092293-v : [degradar;degenerar;piorar;deteriorar;] : piorar, degenerar, pôr em condição inferior. 
+02586619-v : [reinar;reger;gerir;governar;] : governar um reino. 
+00941990-v : [dizer;verbalizar;conversar;falar;proferir;] : pronunciar, dizer em voz alta. 
+00126264-v : [modificar;mudar;alterar;] : alterar o modo de ser a. 
+00913065-v : [urrar;vociferar;berrar;gritar;mugir;] : emitir urros, berrar, gritar. 
+01796582-v : [sentir;lamentar;arrepender-se;] : sentir verdadeiro pesar de faltas cometidas. 
+02077656-v : [trazer;transmitir;tirar;transportar;levar;] : carregar, transportar consigo. 
+01782218-v : [temer;] : recear, ter medo de. 
+02202384-v : [guardar;reter;segurar;manter;] : guardar, conservar em seu poder. 
+00799798-v : [rescindir;cancelar;cassar;revogar;anular;] : impedir que produza efeitos, anular, revogar . 
+01870275-v : [escorregar;derrapar;resvalar;deslizar;patinar;] : escorregar suavemente, resvalar, afastar-se lentamente. 
+00352826-v : [concluir;encerrar;terminar;finalizar;] : acabar, encerrar, chegar ao fim. 
+02170427-v : [atender;escutar;fixar_a_atenção_em;prestar_a_atenção;] : dar atenção a, ouvir. 
