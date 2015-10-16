@@ -279,7 +279,7 @@ app.get('/predicates',
 app.get('/',
         function(req,res)
         {
-          res.json({version: '41-solr',
+          res.json({version: '42-solr',
                     has_key: api_key != null,
                     date: new Date() });
         });
