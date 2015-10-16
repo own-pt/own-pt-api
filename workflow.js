@@ -511,7 +511,7 @@ exports.addVote = function(suggestion_id, user, value, callback)
 function localAddVote(suggestion_id, user, value, callback)
 {
   var query = wnvotes.createQuery()
-      .q("user:user AND suggestion_id:"+escapeSpecialChars(suggestion_id));
+      .q("user:"+user+" AND suggestion_id:"+escapeSpecialChars(suggestion_id));
   
   wnvotes.search(
     query,
