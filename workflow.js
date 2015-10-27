@@ -1,6 +1,7 @@
 var credentials = require('./credentials.js');
 var dbCredentials = credentials.getDatabase();
 var wn = dbCredentials.dbName;
+var pointers = dbCredentials.pointersName;
 var wnchanges = dbCredentials.changesDbName;
 var wnvotes = dbCredentials.votesDbName;
 var uuid = require('node-uuid');
@@ -16,9 +17,37 @@ function escapeSpecialChars(s){
   .replace(/\|\|/g, '\\|\\|');
 }
 
+exports.getPointers = function(synset, word, callback)
+{
+    localGetPointers (synset, word, callback);
+}
+
 exports.getDocument = function(id, callback)
 {
   localGetDocument(id, callback);
+}
+
+function localGetPointers (synset, word, callback)
+{
+    var params = {};
+
+    if (synset) 
+    {
+        params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
+    }
+
+    if (word)
+    {
+        params.source_word = word;
+    }
+
+    var query = pointers.createQuery().q(params);
+
+    pointers.search(query,
+                    function (err, result)
+                    {
+                        callback(null, result.response.docs);
+                    });
 }
 
 function localGetDocument(id, callback)

@@ -6,6 +6,7 @@ exports.getDatabase = function()
 {
   var dbCredentials = {
     dbName : solr.createClient({core:'wn'}),
+    pointersName : solr.createClient({core:'pointers'}),
     auditDbName : solr.createClient({core:'audit'}),
     changesDbName : solr.createClient({core:'suggestions'}),
     votesDbName : solr.createClient({core:'votes'}),

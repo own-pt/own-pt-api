@@ -727,6 +727,19 @@ app.get('/delete-vote/:id',
           }
         });
 
+app.get('/pointers',
+        function(req, res)
+        {
+            var synset = req.param('synset');
+            var word = req.param('word');
+            
+            workflow.getPointers(synset,word,
+                                 function(err, pointers)
+                                 {
+                                     res.json(pointers);
+                                 });
+        });
+
 app.get('/statistics',
         function(req, res)
         {
