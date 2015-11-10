@@ -279,7 +279,7 @@ app.get('/predicates',
 app.get('/',
         function(req,res)
         {
-          res.json({version: '42-solr',
+          res.json({version: '43-solr',
                     has_key: api_key != null,
                     date: new Date() });
         });
@@ -884,6 +884,53 @@ app.get('/sense-tagging-detail',
 
               res.json(result);
             });
+
+        });
+
+app.get('/list-synsets/:type',
+        function(req,res)
+        {
+            console.log('type');
+            var query = wn.createQuery()
+                .q('*:*')
+                .matchFilter("rdf_type", req.params.type)
+                .fl(["word_en","word_pt","doc_id"])
+                .rows(1000000);
+            wn.search(query,
+                      function(err, doc)
+                      {
+                          if (!err)
+                          {
+                              res.json(doc.response.docs);
+                          } else 
+                          {
+                              res.json(err);
+                          }
+                      });
+
+        });
+
+app.get('/list-suggestions/:type',
+        function(req,res)
+        {
+            var query = wnchanges.createQuery()
+                .q('*:*')
+                .matchFilter("type", "suggestion")
+                .matchFilter("doc_type", "synset")
+                .matchFilter("action", req.params.type)
+                .fl(["doc_id","params"])
+                .rows(1000000);
+            wnchanges.search(query,
+                      function(err, doc)
+                      {
+                          if (!err)
+                          {
+                              res.json(doc.response.docs);
+                          } else 
+                          {
+                              res.json(err);
+                          }
+                      });
 
         });
 
