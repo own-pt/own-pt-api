@@ -890,7 +890,6 @@ app.get('/sense-tagging-detail',
 app.get('/list-synsets/:type',
         function(req,res)
         {
-            console.log('type');
             var query = wn.createQuery()
                 .q('*:*')
                 .matchFilter("rdf_type", req.params.type)
