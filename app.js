@@ -1,4 +1,4 @@
-var async = require('async');
+var async = require( 'async');
 var fs = require('fs');
 var url = require('url');
 
@@ -64,11 +64,34 @@ function addExpandedInfo(s, item, fieldNameExpanded, callback)
       if (elt != null)
       {
         s[fieldNameExpanded].push(
-          { 'name': wordnet.getWord(elt), 'id': item });
+          { 'name': wordnet.getWord(elt), 'id': item });	  
       }
-      
       callback(null);
     });
+}
+
+function getPredicateFromPointer(s)
+{
+  if (s){
+    var lastIndex = s.pointer.lastIndexOf('/') + 1;
+    return s.pointer.substr(lastIndex); 
+  }
+}
+
+function getSynsetId (url)
+{
+  if (url){
+    var syn = url.substr(url.lastIndexOf('/'));
+    return syn.substr(syn.indexOf('-') + 1);
+  }
+}
+
+function processPointer(synset, pointer, callback)
+{       
+    var predicateNameExpanded = getPredicateFromPointer(pointer) + 'Expanded';
+    synset[predicateNameExpanded] = []; 	      
+    targetSynsetId = getSynsetId(pointer.target_synset);	     
+    addExpandedInfo(synset, targetSynsetId, predicateNameExpanded, callback);
 }
 
 function processSynset(s, fieldName, callback)
@@ -88,7 +111,7 @@ function processSynset(s, fieldName, callback)
     async.each(s[fieldName],
                function(item, callback)
                {
-                 addExpandedInfo(s, item, fieldNameExpanded, callback);
+	          addExpandedInfo(s, item, fieldNameExpanded, callback);
                },
                function(err)
                {
@@ -236,27 +259,57 @@ function addRelatedNomlexes(s, callback)
     callback(s);
   }
 }
+function addRelations(synset, id, callback)
+{
+    workflow.getSynsetPointers(
+    id,
+    function(errDoc, s)
+    {// Iterate through the pointers retrieved
+	async.each(s,
+            function(item, callback)
+            {	  
+               processPointer(synset,item, callback);
+             },
+	    function (err)
+	    {	             
+	       wordnet.normalizeFields(s);	             	             
+	       callback(synset);
+	    });
+	});	
+}
 
 function fetchSynset(id, callback)
 {
-  var fields = wordnet.getPredicates();
+    var fields = wordnet.getPredicates();
+    /* obs: it is necessary to remove the relations
+      predicates from fields list.
+      vide:
+    var i = fields.indexOf("wn30_hypernymOf");
+    fields.splice(i,1);
+    i = fields.indexOf("wn30_hyponymOf");
+    fields.splice(i,1);
+    i = fields.indexOf("wn30_partMeronymOf");
+    fields.splice(i,1);*/
 
-  workflow.getDocument(
+    workflow.getDocument(
     id,
     function(errDoc, s)
     {
       async.each(fields,
                  function(item, callback)
-                 {
-                   processSynset(s, item, callback);
+                 {	           	         
+	             // process only the items that are not relations predicates
+                     processSynset(s, item, callback);		   
                  },
                  function(err)
                  {
-                   wordnet.normalizeFields(s);
-                   addRelatedNomlexes(s, callback);
+		     wordnet.normalizeFields(s);
+                     addRelatedNomlexes(s, callback);	
+	             addRelations(s, id, callback);
                  });
     });
 }
+
 
 function fetchNomlex(id, callback)
 {
@@ -279,7 +332,7 @@ app.get('/predicates',
 app.get('/',
         function(req,res)
         {
-          res.json({version: '43-solr',
+          res.json({version: '42-solr',
                     has_key: api_key != null,
                     date: new Date() });
         });
@@ -641,6 +694,7 @@ app.get('/add-comment/:id',
           }
         });
 
+
 app.get('/synset/:id',
         function(req, res)
         {
@@ -653,6 +707,8 @@ app.get('/synset/:id',
                         res.json(s);
                       });
         });
+
+
 
 app.get('/nomlex/:id',
         function(req, res)
@@ -884,52 +940,6 @@ app.get('/sense-tagging-detail',
 
               res.json(result);
             });
-
-        });
-
-app.get('/list-synsets/:type',
-        function(req,res)
-        {
-            var query = wn.createQuery()
-                .q('*:*')
-                .matchFilter("rdf_type", req.params.type)
-                .fl(["word_en","word_pt","doc_id"])
-                .rows(1000000);
-            wn.search(query,
-                      function(err, doc)
-                      {
-                          if (!err)
-                          {
-                              res.json(doc.response.docs);
-                          } else 
-                          {
-                              res.json(err);
-                          }
-                      });
-
-        });
-
-app.get('/list-suggestions/:type',
-        function(req,res)
-        {
-            var query = wnchanges.createQuery()
-                .q('*:*')
-                .matchFilter("type", "suggestion")
-                .matchFilter("doc_type", "synset")
-                .matchFilter("action", req.params.type)
-                .fl(["doc_id","params"])
-                .rows(1000000);
-            wnchanges.search(query,
-                      function(err, doc)
-                      {
-                          if (!err)
-                          {
-                              res.json(doc.response.docs);
-                          } else 
-                          {
-                              res.json(err);
-                          }
-                      });
 
         });
 

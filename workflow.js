@@ -27,6 +27,11 @@ exports.getDocument = function(id, callback)
   localGetDocument(id, callback);
 }
 
+exports.getSynsetPointers = function(id, callback)
+{
+   localGetSynsetPointers(id, callback);
+}
+
 function localGetPointers (synset, word, callback)
 {
     var params = {};
@@ -47,8 +52,9 @@ function localGetPointers (synset, word, callback)
                     function (err, result)
                     {
                         callback(null, result.response.docs);
-                    });
-}
+    });
+} 
+
 
 function localGetDocument(id, callback)
 {
@@ -56,6 +62,43 @@ function localGetDocument(id, callback)
   
   wn.search(query,
             function(err, doc)
+            {
+               if (!err)
+              {
+                if (DEBUG && doc.respose.numFound > 1)
+                {
+                  console.log('WARNING: more than one document found!', id);
+                }
+
+                if (DEBUG && doc.response.numFound == 0)
+                {
+                  console.log('WARNING: no document found!', id);
+                }
+
+                if (doc.response.numFound >= 1)
+                {
+		    callback(null, doc.response.docs[0]);
+                }
+                else
+                {
+                  callback({'error' : 'document-not-found'}, null);
+                }
+              }
+              else
+              {
+                callback({'error': err}, null);
+              }
+            });
+}
+
+
+function localGetSynsetPointers (id, callback)
+{
+  var sourceSynset = "https://w3id.org/own-pt/wn30-en/instances/synset-" + id;
+  var query = pointers.createQuery().q({source_synset:escapeSpecialChars(sourceSynset)});
+   
+  pointers.search(query,
+      function(err, doc)
             {
               if (!err)
               {
@@ -71,7 +114,7 @@ function localGetDocument(id, callback)
 
                 if (doc.response.numFound >= 1)
                 {
-                  callback(null, doc.response.docs[0]);
+		    callback(null, doc.response.docs);
                 }
                 else
                 {
@@ -82,7 +125,7 @@ function localGetDocument(id, callback)
               {
                 callback({'error': err}, null);
               }
-            });
+            });    
 }
 
 exports.acceptSuggestion = function(id, callback)
