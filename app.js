@@ -943,6 +943,52 @@ app.get('/sense-tagging-detail',
 
         });
 
+app.get('/list-synsets/:type',
+        function(req,res)
+        {
+            var query = wn.createQuery()
+                .q('*:*')
+                .matchFilter("rdf_type", req.params.type)
+                .fl(["word_en","word_pt","doc_id"])
+                .rows(1000000);
+            wn.search(query,
+                      function(err, doc)
+                      {
+                          if (!err)
+                          {
+                              res.json(doc.response.docs);
+                          } else 
+                          {
+                              res.json(err);
+                          }
+                      });
+
+        });
+
+app.get('/list-suggestions/:type',
+        function(req,res)
+        {
+            var query = wnchanges.createQuery()
+                .q('*:*')
+                .matchFilter("type", "suggestion")
+                .matchFilter("doc_type", "synset")
+                .matchFilter("action", req.params.type)
+                .fl(["doc_id","params"])
+                .rows(1000000);
+            wnchanges.search(query,
+                      function(err, doc)
+                      {
+                          if (!err)
+                          {
+                              res.json(doc.response.docs);
+                          } else 
+                          {
+                              res.json(err);
+                          }
+                      });
+
+        });
+
 var host = (process.env.VCAP_APP_HOST || 'localhost');
 // The port on the DEA for communication with the application:
 var port = (process.env.VCAP_APP_PORT || 3000);
