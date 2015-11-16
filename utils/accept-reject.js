@@ -9,7 +9,7 @@ var wnvotes = dbCredentials.votesDbName;
 
 function isAccepted(vote)
 {
-  return vote.sum_votes >= 3;
+  return vote.sum_votes >= 2;
 }
 
 function isRejected(vote)
