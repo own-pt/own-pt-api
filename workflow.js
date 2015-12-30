@@ -639,7 +639,7 @@ function localAddVote(suggestion_id, user, value, callback)
                         suggestion.id,
                         function(err, body)
                         {
-                          if (callback) callback(err, body);
+                          if (callback) callback(err, {id: vote.id});
                         });
                     });
                 });
