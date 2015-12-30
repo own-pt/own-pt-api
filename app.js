@@ -333,7 +333,6 @@ app.get('/',
         function(req,res)
         {
           res.json({version: '44-solr',
-
                     has_key: api_key != null,
                     date: new Date() });
         });

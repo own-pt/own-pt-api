@@ -4,3 +4,4 @@ credentials.json
 run-real.sh
 manifest.yml
 run.sh
+.DS_Store
