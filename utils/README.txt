@@ -17,6 +17,10 @@ import-alberto.js, import-disqus.js, import-hugo-definicoes.js,
 import-hugo-palavras.js: [oudated] various one-off script files used
 to import suggestions and comments from various sources.
 
+import-watson-translation.js: import watson translation of gloses.
+
+translate-glosses.lisp: translate gloses
+
 Files used in backup/restore/other maintenance tasks
 ====================================================
 
