@@ -17,9 +17,9 @@ function escapeSpecialChars(s){
   .replace(/\|\|/g, '\\|\\|');
 }
 
-exports.getPointers = function(synset, word, callback)
+exports.getPointers = function(synset, word, lang, callback)
 {
-    localGetPointers (synset, word, callback);
+    localGetPointers (synset, word, lang, callback);
 }
 
 exports.getDocument = function(id, callback)
@@ -32,13 +32,20 @@ exports.getSynsetPointers = function(id, callback)
    localGetSynsetPointers(id, callback);
 }
 
-function localGetPointers (synset, word, callback)
+function localGetPointers (synset, word, lang, callback)
 {
     var params = {};
 
     if (synset) 
     {
-        params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
+	if (lang === 'en')
+	{
+            params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
+	}
+	else
+	{
+	    params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-pt/instances/synset-" + synset);
+	}
     }
 
     if (word)
@@ -52,7 +59,7 @@ function localGetPointers (synset, word, callback)
                     function (err, result)
                     {
                         callback(null, result.response.docs);
-    });
+		    });
 } 
 
 

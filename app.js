@@ -63,8 +63,8 @@ function addExpandedInfo(s, item, fieldNameExpanded, callback)
     {
       if (elt != null)
       {
-        s[fieldNameExpanded].push(
-          { 'name': wordnet.getWord(elt), 'id': item });	  
+          s[fieldNameExpanded].push(
+              { 'name': wordnet.getWord(elt), 'id': item });	  	  
       }
       callback(null);
     });
@@ -87,41 +87,43 @@ function getSynsetId (url)
 }
 
 function processPointer(synset, pointer, callback)
-{       
-    var predicateNameExpanded = getPredicateFromPointer(pointer) + 'Expanded';
+{
+    var predicateNameExpanded = 'wn30_' + getPredicateFromPointer(pointer) + 'Expanded';
     synset[predicateNameExpanded] = []; 	      
-    targetSynsetId = getSynsetId(pointer.target_synset);	     
-    addExpandedInfo(synset, targetSynsetId, predicateNameExpanded, callback);
+    targetSynsetId = getSynsetId(pointer.target_synset);        
+    addExpandedInfo(synset, targetSynsetId, predicateNameExpanded, callback)
 }
 
 function processSynset(s, fieldName, callback)
 {
-  if (s && s.hasOwnProperty(fieldName))
-  {
-    // normalize values that came from Cloudant as single values
-    // into an array with a single value.
-    if (s[fieldName].constructor !== Array)
+    if (s && s.hasOwnProperty(fieldName))
     {
-      s[fieldName] = [s[fieldName]];
+	// normalize values that came from Cloudant as single values
+	// into an array with a single value.
+	
+	if (s[fieldName].constructor !== Array)
+	{
+	    s[fieldName] = [s[fieldName]];
+	}
+	
+	var fieldNameExpanded = fieldName + 'Expanded';
+	s[fieldNameExpanded] = [];
+	
+	async.each(s[fieldName],
+		   function(item, callback)
+		   {
+	               addExpandedInfo(s, item, fieldNameExpanded, callback);
+		   },
+		   function(err)
+		   {
+		       callback(null);
+		   });
+	
     }
-    
-    var fieldNameExpanded = fieldName + 'Expanded';
-    s[fieldNameExpanded] = [];
-    
-    async.each(s[fieldName],
-               function(item, callback)
-               {
-	          addExpandedInfo(s, item, fieldNameExpanded, callback);
-               },
-               function(err)
-               {
-                 callback(null);
-               });
-  }
-  else
-  {
-    callback(null);
-  }
+    else
+    {
+	callback(null);
+    }
 }
 
 function makeNomlexSearch(term)
@@ -247,7 +249,7 @@ function addRelatedNomlexes(s, callback)
                   }
                 }
                 
-                callback(s);
+                  callback(s);
               });
   }
   else
@@ -262,34 +264,79 @@ function addRelatedNomlexes(s, callback)
 function addRelations(synset, id, callback)
 {
     workflow.getSynsetPointers(
-    id,
-    function(errDoc, s)
-    {// Iterate through the pointers retrieved
-	async.each(s,
-            function(item, callback)
-            {	  
-               processPointer(synset,item, callback);
-             },
-	    function (err)
-	    {	             
-	       wordnet.normalizeFields(s);	             	             
-	       callback(synset);
-	    });
+	id,
+	function(errDoc, s)
+	{   // Iterate through the pointers retrieved
+	    async.each(s,
+		       function(item, callback)
+		       {
+			   processPointer(synset, item, callback);
+		       },
+		       function (err)
+		       {
+			   // wordnet.normalizeFields(s);
+			   callback(synset);
+		       });
 	});	
+}
+
+function fillPointer(s, w, pointers, lang, callback)
+{
+    var index = 0;
+    
+    if (lang === 'en')
+    {
+	var field = s['wn30_word_enExpanded'];
+    }
+    else
+    {
+	var field = s['wn30_word_ptExpanded'];
+    }
+    var len = field.length;
+    
+    field[len] = {};
+    field[len][w] = [];
+    
+    async.each(pointers,
+	       function(p, callback)
+	       {
+		   field[len][w][index] = {
+		       'pointer': getPredicateFromPointer(p),
+		       'target_word': p.target_word,
+		       'target_synset': getSynsetId(p.target_synset)
+		   };
+		   index = index + 1;
+		   callback(null);				   
+		   
+	       },
+	       function(err)
+	       {		  
+		   callback(null);
+	       });			    
+}
+
+function addWordPointers(s, id, words, lang, callback)
+{
+    async.each(words,
+	       function(word, callback)
+	       {		   
+		   workflow.getPointers(
+		       id, word, lang,
+		       function (err, p)
+		       {
+			   fillPointer(s, word, p, lang, callback);					 
+		       });
+	       },
+	       function(err)
+	       {
+		   console.log(s);
+		   callback(s);
+	       });
 }
 
 function fetchSynset(id, callback)
 {
     var fields = wordnet.getPredicates();
-    /* obs: it is necessary to remove the relations
-      predicates from fields list.
-      vide:
-    var i = fields.indexOf("wn30_hypernymOf");
-    fields.splice(i,1);
-    i = fields.indexOf("wn30_hyponymOf");
-    fields.splice(i,1);
-    i = fields.indexOf("wn30_partMeronymOf");
-    fields.splice(i,1);*/
 
     workflow.getDocument(
     id,
@@ -297,16 +344,23 @@ function fetchSynset(id, callback)
     {
       async.each(fields,
                  function(item, callback)
-                 {	           	         
-	             // process only the items that are not relations predicates
-                     processSynset(s, item, callback);		   
+                 {
+                     processSynset(s, item, callback);
                  },
                  function(err)
                  {
-		     wordnet.normalizeFields(s);
-                     addRelatedNomlexes(s, callback);	
-	             addRelations(s, id, callback);
-                 });
+		     wordnet.normalizeFields(s);		     		     
+                     addRelatedNomlexes(s, function(s) {
+		      	 addRelations(s, id, function(s) {
+			     s['wn30_word_enExpanded'] = [];
+			     s['wn30_word_ptExpanded'] = [];
+			     
+			     addWordPointers(s, id, s.word_en, 'en', function(s){
+				 addWordPointers(s, id, s.word_pt, 'pt', callback);
+			     });					     
+			 });
+                     });
+		 });
     });
 }
 
@@ -703,8 +757,8 @@ app.get('/synset/:id',
           fetchSynset(req.params.id,
                       function(s)
                       {
-                        console.timeEnd("synset");
-                        res.json(s);
+                          console.timeEnd("synset");
+                          res.json(s);
                       });
         });
 
@@ -789,7 +843,7 @@ app.get('/pointers',
             var synset = req.param('synset');
             var word = req.param('word');
             
-            workflow.getPointers(synset,word,
+            workflow.getPointers(synset,word, 'en',
                                  function(err, pointers)
                                  {
                                      res.json(pointers);
