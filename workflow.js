@@ -35,6 +35,8 @@ exports.getSynsetPointers = function(id, callback)
 function localGetPointers (synset, word, lang, callback)
 {
   var params = {};
+
+  var error = null;
   
   if (synset) 
   {
@@ -42,24 +44,29 @@ function localGetPointers (synset, word, lang, callback)
     {
       params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
     }
-    else
+    else if (lang === 'pt')
     {
       params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-pt/instances/synset-" + synset);
-    }
+    } else 
+      error = "Unknown language.";
   }
   
   if (word)
   {
     params.source_word = word;
   }
-  
-  var query = pointers.createQuery().q(params);
-  
-  pointers.search(query,
-                  function (err, result)
-                  {
-                    callback(null, result.response.docs);
-		  });
+
+  if (error) {
+    callbacak(error, null);
+  }
+  else {
+    var query = pointers.createQuery().q(params);
+    pointers.search(query,
+                    function (err, result)
+                    {
+                      callback(null, result.response.docs);
+		    });
+  }
 } 
 
 

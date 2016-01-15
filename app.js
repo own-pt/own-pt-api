@@ -86,11 +86,13 @@ function getSynsetId (url)
   }
 }
 
-function processPointer(synset, pointer, callback)
+function fillSemanticPointer(synset, pointer, callback)
 {
-  var predicateNameExpanded = 'wn30_' + getPredicateFromPointer(pointer) + 'Expanded';
+  var predicateName = 'wn30_' + getPredicateFromPointer(pointer);
+  var predicateNameExpanded = predicateName + 'Expanded';
   synset[predicateNameExpanded] = []; 	      
   targetSynsetId = getSynsetId(pointer.target_synset);        
+  synset[predicateName] = targetSynsetId;
   addExpandedInfo(synset, targetSynsetId, predicateNameExpanded, callback)
 }
 
@@ -270,7 +272,7 @@ function addRelations(synset, id, callback)
       async.each(s,
 		 function(item, callback)
 		 {
-		   processPointer(synset, item, callback);
+		   fillSemanticPointer(synset, item, callback);
 		 },
 		 function (err)
 		 {
@@ -280,32 +282,17 @@ function addRelations(synset, id, callback)
     });	
 }
 
-function fillPointer(s, w, pointers, lang, callback)
+function fillWordPointer(field, pointers, callback)
 {
-  var index = 0;
-  
-  if (lang === 'en')
-  {
-    var field = s['wn30_word_enExpanded'];
-  }
-  else
-  {
-    var field = s['wn30_word_ptExpanded'];
-  }
-  var len = field.length;
-  
-  field[len] = {};
-  field[len][w] = [];
-  
   async.each(pointers,
 	     function(p, callback)
 	     {
-	       field[len][w][index] = {
+	       field.push({
 		 'pointer': getPredicateFromPointer(p),
 		 'target_word': p.target_word,
 		 'target_synset': getSynsetId(p.target_synset)
-	       };
-	       index = index + 1;
+	       });
+
 	       callback(null);				   
 	       
 	     },
@@ -317,14 +304,19 @@ function fillPointer(s, w, pointers, lang, callback)
 
 function addWordPointers(s, id, words, lang, callback)
 {
+  var wordPointerPredicate = 'wn30_word_'+lang+'Expanded';
+
+  s[wordPointerPredicate] = {};
+
   async.each(words,
 	     function(word, callback)
-	     {		   
+	     {
+	       s[wordPointerPredicate][word] = [];
 	       workflow.getPointers(
 		 id, word, lang,
 		 function (err, p)
 		 {
-		   fillPointer(s, word, p, lang, callback);					 
+		   fillWordPointer(s[wordPointerPredicate][word], p, callback);					 
 		 });
 	     },
 	     function(err)
@@ -352,9 +344,6 @@ function fetchSynset(id, callback)
 		   wordnet.normalizeFields(s);		     		     
                    addRelatedNomlexes(s, function(s) {
 		     addRelations(s, id, function(s) {
-		       s['wn30_word_enExpanded'] = [];
-		       s['wn30_word_ptExpanded'] = [];
-		       
 		       addWordPointers(s, id, s.word_en, 'en', function(s){
 			 addWordPointers(s, id, s.word_pt, 'pt', callback);
 		       });					     
