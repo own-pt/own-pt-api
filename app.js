@@ -88,42 +88,42 @@ function getSynsetId (url)
 
 function processPointer(synset, pointer, callback)
 {
-    var predicateNameExpanded = 'wn30_' + getPredicateFromPointer(pointer) + 'Expanded';
-    synset[predicateNameExpanded] = []; 	      
-    targetSynsetId = getSynsetId(pointer.target_synset);        
-    addExpandedInfo(synset, targetSynsetId, predicateNameExpanded, callback)
+  var predicateNameExpanded = 'wn30_' + getPredicateFromPointer(pointer) + 'Expanded';
+  synset[predicateNameExpanded] = []; 	      
+  targetSynsetId = getSynsetId(pointer.target_synset);        
+  addExpandedInfo(synset, targetSynsetId, predicateNameExpanded, callback)
 }
 
 function processSynset(s, fieldName, callback)
 {
-    if (s && s.hasOwnProperty(fieldName))
+  if (s && s.hasOwnProperty(fieldName))
+  {
+    // normalize values that came from Cloudant as single values
+    // into an array with a single value.
+    
+    if (s[fieldName].constructor !== Array)
     {
-	// normalize values that came from Cloudant as single values
-	// into an array with a single value.
-	
-	if (s[fieldName].constructor !== Array)
-	{
-	    s[fieldName] = [s[fieldName]];
-	}
-	
-	var fieldNameExpanded = fieldName + 'Expanded';
-	s[fieldNameExpanded] = [];
-	
-	async.each(s[fieldName],
-		   function(item, callback)
-		   {
-	               addExpandedInfo(s, item, fieldNameExpanded, callback);
-		   },
-		   function(err)
-		   {
-		       callback(null);
-		   });
-	
+      s[fieldName] = [s[fieldName]];
     }
-    else
-    {
-	callback(null);
-    }
+    
+    var fieldNameExpanded = fieldName + 'Expanded';
+    s[fieldNameExpanded] = [];
+    
+    async.each(s[fieldName],
+	       function(item, callback)
+	       {
+	         addExpandedInfo(s, item, fieldNameExpanded, callback);
+	       },
+	       function(err)
+	       {
+		 callback(null);
+	       });
+    
+  }
+  else
+  {
+    callback(null);
+  }
 }
 
 function makeNomlexSearch(term)
@@ -263,103 +263,103 @@ function addRelatedNomlexes(s, callback)
 }
 function addRelations(synset, id, callback)
 {
-    workflow.getSynsetPointers(
-	id,
-	function(errDoc, s)
-	{   // Iterate through the pointers retrieved
-	    async.each(s,
-		       function(item, callback)
-		       {
-			   processPointer(synset, item, callback);
-		       },
-		       function (err)
-		       {
-			   // wordnet.normalizeFields(s);
-			   callback(synset);
-		       });
-	});	
+  workflow.getSynsetPointers(
+    id,
+    function(errDoc, s)
+    {   // Iterate through the pointers retrieved
+      async.each(s,
+		 function(item, callback)
+		 {
+		   processPointer(synset, item, callback);
+		 },
+		 function (err)
+		 {
+		   // wordnet.normalizeFields(s);
+		   callback(synset);
+		 });
+    });	
 }
 
 function fillPointer(s, w, pointers, lang, callback)
 {
-    var index = 0;
-    
-    if (lang === 'en')
-    {
-	var field = s['wn30_word_enExpanded'];
-    }
-    else
-    {
-	var field = s['wn30_word_ptExpanded'];
-    }
-    var len = field.length;
-    
-    field[len] = {};
-    field[len][w] = [];
-    
-    async.each(pointers,
-	       function(p, callback)
-	       {
-		   field[len][w][index] = {
-		       'pointer': getPredicateFromPointer(p),
-		       'target_word': p.target_word,
-		       'target_synset': getSynsetId(p.target_synset)
-		   };
-		   index = index + 1;
-		   callback(null);				   
-		   
-	       },
-	       function(err)
-	       {		  
-		   callback(null);
-	       });			    
+  var index = 0;
+  
+  if (lang === 'en')
+  {
+    var field = s['wn30_word_enExpanded'];
+  }
+  else
+  {
+    var field = s['wn30_word_ptExpanded'];
+  }
+  var len = field.length;
+  
+  field[len] = {};
+  field[len][w] = [];
+  
+  async.each(pointers,
+	     function(p, callback)
+	     {
+	       field[len][w][index] = {
+		 'pointer': getPredicateFromPointer(p),
+		 'target_word': p.target_word,
+		 'target_synset': getSynsetId(p.target_synset)
+	       };
+	       index = index + 1;
+	       callback(null);				   
+	       
+	     },
+	     function(err)
+	     {		  
+	       callback(null);
+	     });			    
 }
 
 function addWordPointers(s, id, words, lang, callback)
 {
-    async.each(words,
-	       function(word, callback)
-	       {		   
-		   workflow.getPointers(
-		       id, word, lang,
-		       function (err, p)
-		       {
-			   fillPointer(s, word, p, lang, callback);					 
-		       });
-	       },
-	       function(err)
-	       {
-		   console.log(s);
-		   callback(s);
-	       });
+  async.each(words,
+	     function(word, callback)
+	     {		   
+	       workflow.getPointers(
+		 id, word, lang,
+		 function (err, p)
+		 {
+		   fillPointer(s, word, p, lang, callback);					 
+		 });
+	     },
+	     function(err)
+	     {
+	       console.log(s);
+	       callback(s);
+	     });
 }
 
 function fetchSynset(id, callback)
 {
-    var fields = wordnet.getPredicates();
-
-    workflow.getDocument(
+  var fields = wordnet.getPredicates();
+  
+  workflow.getDocument(
     id,
     function(errDoc, s)
     {
       async.each(fields,
                  function(item, callback)
                  {
-                     processSynset(s, item, callback);
+                   processSynset(s, item, callback);
                  },
                  function(err)
                  {
-		     wordnet.normalizeFields(s);		     		     
-                     addRelatedNomlexes(s, function(s) {
-		      	 addRelations(s, id, function(s) {
-			     s['wn30_word_enExpanded'] = [];
-			     s['wn30_word_ptExpanded'] = [];
-			     
-			     addWordPointers(s, id, s.word_en, 'en', function(s){
-				 addWordPointers(s, id, s.word_pt, 'pt', callback);
-			     });					     
-			 });
-                     });
+		   wordnet.normalizeFields(s);		     		     
+                   addRelatedNomlexes(s, function(s) {
+		     addRelations(s, id, function(s) {
+		       s['wn30_word_enExpanded'] = [];
+		       s['wn30_word_ptExpanded'] = [];
+		       
+		       addWordPointers(s, id, s.word_en, 'en', function(s){
+			 addWordPointers(s, id, s.word_pt, 'pt', callback);
+		       });					     
+		     });
+                   });
 		 });
     });
 }
