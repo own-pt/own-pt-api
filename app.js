@@ -72,7 +72,8 @@ function addExpandedInfo(s, item, fieldNameExpanded, callback)
 
 function getPredicateFromPointer(s)
 {
-  if (s){
+  if (s) 
+  {
     var lastIndex = s.pointer.lastIndexOf('/') + 1;
     return s.pointer.substr(lastIndex); 
   }
@@ -80,7 +81,8 @@ function getPredicateFromPointer(s)
 
 function getSynsetId (url)
 {
-  if (url){
+  if (url) 
+  {
     var syn = url.substr(url.lastIndexOf('/'));
     return syn.substr(syn.indexOf('-') + 1);
   }
@@ -343,7 +345,7 @@ function fetchSynset(id, callback)
 		   wordnet.normalizeFields(s);		     		     
                    addRelatedNomlexes(s, function(s) {
 		     addRelations(s, id, function(s) {
-		       addWordPointers(s, id, s.word_en, 'en', function(s){
+		       addWordPointers(s, id, s.word_en, 'en', function(s) {
 			 addWordPointers(s, id, s.word_pt, 'pt', callback);
 		       });					     
 		     });
