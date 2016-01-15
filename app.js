@@ -321,7 +321,6 @@ function addWordPointers(s, id, words, lang, callback)
 	     },
 	     function(err)
 	     {
-	       console.log(s);
 	       callback(s);
 	     });
 }

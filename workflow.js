@@ -32,6 +32,22 @@ exports.getSynsetPointers = function(id, callback)
   localGetSynsetPointers(id, callback);
 }
 
+function getSynsetUrl(id, lang)
+{
+  var url = null;
+  switch(lang) 
+  {
+  case 'en':
+    url = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + id);
+    break;
+  case 'pt':
+    url = escapeSpecialChars("https://w3id.org/own-pt/wn30-pt/instances/synset-" + id);
+    break;
+  }
+  
+  return url;
+}
+
 function localGetPointers (synset, word, lang, callback)
 {
   var params = {};
@@ -40,15 +56,15 @@ function localGetPointers (synset, word, lang, callback)
   
   if (synset) 
   {
-    if (lang === 'en')
+    var url = getSynsetUrl(synset, lang);
+    if (url)
     {
-      params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
+      params.source_synset = url;
     }
-    else if (lang === 'pt')
+    else 
     {
-      params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-pt/instances/synset-" + synset);
-    } else 
       error = "Unknown language.";
+    }
   }
   
   if (word)
@@ -56,10 +72,12 @@ function localGetPointers (synset, word, lang, callback)
     params.source_word = word;
   }
 
-  if (error) {
+  if (error) 
+  {
     callbacak(error, null);
   }
-  else {
+  else
+  {
     var query = pointers.createQuery().q(params);
     pointers.search(query,
                     function (err, result)
@@ -108,7 +126,8 @@ function localGetDocument(id, callback)
 
 function localGetSynsetPointers (id, callback)
 {
-  var sourceSynset = "https://w3id.org/own-pt/wn30-en/instances/synset-" + id;
+  var sourceSynset = getSynsetUrl(id, 'en');
+
   var query = pointers.createQuery().q({source_synset:escapeSpecialChars(sourceSynset)});
    
   pointers.search(query,
