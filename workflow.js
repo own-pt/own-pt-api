@@ -19,7 +19,7 @@ function escapeSpecialChars(s){
 
 exports.getPointers = function(synset, word, lang, callback)
 {
-    localGetPointers (synset, word, lang, callback);
+  localGetPointers (synset, word, lang, callback);
 }
 
 exports.getDocument = function(id, callback)
@@ -29,37 +29,37 @@ exports.getDocument = function(id, callback)
 
 exports.getSynsetPointers = function(id, callback)
 {
-   localGetSynsetPointers(id, callback);
+  localGetSynsetPointers(id, callback);
 }
 
 function localGetPointers (synset, word, lang, callback)
 {
-    var params = {};
-
-    if (synset) 
+  var params = {};
+  
+  if (synset) 
+  {
+    if (lang === 'en')
     {
-	if (lang === 'en')
-	{
-            params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
-	}
-	else
-	{
-	    params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-pt/instances/synset-" + synset);
-	}
+      params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-en/instances/synset-" + synset);
     }
-
-    if (word)
+    else
     {
-        params.source_word = word;
+      params.source_synset = escapeSpecialChars("https://w3id.org/own-pt/wn30-pt/instances/synset-" + synset);
     }
-
-    var query = pointers.createQuery().q(params);
-
-    pointers.search(query,
-                    function (err, result)
-                    {
-                        callback(null, result.response.docs);
-		    });
+  }
+  
+  if (word)
+  {
+    params.source_word = word;
+  }
+  
+  var query = pointers.createQuery().q(params);
+  
+  pointers.search(query,
+                  function (err, result)
+                  {
+                    callback(null, result.response.docs);
+		  });
 } 
 
 
@@ -76,7 +76,7 @@ function localGetDocument(id, callback)
                 {
                   console.log('WARNING: more than one document found!', id);
                 }
-
+		
                 if (DEBUG && doc.response.numFound == 0)
                 {
                   console.log('WARNING: no document found!', id);
