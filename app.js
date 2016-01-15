@@ -63,10 +63,10 @@ function addExpandedInfo(s, item, fieldNameExpanded, callback)
     {
       if (elt != null)
       {
-        s[fieldNameExpanded].push(
-            { 'name': wordnet.getWord(elt), 'id': item });
+          s[fieldNameExpanded].push(
+              { 'name': wordnet.getWord(elt), 'id': item });	  	  
       }
-      callback();
+      callback(null);
     });
 }
 
@@ -280,6 +280,53 @@ function addRelations(synset, id, callback)
 	});	
 }
 
+function fillPointer(s, w, pointers, callback)
+{
+    var index = 0;
+    var field = s['wn30_word_enExpanded'];
+    var len = field.length;
+    
+    field[len] = {};
+    field[len][w] = [];
+    
+    async.each(pointers,
+	       function(p, callback)
+	       {
+		   field[len][w][index] = {
+		       'pointer': getPredicateFromPointer(p),
+		       'target_word': p.target_word,
+		       'target_synset': getSynsetId(p.target_synset)
+		   };
+		   index = index + 1;
+		   callback(null);				   
+		   
+	       },
+	       function(err)
+	       {		  
+		   callback(null);
+	       });			    
+}
+
+function addWordPointers(s, id, callback)
+{
+    s['wn30_word_enExpanded'] = [];
+    
+    async.each(s.word_en,
+	       function(word, callback)
+	       {		   
+		   workflow.getPointers(
+		       id, word,
+		       function (err, p)
+		       {			   
+			   fillPointer(s, word, p, callback);					 
+		       });
+	       },
+	       function(err)
+	       {
+		   callback(s);
+	       });
+}
+
 function fetchSynset(id, callback)
 {
     var fields = wordnet.getPredicates();
@@ -295,13 +342,13 @@ function fetchSynset(id, callback)
                  },
                  function(err)
                  {
-		     wordnet.normalizeFields(s);
-		     addRelations(s, id, callback);
-		     
-                     // addRelatedNomlexes(s, function(s) {
-		     // 	 addRelations(s, id, callback);
-		     // });
-                 });
+		     wordnet.normalizeFields(s);		     		     
+                     addRelatedNomlexes(s, function(s) {
+		      	 addRelations(s, id, function(s) {
+			     addWordPointers(s, id, callback);
+			 });
+                     });
+		 });
     });
 }
 
