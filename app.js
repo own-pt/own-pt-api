@@ -280,10 +280,18 @@ function addRelations(synset, id, callback)
 	});	
 }
 
-function fillPointer(s, w, pointers, callback)
+function fillPointer(s, w, pointers, lang, callback)
 {
     var index = 0;
-    var field = s['wn30_word_enExpanded'];
+    
+    if (lang === 'en')
+    {
+	var field = s['wn30_word_enExpanded'];
+    }
+    else
+    {
+	var field = s['wn30_word_ptExpanded'];
+    }
     var len = field.length;
     
     field[len] = {};
@@ -307,22 +315,21 @@ function fillPointer(s, w, pointers, callback)
 	       });			    
 }
 
-function addWordPointers(s, id, callback)
+function addWordPointers(s, id, words, lang, callback)
 {
-    s['wn30_word_enExpanded'] = [];
-    
-    async.each(s.word_en,
+    async.each(words,
 	       function(word, callback)
 	       {		   
 		   workflow.getPointers(
-		       id, word,
+		       id, word, lang,
 		       function (err, p)
-		       {			   
-			   fillPointer(s, word, p, callback);					 
+		       {
+			   fillPointer(s, word, p, lang, callback);					 
 		       });
 	       },
 	       function(err)
 	       {
+		   console.log(s);
 		   callback(s);
 	       });
 }
@@ -345,7 +352,12 @@ function fetchSynset(id, callback)
 		     wordnet.normalizeFields(s);		     		     
                      addRelatedNomlexes(s, function(s) {
 		      	 addRelations(s, id, function(s) {
-			     addWordPointers(s, id, callback);
+			     s['wn30_word_enExpanded'] = [];
+			     s['wn30_word_ptExpanded'] = [];
+			     
+			     addWordPointers(s, id, s.word_en, 'en', function(s){
+				 addWordPointers(s, id, s.word_pt, 'pt', callback);
+			     });					     
 			 });
                      });
 		 });
@@ -831,7 +843,7 @@ app.get('/pointers',
             var synset = req.param('synset');
             var word = req.param('word');
             
-            workflow.getPointers(synset,word,
+            workflow.getPointers(synset,word, 'en',
                                  function(err, pointers)
                                  {
                                      res.json(pointers);
