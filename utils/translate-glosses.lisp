@@ -46,6 +46,9 @@
 		           collect (string-trim bw (subseq gloss (car pair) (cadr pair)))))
 	(list gloss))))
 
+(defun call-watson1 (text)
+  text)
+
 (defun call-watson (text)
   (drakma:http-request
 		  "https://gateway.watsonplatform.net/language-translation/api/v2/translate"
@@ -75,11 +78,12 @@
       (let ((count 0)
 	    (text (car (getf g :|gloss_en|)))
 	    (id (getf g :|doc_id|)))
-	(when (null (split-gloss text))
-	  (format t "!! ~a~%" text))
-	(dolist (txt (split-gloss text))
-	  (format t "~a | ~a | ~a | ~a ~%" id txt (call-watson txt) (if (= 0 count) "g" "e"))
-	  (incf count))))))
+	(when text
+	  (when (null (split-gloss text))
+	    (format t "!! ~a~%" text))
+	  (dolist (txt (split-gloss text))
+	    (format t "~a | ~a | ~a | ~a ~%" id txt (call-watson txt) (if (= 0 count) "g" "e"))
+	    (incf count)))))))
 
 (translate)
 
