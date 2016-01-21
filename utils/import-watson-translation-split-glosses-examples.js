@@ -11,22 +11,36 @@ var wn = dbCredentials.dbName;
 var wnchanges = dbCredentials.changesDbName;
 var audit = require('../audit.js');
 
-var line_regex = /^(.+)\|(.+)\|(.+)$/;
+var line_regex = /^(.+)\|(.+)\|(.+)\|(.+)$/;
+
+var count = 0;
 
 function addSuggestion(id, w, file, g_or_e)
 {
+  if (count++ % 10000 == 0)
+  {
+    console.log(count, 'suggestions added.');
+  }
+
   var action = {};
   action.id = uuid.v4();
   action.date = Date.now();
   action.doc_id = id;
   action.doc_type = 'synset';
   action.type = 'suggestion';
-  if (g_or_e === 'g') {
-  action.action = 'add-gloss-pt';
+
+  if (g_or_e === 'g')
+  {
+    action.action = 'add-gloss-pt';
   }
-  if (g_or_e === 'e') {
-  action.action = 'add-example-pt';
+  else 
+  if (g_or_e === 'e')
+  {
+    action.action = 'add-example-pt';
+  } else {
+    action.action = 'unknown';
   }
+
   action.sum_votes = 0;
   action.vote_score = 0;
 
@@ -42,14 +56,16 @@ function addSuggestion(id, w, file, g_or_e)
   wnchanges.add(action, 
                 function(err,body)
                 {
-                    wnchanges.softCommit();
+                  if (err) console.log(err);
+                  wnchanges.softCommit();
                 });
 }
 
 function processLine(l, file)
 {
   var result = l.match(line_regex);
-  if (result) {
+  if (result)
+  {
     var id = result[1].trim();
     var def = result[3].trim();
     var g_or_e = result[4].trim();
@@ -59,6 +75,7 @@ function processLine(l, file)
 
 function processFile(file)
 {
+  console.log('reading file...');
   var contents = fs.readFileSync(file, 'utf8');
   contents.split('\n').forEach(function(l) { processLine(l, file); });
 }
