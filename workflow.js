@@ -84,7 +84,14 @@ function localGetPointers(synset, word, lang, callback)
     pointers.search(query,
       function(err, result)
       {
-        callback(null, result.response.docs);
+        docs = null;
+
+        if (result && result.response) 
+        {
+          docs = result.response.docs;
+        }
+
+        callback(null, docs);
       });
   }
 }
@@ -139,10 +146,7 @@ function localGetSynsetPointers(id, callback)
 {
   var sourceSynset = getSynsetUrl(id, 'en');
 
-  var query = pointers.createQuery().q(
-  {
-    source_synset: escapeSpecialChars(sourceSynset)
-  });
+  var query = pointers.createQuery().q({ source_synset: sourceSynset });
 
   pointers.search(query,
     function(err, doc)
