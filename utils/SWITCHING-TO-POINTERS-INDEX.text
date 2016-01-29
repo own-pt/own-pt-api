@@ -1,0 +1,23 @@
+This is the progress report on how we switched to the "pointers" core
+in SOLR.  These were the steps taken:
+
+1. Create the "pointers" core:
+
+$ mlisp
+cl-user(1): (ql:quickload :wordnet-editor)
+cl-user(2): (in-package :wordnet)
+wordnet(3): (open-triple-store "wn30")
+wordnet(4): (load-pointers 1024) 
+...
+wordnet(5): (close-triple-store)
+
+2. Update "wn" core, removing the extra properties of the synset
+documents and the nominalizations.
+
+$ sbcl --load remove-fields.lisp
+* (in-package :fields)
+* (index-update (mapcar #'update-obj (remove-if-not #'updatable-p (fetch-docs 122000 "-rdf_type:Nominalization"))))
+* (index-commit)
+* (delete-by-id 200000)
+* (index-commit)
+
