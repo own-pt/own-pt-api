@@ -415,7 +415,6 @@ app.get('/',
 app.get('/get-suggestions/:id',
   function(req, res)
   {
-    console.time("get-suggestions");
     var query = wnchanges.createQuery()
       .q(
       {
@@ -436,12 +435,10 @@ app.get('/get-suggestions/:id',
           body.rows,
           function(item, callback)
           {
-            console.time("get-votes");
             workflow.getVotes(
               item.doc.id,
               function(err, votes)
               {
-                console.timeEnd("get-votes");
                 if (!err)
                 {
                   item.doc.votes = votes;
@@ -452,7 +449,6 @@ app.get('/get-suggestions/:id',
           },
           function(err)
           {
-            console.timeEnd("get-suggestions");
             res.json(body);
           }
         );
@@ -462,7 +458,6 @@ app.get('/get-suggestions/:id',
 app.get('/get-comments/:id',
   function(req, res)
   {
-    console.time("get-comments");
     var query = wnchanges.createQuery()
       .q(
       {
@@ -479,7 +474,6 @@ app.get('/get-comments/:id',
       function(err, solr)
       {
         var doc = solr2cloudant.convertSearchResults(solr);
-        console.timeEnd("get-comments");
         if (err) res.json(err);
         else res.json(doc);
       });
@@ -488,7 +482,6 @@ app.get('/get-comments/:id',
 app.get('/search-documents',
   function(req, res)
   {
-    console.time("search-documents");
     var query = wn.createQuery();
     query = query.q(req.param('q'));
     query = query.facet(
@@ -540,8 +533,6 @@ app.get('/search-documents',
 
           doc.counts = fixCounts(doc.counts);
 
-          console.timeEnd("search-documents");
-
           res.json(doc);
         }
       });
@@ -550,8 +541,6 @@ app.get('/search-documents',
 app.get('/search-activities',
   function(req, res)
   {
-    console.time("search-activities");
-
     var query = wn.createQuery();
 
     query = query.q(req.param('q'));
@@ -626,8 +615,6 @@ app.get('/search-activities',
 
           doc.counts = fixCounts(doc.counts);
 
-          console.timeEnd("search-activities");
-
           res.json(doc);
         }
       });
@@ -647,13 +634,10 @@ app.get('/accept-suggestion/:id',
     }
     else
     {
-      console.time("accept-suggestion");
       workflow.acceptSuggestion(
         req.params.id,
         function(err)
         {
-          console.timeEnd("accept-suggestion");
-
           if (!err)
           {
             res.json(
@@ -685,14 +669,10 @@ app.get('/reject-suggestion/:id',
     }
     else
     {
-      console.time("reject-suggestion");
-
       workflow.rejectSuggestion(
         req.params.id,
         function(err)
         {
-          console.timeEnd("reject-suggestion");
-
           if (!err)
           {
             res.json(
@@ -724,14 +704,10 @@ app.get('/delete-suggestion/:id',
     }
     else
     {
-      console.time("delete-suggestion");
-
       workflow.deleteSuggestion(
         req.params.id,
         function(err)
         {
-          console.timeEnd("delete-suggestion");
-
           if (!err)
           {
             res.json(
@@ -763,12 +739,10 @@ app.get('/delete-comment/:id',
     }
     else
     {
-      console.time("delete-comment");
       workflow.deleteComment(
         req.params.id,
         function(err)
         {
-          console.timeEnd("delete-comment");
           if (!err)
           {
             res.json(
@@ -800,8 +774,6 @@ app.get('/add-suggestion/:id',
     }
     else
     {
-      console.time("add-suggestion");
-
       workflow.addSuggestion(
         Date.now(),
         req.params.id,
@@ -813,8 +785,6 @@ app.get('/add-suggestion/:id',
         true,
         function(err, body)
         {
-          console.timeEnd("add-suggestion");
-
           res.json(
           {
             'status': 'suggestion-added'
@@ -835,16 +805,12 @@ app.get('/add-comment/:id',
     }
     else
     {
-      console.time("add-comment");
-
       workflow.addComment(
         Date.now(),
         req.params.id,
         req.param('doc_type').trim(),
         req.param('user').trim(),
         req.param('text'), 'web');
-
-      console.timeEnd("add-comment");
 
       res.json(
       {
@@ -857,12 +823,9 @@ app.get('/add-comment/:id',
 app.get('/synset/:id',
   function(req, res)
   {
-    console.time("synset");
-
     fetchSynset(req.params.id,
       function(s)
       {
-        console.timeEnd("synset");
         res.json(s);
       });
   });
@@ -892,8 +855,6 @@ app.get('/add-vote/:id',
     }
     else
     {
-      console.time("add-vote");
-
       var suggestion_id = req.params.id;
       var user = req.param('user');
       var value = req.param('value');
@@ -901,8 +862,6 @@ app.get('/add-vote/:id',
         suggestion_id, user, value,
         function(err, data)
         {
-          console.timeEnd("add-vote");
-
           if (err)
           {
             res.json(
@@ -935,15 +894,11 @@ app.get('/delete-vote/:id',
     }
     else
     {
-      console.time("delete-vote");
-
       var vote_id = req.params.id;
       workflow.deleteVote(
         vote_id,
         function(err, body)
         {
-          console.timeEnd("delete-vote");
-
           if (err)
           {
             res.json(
