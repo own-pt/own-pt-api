@@ -92,5 +92,5 @@
 
 (defun execute () 
   (index-update (mapcar #'update-obj (remove-if-not #'updatable-p (fetch-docs 122000 "-rdf_type:Nominalization"))))
-  (delete-by-id 200000)
+  (index-delete)
   (index-commit))
