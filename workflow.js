@@ -53,7 +53,6 @@ function getSynsetUrl(id, lang)
 function localGetPointers(synset, word, lang, callback)
 {
   var params = {};
-
   var error = null;
 
   if (synset)
