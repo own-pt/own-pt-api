@@ -101,9 +101,10 @@
 
 ;; load script and run the following commands:
 ;; sbcl --dynamic-space-size 5000
-;;
-;; (index-update (mapcar #'update-obj (remove-if-not #'updatable-p (fetch-docs 122000 "-rdf_type:Nominalization"))))
-;; (index-commit)
-;; (delete-by-id 200000)
-;; (index-commit)
+
+(defun execute () 
+  (index-update (mapcar #'update-obj (remove-if-not #'updatable-p (fetch-docs 122000 "-rdf_type:Nominalization"))))
+  (index-commit)
+  (delete-by-id 200000)
+  (index-commit))
  

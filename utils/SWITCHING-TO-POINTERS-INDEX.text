@@ -16,8 +16,6 @@ documents and the nominalizations.
 
 $ sbcl --load remove-fields.lisp
 * (in-package :fields)
-* (index-update (mapcar #'update-obj (remove-if-not #'updatable-p (fetch-docs 122000 "-rdf_type:Nominalization"))))
-* (index-commit)
-* (delete-by-id 200000)
-* (index-commit)
+* (execute)
+
 
