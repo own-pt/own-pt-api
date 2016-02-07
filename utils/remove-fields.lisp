@@ -42,15 +42,6 @@
 					     ("rows" . ,l)))))
     (gethash "docs" (gethash "response" out))))
 
- (defun get-nom-ids (limit)
-	   (let ((docs (fetch-docs limit "rdf_type:Nominalization")))
-	     (loop for i in docs
-		collect (gethash "id" i))))
-
-(defun gen-delete-json (ids stream)
-  (let ((h (alexandria:alist-hash-table `(("delete" . ,ids)))))
-    (yason:encode h stream)))
-
 (defun updatable-p (obj)
   (dolist (p *predicates*)
     (if (gethash p obj)
@@ -68,23 +59,20 @@
 		(setf (gethash k modified) v))))
     modified))
 
-(defun delete-by-id (limit)
-	   (labels ((send-data (s)
-		      (setf (flexi-streams:flexi-stream-external-format s) :utf-8)
-		      (gen-delete-json (get-nom-ids limit) s)))
-	     (drakma:http-request "http://localhost:8983/solr/wn/update"
-				  :content-type "application/json"
-				  :method :post
-				  :content #'send-data)))
+(defun index-delete ()
+  (drakma:http-request "http://localhost:8983/solr/wn/update"
+		       :content-type "text/xml"
+		       :method :post
+		       :content "<delete><query>rdf_type:Nominalization</query></delete>"))
 
 (defun index-update (docs)
   (labels ((send-data (s)
 	     (setf (flexi-streams:flexi-stream-external-format s) :utf-8)
 	     (yason:encode docs s)))
     (drakma:http-request "http://localhost:8983/solr/wn/update"
-				   :content-type "application/json"
-				   :method :post
-				   :content #'send-data)))
+			 :content-type "application/json"
+			 :method :post
+			 :content #'send-data)))
 
 ;; (defun modify-db (docs)
 ;;   (let ((cont (drakma:http-request "http://localhost:8983/solr/wn/update"
@@ -99,12 +87,10 @@
 (defun index-commit ()
   (drakma:http-request "http://localhost:8983/solr/wn/update?commit=true"))
 
-;; load script and run the following commands:
+;; start scbl with:
 ;; sbcl --dynamic-space-size 5000
 
 (defun execute () 
   (index-update (mapcar #'update-obj (remove-if-not #'updatable-p (fetch-docs 122000 "-rdf_type:Nominalization"))))
-  (index-commit)
   (delete-by-id 200000)
   (index-commit))
- 
