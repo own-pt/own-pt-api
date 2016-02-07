@@ -79,11 +79,18 @@ function localGetPointers(synset, word, lang, callback)
   }
   else
   {
-    var query = pointers.createQuery().q(params);
+    var query = pointers.createQuery().q(params).rows(2000000);
     pointers.search(query,
       function(err, result)
       {
-        callback(null, result.response.docs);
+        docs = null;
+
+        if (result && result.response) 
+        {
+          docs = result.response.docs;
+        }
+
+        callback(null, docs);
       });
   }
 }
@@ -138,10 +145,7 @@ function localGetSynsetPointers(id, callback)
 {
   var sourceSynset = getSynsetUrl(id, 'en');
 
-  var query = pointers.createQuery().q(
-  {
-    source_synset: escapeSpecialChars(sourceSynset)
-  });
+  var query = pointers.createQuery().q({ source_synset: sourceSynset }).rows(2000000);
 
   pointers.search(query,
     function(err, doc)
