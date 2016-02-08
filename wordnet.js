@@ -6,11 +6,11 @@ function processPredicate(elt, predicates)
   var prefix = 'wn30_';
   var u = url.parse(elt.pred.value);
   var wn30 = '/wn30/schema/';
-  
+
   if (u.pathname.lastIndexOf(wn30, 0) === 0)
   {
     predicates.push(prefix +
-                    u.pathname.substring(wn30.length, u.pathname.length));
+      u.pathname.substring(wn30.length, u.pathname.length));
   }
 }
 
@@ -44,7 +44,7 @@ function getGlossesEn(s)
 
 exports.normalizeFields = function(s)
 {
-  var fields = ['gloss_pt','example_pt'];
+  var fields = ['gloss_pt', 'example_pt'];
 
   fields.forEach(
     function(elt)
@@ -90,7 +90,7 @@ exports.getWords = function(s, fmt)
     else
       return '(' + s.word_pt.join(', ') + ')';
   }
-  
+
   if (s && s.word_en && s.word_en.length > 0)
   {
     if (fmt === 'array')
@@ -98,22 +98,24 @@ exports.getWords = function(s, fmt)
       return s.word_en;
     }
     else
-    return '(' + s.word_en.join(', ') + ')';
+      return '(' + s.word_en.join(', ') + ')';
   }
 
   return '(unknown)';
 }
 
 exports.getPredicates = function()
-{  
+{
   var obj = JSON.parse(fs.readFileSync('predicates.json', 'utf8'));
-  
+
   pred = obj.results.bindings;
-  
+
   var predicates = [];
-  
-  pred.forEach(function(elt) { processPredicate(elt, predicates) ; });
-  
+
+  pred.forEach(function(elt)
+  {
+    processPredicate(elt, predicates);
+  });
+
   return predicates;
 }
-
