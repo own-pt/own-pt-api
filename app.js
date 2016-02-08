@@ -310,6 +310,9 @@ function addRelations(synset, id, callback)
 
 function fillWordPointer(field, pointers, callback)
 {
+  if (pointers == null) {
+      callback(null);
+  } else {
   async.each(pointers,
     function(p, callback)
     {
@@ -327,6 +330,7 @@ function fillWordPointer(field, pointers, callback)
     {
       callback(null);
     });
+  }
 }
 
 function addWordPointers(s, id, words, lang, callback)
@@ -335,6 +339,8 @@ function addWordPointers(s, id, words, lang, callback)
 
   s[wordPointerPredicate] = {};
 
+  if (words == null) { callback(s); }
+  else {
   async.each(words,
     function(word, callback)
     {
@@ -350,6 +356,7 @@ function addWordPointers(s, id, words, lang, callback)
     {
       callback(s);
     });
+  }
 }
 
 function fetchSynset(id, callback)
