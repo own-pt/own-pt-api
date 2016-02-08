@@ -295,6 +295,8 @@ function addRelations(synset, id, callback)
     id,
     function(errDoc, s)
     { // Iterate through the pointers retrieved
+      if (s == null) { callback(synset); }
+      else {
       async.each(s,
         function(item, callback)
         {
@@ -305,6 +307,7 @@ function addRelations(synset, id, callback)
           // wordnet.normalizeFields(s);
           callback(synset);
         });
+      }
     });
 }
 
