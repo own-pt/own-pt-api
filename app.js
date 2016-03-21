@@ -429,7 +429,7 @@ app.get('/get-suggestions/:id',
       .q(
       {
         type: 'suggestion',
-        doc_id: req.params.id
+        doc_id: '"' + escapeSpecialChars(req.params.id) + '"'
       })
       .sort(
       {

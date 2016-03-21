@@ -23,23 +23,32 @@ exports.GetFQArray = function(drilldown)
 }
 exports.convertSearchResults = function(cloudant)
 {
-  solr = cloudant;
-  solr.total_rows = solr.response.numFound;
-  var rows = [];
-  for (d in solr.response.docs)
-  {
-    rows.push({doc: solr.response.docs[d]});
-  }
-  solr.rows = rows;
+  solr = {}
 
-  if (solr.facet_counts)
+  if (cloudant) 
   {
-    solr.counts = solr.facet_counts.facet_fields;
-    // delete solr.facet_counts;
-  }
-  
-  delete solr.response;
+    solr = cloudant;
+    solr.total_rows = solr.response.numFound;
 
+    var rows = [];
+    for (d in solr.response.docs)
+    {
+      rows.push({doc: solr.response.docs[d]});
+    }
+    solr.rows = rows;
+
+    if (solr.facet_counts)
+    {
+      solr.counts = solr.facet_counts.facet_fields;
+      // delete solr.facet_counts;
+    }
+    
+    delete solr.response;
+  } else {
+    solr.total_rows = 0
+    solr.rows = []
+    solr.counts = []
+  }
   
   return solr;
 }
