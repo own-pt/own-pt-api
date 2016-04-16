@@ -1,0 +1,5 @@
+(with-open-file (in "cstnews-verb-analysis.txt")
+    (let ((res))
+          (dolist (x (read in nil nil) res)
+	          (if (equal (car x) -1)
+		      (format t "~a,~a~%" (car (caddr x)) (caddr (caddr x)))))))
