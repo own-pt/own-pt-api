@@ -33,7 +33,6 @@ function escapeSpecialChars(s)
 function processBulkData()
 {
   console.log(suggestions.length)
-  console.log(audits.length)
 
   wnchanges.add(suggestions, null,
                function(err, data)
@@ -102,8 +101,8 @@ function wordAlreadySuggested(id,w,callback)
 	body.response.docs.forEach(
 	  function(d)
 	  {
-	    if (d.action == 'add-word-pt' && d.params == w) { 
-	      //console.log(w,'already added.'); 
+	    var processed_w = w.trim().replace(word_regex, '$1').trim();
+	    if (d.action == 'add-word-pt' && d.params == processed_w) { 
 	      contains = true; 
 	    }
 	  });
@@ -131,7 +130,7 @@ function addSuggestion(id, w, file, callback)
         action.vote_score = 0;
 
 	var processed_w = w.trim().replace(word_regex, '$1').trim();
-	
+
 	action.params = processed_w;
 	action.user = '(system)';
 	action.status = 'new';
@@ -142,7 +141,7 @@ function addSuggestion(id, w, file, callback)
                       action.user, action.provenance);
 
 	suggestions.push(action);
-      }
+      } else { console.log(id,w); }
 
       callback(null);
     });
