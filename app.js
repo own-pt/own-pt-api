@@ -416,7 +416,7 @@ app.get('/',
   {
     res.json(
     {
-      version: '45-pointers-solr',
+      version: '46-pointers-solr',
       has_key: api_key != null,
       date: new Date()
     });
@@ -431,6 +431,7 @@ app.get('/get-suggestions/:id',
         type: 'suggestion',
         doc_id: '"' + escapeSpecialChars(req.params.id) + '"'
       })
+      .rows(1000)
       .sort(
       {
         'date': 'desc'
@@ -474,6 +475,7 @@ app.get('/get-comments/:id',
         type: 'comment',
         doc_id: req.params.id
       })
+      .rows(1000)
       .sort(
       {
         'date': 'desc'
