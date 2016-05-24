@@ -1078,43 +1078,43 @@ app.get('/sense-tagging-process-suggestion',
       });
   });
 
-app.get('/sense-tagging',
-  function(req, res)
-  {
-    var file = req.param('file');
-    var bosque = JSON.parse(fs.readFileSync(file, 'utf8'));
-    res.json(bosque);
-  });
+// app.get('/sense-tagging',
+//   function(req, res)
+//   {
+//     var file = req.param('file');
+//     var bosque = JSON.parse(fs.readFileSync(file, 'utf8'));
+//     res.json(bosque);
+//   });
 
-app.get('/sense-tagging-detail',
-  function(req, res)
-  {
-    var file = req.param('file');
-    var ntext = req.param('text');
-    var nword = req.param('word');
-    var bosque = JSON.parse(fs.readFileSync(file, 'utf8'));
-    var text = bosque[ntext];
-    var word = bosque[ntext].words[nword];
+// app.get('/sense-tagging-detail',
+//   function(req, res)
+//   {
+//     var file = req.param('file');
+//     var ntext = req.param('text');
+//     var nword = req.param('word');
+//     var bosque = JSON.parse(fs.readFileSync(file, 'utf8'));
+//     var text = bosque[ntext];
+//     var word = bosque[ntext].words[nword];
 
-    var result = {}
-    result.text = text.text;
-    result.word = word;
+//     var result = {}
+//     result.text = text.text;
+//     result.word = word;
 
-    var query = ('word_pt:"' + word.lemma + '"');
+//     var query = ('word_pt:"' + word.lemma + '"');
 
-    searchSynsets(
-      query,
-      JSON.stringify(['rdf_type', 'NounSynset']),
-      complexSummaryOfSynset,
-      function(e, synsets)
-      {
-        if (!e)
-          result.lemma_synsets = synsets;
+//     searchSynsets(
+//       query,
+//       JSON.stringify(['rdf_type', 'NounSynset']),
+//       complexSummaryOfSynset,
+//       function(e, synsets)
+//       {
+//         if (!e)
+//           result.lemma_synsets = synsets;
 
-        res.json(result);
-      });
+//         res.json(result);
+//       });
 
-  });
+//   });
 
 app.get('/list-synsets/:type',
   function(req, res)
