@@ -22,10 +22,17 @@ actions. Especially if this is your first time.
    cl-user: (in-package :wordnet)
    wordnet: (open-triple-store "wn30")
    wordnet: (process-suggestions)
-   (this will take a couple of hours or days)
+   (this will take approximatelly 8 hours to finalize)
    wordnet: (commit-triple-store)
    
    This will synchronize the SOLR and AGraph databases.
 
    Now you can export the triples, as follows:
+   wordnet: (export-all)
+
+   This will generate N-triples files in /tmp.  You can then take the
+   new triples and release a new version of Openwordnet-PT with it.
+   Notice that the whole vote processing system only affects the
+   OWN-PT.NT file, so there's no need to update the other files
+   generated.
    
