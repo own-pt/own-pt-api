@@ -13,8 +13,14 @@ actions. Especially if this is your first time.
 
    This will effectively modify the WN index with all accepted
    suggestions (ie, adding/removing words, glosses and examples.)
+   
 
-3. Over in WORDNET-EDITOR, execute the method (PROCESS-SUGGESTIONS).
+3. update the /home/agraph/data.json file
+
+   See the /home/agraph/quicklisp/local-projects/wordnet-editor/suggestions.lisp 
+   the comment about search-suggestions.
+
+4. Over in WORDNET-EDITOR, execute the method (PROCESS-SUGGESTIONS).
 
    $ /usr/local/agraph/bin/agraph-backup backup wn30 <filename>
    $ mlisp
